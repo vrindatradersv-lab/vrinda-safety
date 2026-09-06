@@ -16,6 +16,9 @@ export const metadata: Metadata = {
   title: "VRINDA SAFETY SOLUTIONS | Safety Today, Secure Tomorrow",
   description:
     "Manufacturer & supplier of Personal Protective Equipment, Safety Shoes, Road Safety and Lock-Out/Tag-Out products. Bawana Industrial Area, New Delhi.",
+  verification: {
+    google: "J8oEJXRob3_CMb6YMt4IsB4OVzfw5MevJ6BCv_nILVo",
+  },
 };
 
 export const viewport: Viewport = {

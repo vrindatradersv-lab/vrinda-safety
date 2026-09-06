@@ -76,8 +76,36 @@ export function Footer() {
         </div>
       </div>
 
+      {/* Regional & Local SEO Industrial Coverage */}
+      <div className="border-t border-navy-100 bg-navy-100/40 px-4 py-8 sm:px-6 lg:px-8">
+        <div className="mx-auto max-w-7xl space-y-4 text-xs text-navy-500">
+          <div>
+            <span className="font-bold uppercase tracking-wider text-navy-700">
+              Manufacturing &amp; Distribution Hub (Delhi NCR):{' '}
+            </span>
+            <span>
+              Bawana Industrial Area (Sector 1–5), Narela Industrial Zone, Kundli &amp; Rai (Sonipat), Okhla Industrial Area (Phases I–III), Mayapuri, Mangolpuri, Naraina, Kirti Nagar, Gurugram (Udyog Vihar &amp; Manesar IMT), Faridabad, Noida (Phases I &amp; II), Greater Noida, and Ghaziabad (Sahibabad). Same-day bulk dispatch available.
+            </span>
+          </div>
+          <div>
+            <span className="font-bold uppercase tracking-wider text-navy-700">
+              Key Industrial Product Lines:{' '}
+            </span>
+            <span>
+              Certified Steel-Toe Safety Shoes • ISI Mark Industrial Safety Helmets (Ratchet &amp; Nape) • High-Visibility Retro-Reflective Safety Vests &amp; Jackets • Full Body Fall Arrest Safety Harnesses &amp; Shock Absorber Lanyards • Industrial Lockout / Tagout (LOTO) Kits &amp; Station Boards • Heavy-Duty Traffic Cones, Speed Bumps &amp; Parking Wheel Stoppers • Debris Protection Safety Nets • Fire Extinguishers &amp; Emergency PPE.
+            </span>
+          </div>
+          <div className="text-[11px] text-navy-400">
+            <span>Also searched as: </span>
+            <span className="font-medium text-navy-500">
+              VRINDA SAFETY SOLUTIONS, Vrinda Safety, Verinda Tool, Vrinda Tools, Vrinda Traders Bawana, Safety Equipment Delhi NCR, Industrial PPE Wholesaler Delhi.
+            </span>
+          </div>
+        </div>
+      </div>
+
       <div className="border-t border-navy-100 py-5 text-center text-xs text-navy-400">
-        © {new Date().getFullYear()} {site.name}. All rights reserved.
+        © {new Date().getFullYear()} {site.name} ({site.domain}). All rights reserved.
       </div>
     </footer>
   );

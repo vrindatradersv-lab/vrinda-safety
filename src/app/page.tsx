@@ -159,8 +159,83 @@ export default function Home() {
           </div>
         </section>
 
+        {/* ─── REGIONAL INDUSTRIAL HUB & SEO SECTION ─────────── */}
+        <section className="bg-navy-50/50 py-16 sm:py-20 border-y border-navy-100/80">
+          <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+            <div className="text-center max-w-3xl mx-auto">
+              <span className="inline-flex items-center gap-2 rounded-full border border-brand-200 bg-brand-50 px-3 py-1 text-xs font-bold uppercase tracking-wider text-brand-600">
+                Delhi NCR Manufacturing Hub
+              </span>
+              <h2 className="mt-3 font-display text-2xl font-extrabold text-navy-900 sm:text-3xl lg:text-4xl">
+                Industrial Safety &amp; PPE Solutions for Delhi NCR &amp; Pan-India
+              </h2>
+              <p className="mt-3 text-sm leading-relaxed text-navy-500 sm:text-base">
+                Operating directly from <strong>Bawana Industrial Area Sector-5, New Delhi</strong>, <strong>VRINDA SAFETY SOLUTIONS</strong> (also recognized as <em>Vrinda Safety</em> and <em>Verinda Tool &amp; PPE</em>) manufactures and supplies complete industrial safety equipment, safety shoes, ISI helmets, and fall arrest systems with rapid dispatch across North India.
+              </p>
+            </div>
+
+            <div className="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+              <div className="rounded-2xl border border-navy-100 bg-white p-6 shadow-sm transition hover:shadow-md">
+                <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-brand-50 text-brand-600">
+                  <svg className="h-6 w-6" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
+                  </svg>
+                </div>
+                <h3 className="mt-4 font-display text-base font-bold text-navy-900">
+                  Bawana Factory Base
+                </h3>
+                <p className="mt-2 text-xs leading-relaxed text-navy-500">
+                  Direct manufacturing and bulk central warehouse at D-303, Sector-5, Bawana. Factory-direct pricing with zero middleman markups.
+                </p>
+              </div>
+
+              <div className="rounded-2xl border border-navy-100 bg-white p-6 shadow-sm transition hover:shadow-md">
+                <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-emerald-50 text-emerald-600">
+                  <svg className="h-6 w-6" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z" />
+                  </svg>
+                </div>
+                <h3 className="mt-4 font-display text-base font-bold text-navy-900">
+                  Same-Day NCR Dispatch
+                </h3>
+                <p className="mt-2 text-xs leading-relaxed text-navy-500">
+                  Fast delivery across Bawana, Narela, Kundli, Okhla, Gurugram, Manesar, Noida, Greater Noida, and Faridabad industrial belts.
+                </p>
+              </div>
+
+              <div className="rounded-2xl border border-navy-100 bg-white p-6 shadow-sm transition hover:shadow-md">
+                <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-blue-50 text-blue-600">
+                  <svg className="h-6 w-6" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
+                  </svg>
+                </div>
+                <h3 className="mt-4 font-display text-base font-bold text-navy-900">
+                  Tested &amp; Certified Standards
+                </h3>
+                <p className="mt-2 text-xs leading-relaxed text-navy-500">
+                  Products rigorously compliant with BIS / ISI standards (IS 2925, IS 15298, IS 3521) for maximum site safety and zero audit issues.
+                </p>
+              </div>
+
+              <div className="rounded-2xl border border-navy-100 bg-white p-6 shadow-sm transition hover:shadow-md">
+                <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-amber-50 text-amber-600">
+                  <svg className="h-6 w-6" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                  </svg>
+                </div>
+                <h3 className="mt-4 font-display text-base font-bold text-navy-900">
+                  Bulk Wholesale &amp; Tenders
+                </h3>
+                <p className="mt-2 text-xs leading-relaxed text-navy-500">
+                  Official GST invoicing, sample approvals, and custom branding for corporate procurement, EPC contractors, and government tenders.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+
         {/* ─── CTA BANNER ───────────────────────────────────────── */}
-        <section className="px-4 pb-24 sm:px-6 sm:pb-20 lg:px-8">
+        <section className="px-4 py-16 sm:px-6 sm:py-20 lg:px-8">
           <div className="relative mx-auto max-w-7xl overflow-hidden rounded-3xl bg-gradient-to-br from-navy-900 via-navy-900 to-brand-900 px-6 py-12 text-center sm:px-12 sm:py-16">
             <div className="pointer-events-none absolute -right-24 -top-24 h-64 w-64 rounded-full bg-brand-500/25 blur-3xl" />
             <div className="pointer-events-none absolute -bottom-24 -left-24 h-64 w-64 rounded-full bg-brand-500/15 blur-3xl" />

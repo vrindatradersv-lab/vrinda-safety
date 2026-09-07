@@ -3,6 +3,7 @@ import raw from './products-data.json';
 import { waLink } from './config';
 
 export const categories: Category[] = [
+  { id: 'frp-electrical-safety', name: 'FRP Electrical Safety & Access', blurb: 'High-voltage telescopic discharge rods, static earthing rods, 110kV rescue hooks & dielectric FRP ladders (IEC & ASTM).' },
   { id: 'head-protection', name: 'Head Protection', blurb: 'ISI-marked industrial safety helmets built to IS 2925:1984.' },
   { id: 'workwear', name: 'Safety Vests & Workwear', blurb: 'High-visibility jackets, coveralls and reflective workwear (IS 15809:2017).' },
   { id: 'foot-protection', name: 'Foot Protection', blurb: 'ISI & CE certified safety shoes, boots and gumboots (IS 15298).' },

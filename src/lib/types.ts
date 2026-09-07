@@ -1,4 +1,5 @@
 export type CategoryId =
+  | 'frp-electrical-safety'
   | 'head-protection'
   | 'workwear'
   | 'foot-protection'

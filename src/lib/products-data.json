@@ -1,5 +1,35 @@
 [
   {
+    "n": "AK-TDR1033 FRP Telescopic Discharge Rod (11kV - 33kV)",
+    "c": "frp-electrical-safety",
+    "i": "frp_telescopic_discharge_rod.png",
+    "t": "Voltage: 11kV to 33kV • 3 Telescopic Sections • Bayonet Pin-Type Locking Mechanism • Crocodile Teeth Grounding Clamp • Flexible Copper Earth Cable • High-Dielectric Insulated Fiberglass • Ergonomic Non-Slip Grip • Lengths: 10ft to 21ft • Tested to IEC & ASTM Standards • Essential for Substations & Switchyards"
+  },
+  {
+    "n": "AK-RH110 Insulated FRP Rescue Hook (110kV Dielectric)",
+    "c": "frp-electrical-safety",
+    "i": "insulated_rescue_hook.png",
+    "t": "Dielectric Strength: 110kV • Application: 11kV to 132kV Systems • 18\" Dip-Insulated Coated Hook Opening • 6ft High-Dielectric FRP Pole • Non-Conductive Emergency Victim Extraction • Rubber Base Handle Grip • Weatherproof & Corrosion Resistant • Standards: IEC & ASTM • Mandatory for High-Voltage Switchgear"
+  },
+  {
+    "n": "AK-SDR220 FRP Static Discharge Rod (220 kV/cm)",
+    "c": "frp-electrical-safety",
+    "i": "frp_static_discharge_rod.png",
+    "t": "Dielectric Strength: 220 kV/cm • Capacity: 11kV to 132kV • Copper Alloy Discharge Head • Flexible Earthing Cable with Heavy-Duty Earth Clamp • Shock-Proof Insulated Handle • Complete Substation Residual Energy Discharge • UV & Corrosion Resistant • Tested to IEC & ASTM"
+  },
+  {
+    "n": "AK-TFL170 Telescopic FRP Safety Ladder (170 kV Dielectric)",
+    "c": "frp-electrical-safety",
+    "i": "telescopic_frp_ladder.png",
+    "t": "Dielectric Strength: 170 kV • Extended Length: 10ft to 29ft (Closed Length: ~6ft) • 100% Non-Conductive FRP Side Rails • Anti-Slip Corrugated FRP Rungs • Load Capacity: 100kg to 150kg • Compact Collapsible Design for Easy Mobility • Fire-Retardant & Weather-Proof • Standards: IEC & ASTM"
+  },
+  {
+    "n": "AK-FEL360 FRP Extension Ladder with Aluminium Rungs",
+    "c": "frp-electrical-safety",
+    "i": "frp_extension_ladder.png",
+    "t": "2-Section Smooth Extension Design (10ft to 36ft) • High-Dielectric FRP Insulated Side Rails • D-Shape High-Strength Anti-Slip Aluminium Rungs • Heavy-Duty Stabilizer Feet for Firm Grip • Load Capacity: 80kg to 150kg+ • Weather, UV & Fire Resistant • Utility, Substation & Telecom Certified • Standards: IEC & ASTM"
+  },
+  {
     "n": "AK-H01 Industrial Safety Helmet (Nape Type)",
     "c": "head-protection",
     "i": "head-protection/head-protection-01.jpg",
@@ -10,6 +40,12 @@
     "c": "head-protection",
     "i": "head-protection/head-protection-02.jpg",
     "t": "ISI Marked (IS 2925:1984) • Premium HDPE shell • Extended ratchet adjustment mechanism • Extra impact protection to user's neck • Adjustable chin strap • Shock absorption certified"
+  },
+  {
+    "n": "AK-H03 Industrial Safety Helmet (Ratchet Type with Air Ventilators)",
+    "c": "head-protection",
+    "i": "head-protection/head-protection-03.jpg",
+    "t": "IS 2925:1984 & EN 397:2012 Certified • Durable High-Impact Shell with Protective Peak • Ventilators for Improved Airflow & All-Day Comfort • Adjustable Ratchet Head Harness (540mm-590mm) • Compatible with Ear Muffs & Face Shield • Multi-Color Options (White, Yellow, Green, Blue, Orange, Red, Grey)"
   },
   {
     "n": "100% Cotton Workwear Coverall",
@@ -396,6 +432,18 @@
     "t": "Specialized kit for high-rise tower technicians • AK-FP-56 Ergonomic Harness • AK-FL-361 Forked Lanyard with Scaffold Hooks • AK-WPL-242 Positioning Lanyard • Rope Grab • Tool & Carrying Bag"
   },
   {
+    "n": "AK-TPOD-01 Confined Space Fall Protection Tripod (7ft / 10ft)",
+    "c": "kits",
+    "i": "kits/kits-04.jpg",
+    "t": "EN 795:2012 Type-B Certified • High-Strength Telescopic Aluminum Alloy Legs • 7ft to 10ft Adjustable Height • 500 kg Safe Working Load • Integrated Anchorage Eye Bolts & Steel Safety Chain • Ideal for Manholes, Tanks & Silos"
+  },
+  {
+    "n": "AK-WIN-01 Heavy-Duty Man-Riding & Material Retrieval Winch",
+    "c": "kits",
+    "i": "kits/kits-05.jpg",
+    "t": "EN 1496:2017 Class-A Certified • 20m / 25m Galvanized Steel Wire Rope (6.3mm) • 135 kg Man-Riding Capacity / 250 kg Material Load • Dual Action Automatic Brake Mechanism • Universal Tripod Mounting Bracket Included"
+  },
+  {
     "n": "Safety Net - 2mm Double Cord",
     "c": "safety-nets",
     "i": "safety-nets/safety-nets-01.jpg",
@@ -436,6 +484,24 @@
     "c": "safety-nets",
     "i": "safety-nets/safety-nets-07.jpg",
     "t": "Maximum strength 3-layer safety net engineered for high-rise construction, industrial plants and bridge work • IS 5175 compliant"
+  },
+  {
+    "n": "AK-NET-010 Double Layer Fall Protection Safety Net (Braided 5mm + Containment Net)",
+    "c": "safety-nets",
+    "i": "safety-nets/safety-nets-08.jpg",
+    "t": "Dual-layer fall arrest & debris protection • Primary 5mm braided PP net (100mm mesh) with overlaid fine containment mesh • High UV resistance • High-rise building construction & scaffolding safety"
+  },
+  {
+    "n": "AK-NET-011 Double Layer Fall Protection Safety Net (Braided 5mm + Braided 2.5mm Net)",
+    "c": "safety-nets",
+    "i": "safety-nets/safety-nets-09.jpg",
+    "t": "Heavy dual braided structure • 5mm high-tenacity braided PP main fall net combined with 2.5mm braided debris net • 12mm reinforced border rope • Ideal for bridge construction & structural steel work"
+  },
+  {
+    "n": "AK-NET-012 Triple Layer Heavy Construction Safety Net (Braided 5mm + 2.5mm + 120 GSM Fabric)",
+    "c": "safety-nets",
+    "i": "safety-nets/safety-nets-10.jpg",
+    "t": "Ultimate 3-layer protection system • 5mm load-bearing braided fall arrest net + 2.5mm secondary net + 120 GSM monofilament dust/debris containment sheet • Maximum perimeter & pedestrian catchment safety"
   },
   {
     "n": "AK-801 Road Safety Cone (750mm)",
@@ -916,5 +982,41 @@
     "c": "ppe-misc",
     "i": "ppe-misc/ppe-misc-06.jpg",
     "t": "Lightweight adjustable overhead earmuffs with soft foam-filled cushions for industrial noise reduction (EN 352-1)"
+  },
+  {
+    "n": "AK-HP-01 Poly-Cotton PVC Dotted Safety Hand Gloves",
+    "c": "ppe-misc",
+    "i": "ppe-misc/ppe-misc-07.jpg",
+    "t": "Seamless poly-cotton knitted liner with heavy-duty PVC grip dots • High-friction anti-slip palm • Breathable, flexible and washable • Ideal for warehousing, packaging, material handling & general assembly"
+  },
+  {
+    "n": "AK-HP-02 Crinkled Latex Coated Knitted Work Gloves (Orange / Grey)",
+    "c": "ppe-misc",
+    "i": "ppe-misc/ppe-misc-08.jpg",
+    "t": "EN 388 Certified • High-grade crinkle textured latex palm coating on 10-gauge poly-cotton shell • Superior grip in wet & dry conditions • Puncture & abrasion resistant for construction and masonry work"
+  },
+  {
+    "n": "AK-HP-03 Heavy Latex Coated Low-Lint Work Gloves (Red / Grey)",
+    "c": "ppe-misc",
+    "i": "ppe-misc/ppe-misc-09.jpg",
+    "t": "EN 388 Certified • 10-gauge low-lint grey knitted yarn with thick textured red latex dip • High tear and abrasion resistance • Ergonomic curved fingers for heavy fabrication, mining & steel handling"
+  },
+  {
+    "n": "AK-HP-04 Nitrile Palm-Coated Precision Handling Gloves (Black / Orange)",
+    "c": "ppe-misc",
+    "i": "ppe-misc/ppe-misc-10.jpg",
+    "t": "EN 388 Certified • 13-gauge seamless nylon/polyester liner with micro-foam nitrile palm coat • Superior tactile sensitivity & oil grip • Excellent breathability for automotive, precision machining & logistics"
+  },
+  {
+    "n": "AK-HP-05 75% Back-Dip Nitrile Coated Heavy Industrial Gloves (Blue / Yellow)",
+    "c": "ppe-misc",
+    "i": "ppe-misc/ppe-misc-11.jpg",
+    "t": "EN 388 Certified • Heavy 3/4 dip liquid-proof blue nitrile coating on durable cotton jersey liner • Enhanced knuckle protection • Resistant to oils, greases, solvents & abrasives in harsh plant environments"
+  },
+  {
+    "n": "AK-HP-06 Extended 7\" Long Cuff Heavy Nitrile Chemical Gloves (Blue)",
+    "c": "ppe-misc",
+    "i": "ppe-misc/ppe-misc-12.jpg",
+    "t": "EN 388 & EN 374 Certified • 100% industrial nitrile compound with 7-inch extended safety cuff • Protects wrists and forearms against chemical splashes, oils, greases & solvents • Heavy-duty dip with safety gauntlet"
   }
 ]

@@ -345,7 +345,7 @@
     "n": "AK-FP-57 Tower Climbing Safety Harness",
     "c": "harnesses",
     "i": "harnesses/harnesses-02.jpg",
-    "t": "Durable & Lightweight Tower Harness for Vertical Climbing • Dorsal & Sternal Attachment Points • Ergonomic Back Pad & Extension Band Option (IND-FP-57 E) • Conforms to IS 3521"
+    "t": "Durable & Lightweight Tower Harness for Vertical Climbing • Dorsal & Sternal Attachment Points • Ergonomic Back Pad & Extension Band Option (AK-FP-57 E) • Conforms to IS 3521"
   },
   {
     "n": "AK-FP-45 Robust Full-Body Safety Harness",
@@ -549,7 +549,7 @@
     "n": "AK-WPL-241 Work Positioning Lanyard",
     "c": "harnesses",
     "i": "harnesses/harnesses-36.jpg",
-    "t": "14mm Polyamide Twisted Rope Lanyard • Ergonomic Steel Rope Grab Adjuster • Protective Wear Sleeve • Equipped with Screw-Lock Carabiner (IND-HC-112) • Conforms to EN 358"
+    "t": "14mm Polyamide Twisted Rope Lanyard • Ergonomic Steel Rope Grab Adjuster • Protective Wear Sleeve • Equipped with Screw-Lock Carabiner (AK-HC-112) • Conforms to EN 358"
   },
   {
     "n": "AK-FL-341 Forked Webbing Energy Absorbing Lanyard",
@@ -618,31 +618,31 @@
     "t": "Y-Shaped Twin Tool Lanyard • 20mm Tubular Webbing • Relaxed Length: 90cm • Extended Length: 135cm • Holds 2 Tools Up to 10kg Each • Light-Weight Carabiner Included • Attaches to Waist Belt or Harness • Prevents Accidental Tool Drops at Height • Durable Elasticated Webbing"
   },
   {
-    "n": "AK-KIT-651 Maintenance & Window Cleaning Safety Kit",
+    "n": "AK-KIT-651 Maintenance and Window Cleaning Kit",
     "c": "kits",
     "i": "kits/kits-01.jpg",
-    "t": "Complete High-Altitude Maintenance Kit • Includes: IND-FP-56 Full Body Harness, IND-2000A Rope Grab, 50m Anchorage Rope (IND-950), 2x Anchorage Slings (IND-AWS-803), 2x Carabiners (IND-HC-112), High-Grip Gloves (IND-HP-04) & Heavy-Duty Kit Bag"
+    "t": "Complete High-Altitude Maintenance Kit • Includes: AK-FP-56 Full Body Harness, AK-2000A Rope Grab, 50m Anchorage Rope (AK-950), 2x Anchorage Slings (AK-AWS-803), 2x Carabiners (AK-HC-112), High-Grip Gloves (AK-HP-04) & Heavy-Duty Kit Bag"
   },
   {
-    "n": "AK-KIT-652 Basic Rescue Safety Kit",
+    "n": "AK-KIT-652 Basic Rescue Kit",
     "c": "kits",
     "i": "kits/kits-02.jpg",
-    "t": "Immediate Post-Fall Rescue Solution • Includes: IND-FP-56 Rescue Harness, IND-2000A Guided Arrester, 50m Polyamide Lifeline (IND-950), Forked Energy Absorbing Lanyard (IND-FL-351), Work Positioning Lanyard (IND-WPL-242), 2x Anchorage Slings, 2x Carabiners & Portable Duffel Bag"
+    "t": "Immediate Post-Fall Rescue Solution • Includes: AK-FP-56 Rescue Harness, AK-2000A Guided Arrester, 50m Polyamide Lifeline (AK-950), Forked Energy Absorbing Lanyard (AK-FL-351), Work Positioning Lanyard (AK-WPL-242), 2x Anchorage Slings, 2x Carabiners & Portable Duffel Bag"
   },
   {
-    "n": "AK-KIT-653 Telecom Tower Climbing Safety Kit",
+    "n": "AK-KIT-653 Telecom Tower Climbing Kit",
     "c": "kits",
     "i": "kits/kits-03.jpg",
-    "t": "Engineered for High-Rise Telecom Towers & Transmission Pylons • Includes: IND-FP-56 Tower Harness, Forked Lanyard with 55mm Scaffold Hooks (IND-FL-351), Work Positioning Lanyard (IND-WPL-242), Rope Grab (IND-2000A), 50m Vertical Lifeline, Carabiners, High-Grip Gloves & Rugged Backpack"
+    "t": "Engineered for High-Rise Telecom Towers & Transmission Pylons • Includes: AK-FP-56 Tower Harness, Forked Lanyard with 55mm Scaffold Hooks (AK-FL-351), Work Positioning Lanyard (AK-WPL-242), Rope Grab (AK-2000A), 50m Vertical Lifeline, Carabiners, High-Grip Gloves & Rugged Backpack"
   },
   {
-    "n": "AK-TPOD-01 Confined Space Fall Protection Tripod (7ft / 10ft)",
+    "n": "AK-TPOD-01(DP)(7FT) Confined Space Tripod",
     "c": "kits",
     "i": "kits/kits-04.jpg",
     "t": "Aluminum Alloy Telescopic Confined Space Tripod • Working Height: 7ft (Extends to 10ft) • Safe Working Load: 500 kg • Integrated Stainless Steel Head Pulleys & Secondary Anchor Eye • Auto-Locking Safety Leg Pins & Safety Chain • Conforms to EN 795 Class B"
   },
   {
-    "n": "AK-WIN-01 Heavy-Duty Man-Riding & Material Retrieval Winch",
+    "n": "AK-WIN-01 Confined Space Retrieval Winch",
     "c": "kits",
     "i": "kits/kits-05.jpg",
     "t": "Dual-Function Man-Riding & Material Retrieval Winch • 20m Galvanized Steel Cable (6.3mm) • Automatic Mechanical Brake with Secondary Inertia Stop • Gear Ratio: 5:1 for Effortless Winding • Working Load: 140 kg (Personnel), 300 kg (Material) • Mounts Directly to Tripod Leg • Conforms to EN 1496"
@@ -651,13 +651,13 @@
     "n": "AK-KIT-654 Confined Space Entry Kit",
     "c": "kits",
     "i": "kits/kits-06.jpg",
-    "t": "Complete Confined Space Manhole & Silo Access Kit • Includes: IND-TPOD-01 Tripod (7ft), IND-WIN-01 Retrieval Winch (10m), IND-FP-19 Confined Space Retrieval Harness, Retractable Block (IND-RB-10) & Steel Carabiners"
+    "t": "Complete Confined Space Manhole & Silo Access Kit • Includes: AK-TPOD-01 Tripod (7ft), AK-WIN-01 Retrieval Winch (10m), AK-FP-19 Confined Space Retrieval Harness, Retractable Block (AK-RB-10) & Steel Carabiners"
   },
   {
-    "n": "AK-KIT-667 Painter Safety Kit",
+    "n": "AK-KIT-667 Painter Kit",
     "c": "kits",
     "i": "kits/kits-07.jpg",
-    "t": "Exterior Facade & Painting Fall Arrest Kit • Includes: IND-FP-56 Harness, Rope Grab Arrester (IND-2000A), 50m Polyamide Lifeline (IND-950), Anchorage Slings, Carabiners & Heavy-Duty Carry Bag"
+    "t": "Exterior Facade & Painting Fall Arrest Kit • Includes: AK-FP-56 Harness, Rope Grab Arrester (IND-2000A), 50m Polyamide Lifeline (AK-950), Anchorage Slings, Carabiners & Heavy-Duty Carry Bag"
   },
   {
     "n": "AK-NET-001 PPMF Knotless Safety Net for Human Fall Arrest",
@@ -984,444 +984,6 @@
     "t": "Overhead Cantilever & Gantry Road Sign Boards • Micro-Prismatic Retro-Reflective Surface on Weatherproof Aluminium Substrate • High Contrast Legibility for Highway Speeds & Night Driving • Meets MoRTH Guidelines"
   },
   {
-    "n": "AK-ACB-37 Multipurpose Electrical Panel Lockout",
-    "c": "loto",
-    "i": "loto/loto-01.jpg",
-    "t": "Multipurpose Electrical Panel Lockout Device • Made in Two Parts with Locking Arrangement • Material: Sturdy Plastic • Color: Colourless • Weight: 20gms • Width: 29mm • Height: 34mm"
-  },
-  {
-    "n": "AK-VCB-39 Mini Electrical Panel Lockout",
-    "c": "loto",
-    "i": "loto/loto-02.jpg",
-    "t": "Mini Electrical Panel Lockout Device • Made in Two Parts with Locking Arrangement • Material: Sturdy Plastic • Color: Colourless • Weight: 45gms • Size: L43 x W42 x H40mm"
-  },
-  {
-    "n": "AK-EN-40 Electrical Panel Lockout with Chain",
-    "c": "loto",
-    "i": "loto/loto-03.jpg",
-    "t": "Electrical Panel Lockout Multi Devices with Chain • Material: Sturdy Plastic • Color: Colourless • Weight: 60gms • Size: L44 x W44 x H60mm"
-  },
-  {
-    "n": "AK-EH-41 Electrical Panel Lockout (Multi Devices-Outer Circular)",
-    "c": "loto",
-    "i": "loto/loto-04.jpg",
-    "t": "Electrical Panel Lockout Multi Devices-Outer Circular Base with Provision of Hole in Base Part • Material: Sturdy Plastic • Color: Colourless • Box Dia: 84mm • Box Height: 70mm • Height: 76mm • No. of Holes: 2 • Weight: 120gms"
-  },
-  {
-    "n": "AK-EH-42 Electrical Panel Lockout (Outer Circular Base)",
-    "c": "loto",
-    "i": "loto/loto-05.jpg",
-    "t": "Electrical Panel Lockout Multi Devices-Outer Circular Base with Provision of Hole in Base Part • Material: Sturdy Plastic • Color: Colourless • High Impact Resistance"
-  },
-  {
-    "n": "AK-PL-46 Push Button & Rotary Switch Lockout",
-    "c": "loto",
-    "i": "loto/loto-06.jpg",
-    "t": "Electrical Panel Lockout Device Most Appropriate for Oversized Electrical Push Button on Electrical Panel • Material: Sturdy Plastic • Color: Colourless • Weight: 88gms • Circle Dia: 70mm • Height: 80mm • No. of Holes: 2"
-  },
-  {
-    "n": "AK-ACB-36 Air Circuit Breaker Lockout Kit",
-    "c": "loto",
-    "i": "loto/loto-07.jpg",
-    "t": "Air Circuit Breaker Lockout Kit • Rail & Bars Made from Moulded ABS Plastic • Color: Red, Yellow, Green • Weight: 52gms • Size: L100 x W18 x H09mm • 7.5\" Long Red & Green Blocking Bar Included"
-  },
-  {
-    "n": "AK-VCB-38 Shut Down VCB Box",
-    "c": "loto",
-    "i": "loto/loto-08.jpg",
-    "t": "Shut Down VCB Box Lockout Device • Material: Mild Steel and Acrylic Sheet • Color: Grey • Weight: 340gms • Size: L160 x W100 x H32.5mm • For VCB Switchgear Isolation"
-  },
-  {
-    "n": "AK-HPL-43 Electrical Handle Lockout",
-    "c": "loto",
-    "i": "loto/loto-09.jpg",
-    "t": "Electrical Handle Lockout with Padlock Out & Without Padlock Out • Made of Three Parts • Material: ABS Material + Steel • Color: Red & Yellow • Weight: 40gms • Sticky Part Dia: 66mm • Strip Width: 20mm"
-  },
-  {
-    "n": "AK-MCCB-44 Large Circuit Breaker Lockout",
-    "c": "loto",
-    "i": "loto/loto-10.jpg",
-    "t": "Large Circuit Breaker Lockout with Provision of Moulded Teeth for Strong Grip • Material: ABS Material • Color: Red • Weight: 68gms • Length: 70mm • Circle Dia: 60mm • Height Open: 115mm • Height Closed: 100mm"
-  },
-  {
-    "n": "AK-MCCB-45 Large Circuit Breaker Lockout (Adjustable Screw)",
-    "c": "loto",
-    "i": "loto/loto-11.jpg",
-    "t": "Large Circuit Breaker Lockout with Provision of Moulded Teeth for Strong Grip & Adjustable Screw • Easily Fitted on Lever of Circuit Breaker • Material: ABS Material • Color: Red • Weight: 38gms • Size: L70 x W40 x H10mm"
-  },
-  {
-    "n": "AK-MCB-51(F-S) Mini Circuit Breaker Lockout (Self-Adjustable)",
-    "c": "loto",
-    "i": "loto/loto-12.jpg",
-    "t": "Mini Circuit Breaker Lockout Device with Self Adjustable Screw • Material: Sturdy Plastic • Color: Yellow • Weight: 16gms • Size: L15 x W25 x H55mm • For Single Pole Circuit Breakers"
-  },
-  {
-    "n": "AK-MCB-51 Miniature Circuit Breaker (MCB) Lockout",
-    "c": "loto",
-    "i": "loto/loto-13.jpg",
-    "t": "Mini Circuit Breaker Lockout Device • Material: Sturdy Plastic • Color: Yellow • Weight: 7gms • Size: L10 x W25 x H45mm • Quick Installation for Single & Multi-Pole Breakers"
-  },
-  {
-    "n": "AK-UCBL-53 Universal Circuit Breaker Lockout",
-    "c": "loto",
-    "i": "loto/loto-14.jpg",
-    "t": "Universal Circuit Breaker Lockout Device • Material: Sturdy Plastic • Color: Red • Weight: 12gms • Size: L20 x W25 x H55mm • Secure Grip on Wide or High-Toggle Switches"
-  },
-  {
-    "n": "AK-UCBL-53(F-S) Universal Circuit Breaker Lockout (Self-Adjustable)",
-    "c": "loto",
-    "i": "loto/loto-15.jpg",
-    "t": "Universal Circuit Breaker Lockout Device with Self-Adjustable Mechanism • Material: Sturdy Plastic • Color: Red • Weight: 15gms • Size: L22 x W25 x H55mm"
-  },
-  {
-    "n": "AK-UCBL-54 Large Universal Circuit Breaker Lockout",
-    "c": "loto",
-    "i": "loto/loto-16.jpg",
-    "t": "Universal Circuit Breaker Lockout (Large) • Material: Sturdy Plastic • Color: Red • For Heavy Duty Industrial Switchgear"
-  },
-  {
-    "n": "AK-UCBL-54(F-S) Large Universal Circuit Breaker Lockout (Self-Adjustable)",
-    "c": "loto",
-    "i": "loto/loto-17.jpg",
-    "t": "Universal Circuit Breaker Lockout (Large with Self-Adjustable Screw) • Material: Sturdy Plastic • Color: Red • Heavy Duty Switchgear Isolation"
-  },
-  {
-    "n": "AK-CBL-55 Pin Out Circuit Breaker Lockout (Yellow)",
-    "c": "loto",
-    "i": "loto/loto-18.jpg",
-    "t": "Pin Out Circuit Breaker Lockout Device - Pin Type Lockout Most Suitable for MCB Switch • Material: Sturdy Plastic & High Tensile Metallic Pin and Spring • Color: Yellow • Weight: 8gms • Size: L10 x W26 x H43mm"
-  },
-  {
-    "n": "AK-CBL-56 Pin In Circuit Breaker Lockout (Green)",
-    "c": "loto",
-    "i": "loto/loto-19.jpg",
-    "t": "Pin In Circuit Breaker Lockout Device - Pin Type Lockout Most Suitable for MCB Switch • Material: Sturdy Plastic & High Tensile Metallic Pin and Spring • Color: Green • Weight: 7gms • Size: L23 x W25 x H40mm"
-  },
-  {
-    "n": "AK-CBL-57 Pin Out Circuit Breaker Lockout (Blue)",
-    "c": "loto",
-    "i": "loto/loto-20.jpg",
-    "t": "Pin Out Circuit Breaker Lockout Device - Pin Type Lockout Most Suitable for MCB Switch • Material: Sturdy Plastic & High Tensile Metallic Pin and Spring • Color: Blue • Weight: 7gms • Size: L24 x W25 x H42mm"
-  },
-  {
-    "n": "AK-CBL-59 Mini Circuit Breaker Lockout (Screw Type)",
-    "c": "loto",
-    "i": "loto/loto-21.jpg",
-    "t": "Mini Circuit Breaker Lockout Device with Screw - Suitable for Single Pole with Small Curvature Knob • Material: Sturdy Plastic • Color: Green • Weight: 7gms • Size: L23 x W25 x H40mm"
-  },
-  {
-    "n": "AK-HS-67 Safety Lockout Hasp (Steel with Vinyl Coating)",
-    "c": "loto",
-    "i": "loto/loto-22.jpg",
-    "t": "Safety Lockout HASP Best Recommended for Electrical Panel & MCB • Material: Mild Steel with Vinyl Moulded Coating on Grip • Color: Red, Green, Blue, Yellow • Weight: 96gms • Total Height: 120mm • Opening: 25mm • Shackle Height: 60mm • Padlock Holes: 6"
-  },
-  {
-    "n": "AK-HS-68 Safety Lockout Hasp (Extended Shackle)",
-    "c": "loto",
-    "i": "loto/loto-23.jpg",
-    "t": "Safety Lockout HASP Best Recommended for Electrical Panel & MCB • Material: Mild Steel with Vinyl Moulded Coating on Grip • Color: Red, Green, Blue, Yellow • Weight: 96gms • Total Height: 120mm • Opening: 27mm • Shackle Height: 73mm • Padlock Holes: 6"
-  },
-  {
-    "n": "AK-HS-69 Safety Lockout Hasp (Mild Steel Silver)",
-    "c": "loto",
-    "i": "loto/loto-24.jpg",
-    "t": "Safety Lockout HASP Best Recommended for Electrical Panel & MCB • Material: Mild Steel • Color: Metallic Silver • Weight: 33gms • Total Height: 110mm • Opening: 39mm • Shackle Height: 60mm • Padlock Holes: 6"
-  },
-  {
-    "n": "AK-HN-71 Multi Device Lockout Hasp (43mm Jaw)",
-    "c": "loto",
-    "i": "loto/loto-25.jpg",
-    "t": "Multi Device HASP Ideal for Electrical Panels, MCB Switches and Panel Handles • Material: Sturdy Plastic • Color: Red, Yellow • Weight: 16gms • Jaw Size: 43mm • Opening: 18mm • Total Height: 130mm • Shackle Height: 62mm"
-  },
-  {
-    "n": "AK-HN-72 Multi Device Lockout Hasp (38mm Jaw)",
-    "c": "loto",
-    "i": "loto/loto-26.jpg",
-    "t": "Multi Device HASP Ideal for Electrical Panels, MCB Switches and Panel Handles • Material: Sturdy Plastic • Color: Red, Yellow • Weight: 19gms • Jaw Size: 38mm • Opening: 42mm • Total Height: 155mm • Shackle Height: 60mm"
-  },
-  {
-    "n": "AK-HN-73 Multi Device Lockout Hasp (31mm Jaw)",
-    "c": "loto",
-    "i": "loto/loto-27.jpg",
-    "t": "Multi Device HASP Ideal for Electrical Panels, MCB Switches and Panel Handles • Material: Sturdy Plastic • Color: Red • Weight: 21gms • Jaw Size: 31mm • Shackle Width: 37mm • Shackle Height: 78mm"
-  },
-  {
-    "n": "AK-SLDH-75 Steel Safety Lockout Hasp",
-    "c": "loto",
-    "i": "loto/loto-28.jpg",
-    "t": "Lockout HASP Best Recommended for Electrical Panel, MCB etc. • Material: Sturdy Plastic • Color: Red, Yellow • Weight: 32gms • Jaw Size: 20mm • Shackle Width: 45mm • Total Height: 110mm • Shackle Height: 25mm"
-  },
-  {
-    "n": "AK-SLDH-76 Dielectric Safety Lockout Hasp",
-    "c": "loto",
-    "i": "loto/loto-29.jpg",
-    "t": "HASP Best Recommended for Electrical Panels, MCB etc. • Material: Sturdy Plastic • Color: Red, Yellow • Weight: 35gms • Jaw Size: 20mm • Shackle Width: 45mm • Total Height: 115mm • Shackle Height: 30mm"
-  },
-  {
-    "n": "AK-UEL-91 Universal Multi Device Cylinder Lockout",
-    "c": "loto",
-    "i": "loto/loto-30.jpg",
-    "t": "Universal Multi Device Lockout Device for Cylinder Isolation - Round Type • Material: Sturdy Plastic • Color: Red • Weight: 356gms • Height: 165mm • Size: L110 x B150 x H250mm • Upper Dia: 35mm"
-  },
-  {
-    "n": "AK-LPG-92 Mini Plug Cord Lockout",
-    "c": "loto",
-    "i": "loto/loto-31.jpg",
-    "t": "Mini Plug Cord Lockout to Protect from Unexpected Start Up of Machinery or Electric Circuit • Material: Sturdy Plastic • Color: Red • Weight: 126gms • Height: 150mm • Size: L90 x W55 x H55mm"
-  },
-  {
-    "n": "AK-MP-95 Universal Multi Device Lockout Product",
-    "c": "loto",
-    "i": "loto/loto-32.jpg",
-    "t": "Universal Multi Device Lockout Product for Cylinder Isolation • Material: Sturdy Plastic • Color: Red, Yellow • Weight: 80gms • Upper Dia: 90mm • Lower Dia: 42mm"
-  },
-  {
-    "n": "AK-MWD-26 Multipurpose Cable Lockout Device (HASP Type)",
-    "c": "loto",
-    "i": "loto/loto-33.jpg",
-    "t": "Multipurpose Cable Lockout Device Used as HASP and Cable Lockout • Upper Part: ABS Composition with 6 Holes for Locking & Slot for Gripping Insulated Cable • Provided with 2.5mtr Insulated Cable • Color: Red, Yellow • Weight: 188gms • Height: 150mm • Width: 60mm"
-  },
-  {
-    "n": "AK-MSD-28 Multipurpose Cable Lockout Device",
-    "c": "loto",
-    "i": "loto/loto-34.jpg",
-    "t": "Multipurpose Cable Lockout Device Used to Lockout Electrical and Mechanical Devices • Material: ABS Material in Two Parts Having 6 Holes with 2mtr Steel Cable with Insulation • Color: Red • Weight: 100gms • Height: 123mm • Width: 50mm • Opening Length: 227mm"
-  },
-  {
-    "n": "AK-MSD-29 Multipurpose Cable Lockout Device (Circular)",
-    "c": "loto",
-    "i": "loto/loto-35.jpg",
-    "t": "Multipurpose Cable Lockout Device in Circular Shape Used to Lockout Electrical and Mechanical Devices • Material: ABS Material in Two Parts with 6 Holes & 2mtr Steel Cable with Insulation • Color: Red • Weight: 107gms • Height: 57mm • Width: 26mm"
-  },
-  {
-    "n": "AK-ULD-21 Universal Valve Lockout Device",
-    "c": "loto",
-    "i": "loto/loto-36.jpg",
-    "t": "Universal Valve Lockout Device - Perfect for Locking All Type Valves • Material: Sturdy Plastic • Color: Red • Weight: 253gms • Height: 170mm • Width: 80mm"
-  },
-  {
-    "n": "AK-ULD-22 Universal Valve Lockout (with Insulated Cable)",
-    "c": "loto",
-    "i": "loto/loto-37.jpg",
-    "t": "Universal Valve Lockout Device with Insulated Cable to Lock Wheel/Gate Valve & Ball Valve • Material: ABS + METAL Part + Spring + PU • Color: Red • Weight: 330gms • Height: 165mm • Width: 80mm • Cable Length: 2.5mtr"
-  },
-  {
-    "n": "AK-ULD-23 Universal Valve Lockout (Single Long Arm)",
-    "c": "loto",
-    "i": "loto/loto-38.jpg",
-    "t": "Universal Valve Lockout Device Having One Long Arm Used to Lockout Ball Valve • Material: ABS + METAL Part + Spring + PU • Color: Red • Weight: 430gms • ULD Height: 165mm • Width: 50mm • Long Arm Height: 150mm • Total Height: 240mm / 170mm"
-  },
-  {
-    "n": "AK-ULD-24 Universal Valve Lockout (Double Long Arm)",
-    "c": "loto",
-    "i": "loto/loto-39.jpg",
-    "t": "Universal Valve Lockout Device Having Double Long Arm Used to Lockout Ball Valve • Material: ABS + METAL Part + Spring + PU • Color: Red • Weight: 665gms • ULD Height: 170mm • Width: 60mm • Long Arm Height: 200mm • Total Height: 300mm / 390mm"
-  },
-  {
-    "n": "AK-GVL-02-W Gate Valve Lockout Device (1\" to 2.5\")",
-    "c": "loto",
-    "i": "loto/loto-40.jpg",
-    "t": "Gate Valve Lockout Device Made in Two Parts with Arrangement for Locking Gate Valves • Rotates Freely Around Hand Wheel to Prevent Operation • Material: Sturdy Plastic • Color: Red • Weight: 54gms • Height: 76mm • Valve Dia: 100mm • Hole Dia: 30mm • Valve Width: 35mm"
-  },
-  {
-    "n": "AK-GVL-04-W Gate Valve Lockout Device (2.5\" to 5\")",
-    "c": "loto",
-    "i": "loto/loto-41.jpg",
-    "t": "Gate Valve Lockout Device Made in Two Parts with Arrangement for Locking Gate Valves • Material: Sturdy Plastic • Color: Red • Weight: 176gms • Height: 90mm • Valve Dia: 160mm • Hole Dia: 50mm • Valve Width: 40mm"
-  },
-  {
-    "n": "AK-AGVL-06-W Adjustable Gate Valve Lockout Device",
-    "c": "loto",
-    "i": "loto/loto-42.jpg",
-    "t": "Gate Valve Lockout Device Made in Two Parts - Once Locked Rotates Freely Around Hand Wheel • Material: Sturdy Plastic • Color: Red, Yellow • Weight: 256gms • Height: 100mm • Size: L250 x W140 x H54mm • Padlock Holes: 3"
-  },
-  {
-    "n": "AK-GVL-08-W Gate Valve Lockout Device (5\" to 7.5\")",
-    "c": "loto",
-    "i": "loto/loto-43.jpg",
-    "t": "Gate Valve Lockout Device Made in Two Parts with Arrangement for Locking Gate Valves • Material: Sturdy Plastic • Color: Red • Weight: 670gms • Valve Dia: 250mm • Hole Dia: 70mm • Valve Width: 60mm"
-  },
-  {
-    "n": "AK-GVL-10-W Large Gate Valve Lockout Device (7.5\" to 10\")",
-    "c": "loto",
-    "i": "loto/loto-44.jpg",
-    "t": "Large Gate Valve Lockout Device Made in Two Parts with Arrangement for Locking Gate Valves • Material: Sturdy Plastic • Color: Red • Weight: 1200gms • Valve Dia: 380mm • Hole Dia: 100mm • Valve Width: 60mm"
-  },
-  {
-    "n": "AK-MUSHROOM Mushroom Valve Lockout Device",
-    "c": "loto",
-    "i": "loto/loto-45.jpg",
-    "t": "Mushroom Lockout Made in Two Parts with Arrangement for Locking Valves • Rotates Freely Around Hand Wheel • Material: Sturdy Plastic • Color: White, Red • Weight: 280gms • Height: 75mm • Open Length: 275mm • Close Length: 165mm • Valve Width: 35mm"
-  },
-  {
-    "n": "AK-BVL-11 Ball Valve Lockout Device (Standard)",
-    "c": "loto",
-    "i": "loto/loto-46.jpg",
-    "t": "Ball Valve Lockout Device with Double Legs • Hole on Both Parts Will Match and Multi Lock Can Be Used at Time of Isolation • 6 Locks at a Time Can Be Used Without Group Lockout Devices • Material: Sturdy Plastic • Color: Red • Weight: 225gms • Open Length: 240mm • Close Length: 150mm"
-  },
-  {
-    "n": "AK-BVL-12 Ball Valve Lockout Device (7 Locks)",
-    "c": "loto",
-    "i": "loto/loto-47.jpg",
-    "t": "Ball Valve Lockout Device with Double Legs • 7 Locks at a Time Can Be Used Without Group Lockout Devices • Material: Sturdy Plastic • Color: Red • Weight: 230gms • Open Length: 230mm • Close Length: 200mm"
-  },
-  {
-    "n": "AK-BVL-13 Ball Valve Lockout Device (Large)",
-    "c": "loto",
-    "i": "loto/loto-48.jpg",
-    "t": "Ball Valve Lockout Device with Double Legs • 6 Locks at a Time Can Be Used Without Group Lockout Devices • Material: Sturdy Plastic • Color: Red • Weight: 230gms • Height: 100mm • Open Length: 300mm • Close Length: 220mm"
-  },
-  {
-    "n": "AK-BVL-14 Ball Valve Lockout Device (Large 7 Locks)",
-    "c": "loto",
-    "i": "loto/loto-49.jpg",
-    "t": "Ball Valve Lockout Device with Double Legs • 7 Locks at a Time Can Be Used Without Group Lockout Devices • Material: Sturdy Plastic • Color: Red • Weight: 160gms • Open Length: 300mm"
-  },
-  {
-    "n": "AK-BFL-16 Butterfly Valve Lockout Device",
-    "c": "loto",
-    "i": "loto/loto-50.jpg",
-    "t": "Butterfly Valve Lockout Device • Holes on Both Parts Will Match and Multi Lock Can Be Used at Time of Isolation • 12 Locks at a Time Can Be Used Without Group Lockout Devices • Material: Sturdy Plastic • Color: Red • Weight: 54gms • Open Length: 120mm"
-  },
-  {
-    "n": "AK-JPL-101 Safety Lockout Padlock (Long Shackle)",
-    "c": "loto",
-    "i": "loto/loto-51.jpg",
-    "t": "Padlock Long Shackle with De-Electric ABS Cover, Photo Labels & Different Key Ring • 3 Keys Provided • Lock & Shackle: Strong Steel + ABS Cover • Color: Red, Blue, Yellow, Green • Weight: 95gms • Height: 110mm • Width: 45mm • Shackle Height (Closed): 63mm • Shackle Width (Closed): 20mm"
-  },
-  {
-    "n": "AK-JPL-102 Safety Lockout Padlock (Compact)",
-    "c": "loto",
-    "i": "loto/loto-52.jpg",
-    "t": "Padlock De-Electric ABS Cover with Photo Labels & Different Key Ring • 3 Keys Provided • Lock & Shackle: Strong Steel + ABS Cover • Color: Red, Blue, Yellow, Green • Weight: 150gms • Height: 61mm • Width: 43mm • Shackle Height (Closed): 20mm • Shackle Width (Closed): 20mm"
-  },
-  {
-    "n": "AK-JPL-103 Safety Lockout Padlock (Mini Shackle)",
-    "c": "loto",
-    "i": "loto/loto-53.jpg",
-    "t": "Padlock Long Shackle with De-Electric ABS Cover, Photo Labels & Different Key Ring • 3 Keys Provided • Material: Strong Steel + ABS Cover • Color: Red, Blue, Yellow, Green • Weight: 76gms • Height: 53mm • Width: 36mm • Shackle Height (Closed): 15mm • Shackle Width (Closed): 15mm"
-  },
-  {
-    "n": "AK-JPL-104 Safety Lockout Padlock (Medium)",
-    "c": "loto",
-    "i": "loto/loto-54.jpg",
-    "t": "Padlock De-Electric ABS Cover with Photo Labels & Different Key Ring • 3 Keys Provided • Lock & Shackle: Strong Steel + ABS Cover • Color: Red, Blue, Yellow, Green • Weight: 81gms • Height: 83mm • Width: 36mm • Shackle Height (Closed): 45mm • Shackle Width (Closed): 16mm"
-  },
-  {
-    "n": "AK-JPL-105 Safety Lockout Padlock (Heavy Duty)",
-    "c": "loto",
-    "i": "loto/loto-55.jpg",
-    "t": "Padlock Long Shackle with De-Electric ABS Cover, Photo Labels & Different Key Ring • 3 Keys Provided • Lock & Shackle: Strong Steel + ABS Cover • Color: Red, Blue, Yellow, Green • Weight: 154gms • Height: 100mm • Width: 50mm • Shackle Height (Closed): 60mm • Shackle Width (Closed): 30mm"
-  },
-  {
-    "n": "AK-JPL-107 Safety Lockout Padlock",
-    "c": "loto",
-    "i": "loto/loto-56.jpg",
-    "t": "Padlock Long Shackle with De-Electric ABS Cover, Photo Labels & Different Key Ring • 3 Keys Provided • Lock & Shackle: Strong Steel + ABS Cover • Color: Red, Blue, Yellow, Green • Weight: 114gms • Height: 90mm • Width: 43mm • Shackle Height (Closed): 40mm • Shackle Width (Closed): 20mm"
-  },
-  {
-    "n": "AK-JPL-107(PS) Safety Lockout Padlock with Photo Labels",
-    "c": "loto",
-    "i": "loto/loto-57.jpg",
-    "t": "Padlock Long Shackle with De-Electric ABS Cover with Photo Labels & Different Key Ring • 3 Keys Provided • Material: Strong Steel + ABS Cover • Color: Red, Blue, Yellow, Green • Weight: 70gms • Height: 90mm • Width: 42mm • Shackle Height (Closed): 40mm • Shackle Width (Closed): 20mm"
-  },
-  {
-    "n": "AK-JPL-109 Electric Panel Door Lock Eye",
-    "c": "loto",
-    "i": "loto/loto-58.jpg",
-    "t": "Electric Panel Door Lock Eye • Material: Mild Steel • Color: Red • Weight: 23gms, 20gms, 16gms • Height: 48mm, 38mm, 28mm • Set of 3: Long, Medium, Small"
-  },
-  {
-    "n": "AK-SCAF-01 Scaffolding Inspection Tag & Holder",
-    "c": "loto",
-    "i": "loto/loto-59.jpg",
-    "t": "Scaffold Tag Holder to Hold Tag with Inner Round Hole • Material: ABS Plastic Material • Color: White • Size of Holder: 300mm x 100mm • Cutout Dia of Holder: 63mm • Tag Insert Size: 200mm x 90mm • Weather & UV Resistant"
-  },
-  {
-    "n": "AK-TAG-01 Safety Lockout Danger Tags",
-    "c": "loto",
-    "i": "loto/loto-60.jpg",
-    "t": "Self-Laminated Safety Tags Indicating Danger, Caution & Lockout Information • Re-Writable Surface (Thickness: 0.3mm - 0.5mm) • Resistant to Water & Oil • Brass Eyelet Provided for Padlock & Cable Tie Fixing"
-  },
-  {
-    "n": "AK-KIT-202 Master Safety Lockout Station Kit",
-    "c": "loto",
-    "i": "loto/loto-61.jpg",
-    "t": "Master Safety Lockout Station Kit with Wall Board • Centralized Station for 20+ Padlocks, Multiple Hasps, Breaker Locks & Danger Tags • High Visibility OSHA Compliant Station"
-  },
-  {
-    "n": "AK-KIT-203 Common Maintenance LOTO Kit",
-    "c": "loto",
-    "i": "loto/loto-62.jpg",
-    "t": "Compact General Maintenance Lockout Pouch Kit • Contains: 2x Padlocks, 2x Steel Hasps, 4x MCB Lockouts, 1x Cable Lockout, 10x Danger Tags & Heavy-Duty Oxford Waist Pouch"
-  },
-  {
-    "n": "AK-KIT-204 Electrical Technician LOTO Kit",
-    "c": "loto",
-    "i": "loto/loto-63.jpg",
-    "t": "Dedicated Electrical Safety LOTO Pouch Kit • Comprehensive MCB, MCCB, Universal Breaker Lockouts, Push Button Covers, Hasps, Padlocks & Rewritable Tags"
-  },
-  {
-    "n": "AK-KIT-205 Power Panel LOTO Kit",
-    "c": "loto",
-    "i": "loto/loto-64.jpg",
-    "t": "High-Voltage Distribution Panel Lockout Kit • Includes Large Circuit Breaker Lockouts, Switch Handles, Cable Lockout, Insulated Hasps & Heavy-Duty Carry Box"
-  },
-  {
-    "n": "AK-KIT-206 Mechanical Valve LOTO Kit",
-    "c": "loto",
-    "i": "loto/loto-65.jpg",
-    "t": "Industrial Mechanical Pipe & Valve Lockout Kit • Includes Gate Valve Clamshells (Multiple Sizes), Ball Valve Lockouts, Butterfly Valve Lockouts, Cable Device & Tags"
-  },
-  {
-    "n": "AK-KIT-207 Plant & Machinery LOTO Kit",
-    "c": "loto",
-    "i": "loto/loto-66.jpg",
-    "t": "Heavy Plant & Equipment Lockout Tool Box Kit • Dual Electrical & Mechanical Isolation Devices • Rugged Lockable Tool Box with Tray"
-  },
-  {
-    "n": "AK-KIT-208 Deluxe Universal LOTO Kit",
-    "c": "loto",
-    "i": "loto/loto-67.jpg",
-    "t": "Master Universal Lockout Tagout Kit in High-Impact Wheeled Hard Case • Complete Range of Over 45 Specialized Lockout Devices for Factory-Wide OSHA Compliance"
-  },
-  {
-    "n": "AK-KIT-209 Field Operations LOTO Pouch Kit",
-    "c": "loto",
-    "i": "loto/loto-68.jpg",
-    "t": "Compact Belt-Mounted LOTO Pouch Kit for Field Technicians & Service Engineers • Essential Padlocks, Hasps, Miniature Breaker Locks & Tag Markers"
-  },
-  {
-    "n": "AK-KIT-210 Compact Electrical LOTO Kit",
-    "c": "loto",
-    "i": "loto/loto-69.jpg",
-    "t": "Streamlined Electrical Lockout Kit • Optimized for Quick Maintenance in Substations & Control Rooms • Lightweight Shock-Proof Soft Case"
-  },
-  {
-    "n": "AK-KIT-211 Valve & Electrical Combination Kit",
-    "c": "loto",
-    "i": "loto/loto-70.jpg",
-    "t": "All-in-One Mechanical & Electrical Isolation Kit • Combines Gate & Ball Valve Lockouts with Breaker Lockouts, Hasps, Padlocks & Wall Station Board"
-  },
-  {
-    "n": "AK-LS-114 Wall-Mount Lockout Station Board",
-    "c": "loto",
-    "i": "loto/loto-71.jpg",
-    "t": "Lockout Station Without Devices for Storage of Lock Out Tag Out Devices at a Single Place • Material: Powder Coated MS Sheet • Front Door in Acrylic • Size: L355 x W1200 x H430mm • Color: Red, Yellow • Weight: 5000gms"
-  },
-  {
-    "n": "AK-GLS-115 Heavy-Duty Group Lockout Box",
-    "c": "loto",
-    "i": "loto/loto-72.jpg",
-    "t": "Group Lockout Box Useful for Objects Storage & Carriage • Box Cannot Be Opened Until Last Padlock Removed • Material: Powder Coated MS Sheet with Acrylic Door • Color: Red, Yellow • Weight: 3890gms • Size: L380 x W80 x H430mm • 12 Hangers"
-  },
-  {
-    "n": "AK-GLS-116 Wall-Mount Lockout Station",
-    "c": "loto",
-    "i": "loto/loto-73.jpg",
-    "t": "Lock Out Station Designed to Hold Lock Out Padlocks • Material: Powder Coated MS Sheet • Color: Yellow • Weight: 950gms • Size: L300 x W75 x H75mm"
-  },
-  {
     "n": "AK-FE-ABC ABC Dry Powder Portable Fire Extinguisher",
     "c": "fire-safety",
     "i": "fire-safety/fire-safety-01.jpg",
@@ -1510,5 +1072,443 @@
     "c": "ppe-misc",
     "i": "ppe-misc/ppe-misc-12.jpg",
     "t": "Full Heavy-Duty Blue Nitrile Dip with Extended 7-Inch Canvas Safety Gauntlet Cuff • Total Wrist & Lower Forearm Protection in Heavy Foundry, Chemical Dipping, Machining & Metal Fabrication • Conforms to EN 388 (4232)"
+  },
+  {
+    "n": "AK-ACB-37 Multipurpose Electrical Panel Lockout",
+    "c": "lockout-tagout",
+    "i": "loto/loto-01.jpg",
+    "t": "Material: Sturdy Plastic • Color: Colourless • Weight: 20 gms • Dimensions: L43 x W42 x H40 mm • Width: 29mm • Height: 34mm • Two-part design with locking arrangement • Essential for High & Low Volt Electrical Isolation"
+  },
+  {
+    "n": "AK-VCB-39 Mini Electrical Panel Lockout",
+    "c": "lockout-tagout",
+    "i": "loto/loto-02.jpg",
+    "t": "Material: Sturdy Plastic • Color: Colourless with Red Border • Weight: 45 gms • Dimensions: L43 x W42 x H40 mm • Flip-lid box design for miniature panel switches & buttons • High/Low Volt Protection"
+  },
+  {
+    "n": "AK-EN-40 Electrical Panel Lockout with Chain",
+    "c": "lockout-tagout",
+    "i": "loto/loto-03.jpg",
+    "t": "Material: Sturdy Plastic • Color: Colourless with Red Border • Weight: 60 gms • Dimensions: L44 x W44 x H60 mm • Attached metallic retention chain • Multi-device panel lockout with warning label"
+  },
+  {
+    "n": "AK-EH-41 Electrical Panel Lockout (Multi Devices-Outer Circular Base 84mm)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-04.jpg",
+    "t": "Material: Sturdy Plastic • Color: Colourless • Weight: 120 gms • Box Dia: 84mm • Box Height: 70mm • Overall Height: 76mm • No. of Holes: 2 • Base part hole provision for oversized panel switches"
+  },
+  {
+    "n": "AK-EH-42 Electrical Panel Lockout (Multi Devices-Outer Circular Base 110mm)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-05.jpg",
+    "t": "Material: Sturdy Plastic • Color: Colourless • Weight: 210 gms • Box Dia: 110mm • Box Height: 72mm • Overall Height: 78mm • No. of Holes: 2 • Heavy-duty oversized electrical panel switch lockout"
+  },
+  {
+    "n": "AK-PL-46 Push Button & Rotary Switch Lockout",
+    "c": "lockout-tagout",
+    "i": "loto/loto-06.jpg",
+    "t": "Material: Sturdy Plastic • Color: Colourless with Warning Label • Weight: 88 gms • Circle Dia: 70mm • Height: 80mm • No. of Holes: 2 • Designed for oversized electrical push buttons & rotary switches"
+  },
+  {
+    "n": "AK-ACB-36 Air Circuit Breaker Lockout Kit",
+    "c": "lockout-tagout",
+    "i": "loto/loto-07.jpg",
+    "t": "Material: Moulded ABS Rails & Bars • Color: Red, Yellow, Green • Weight: 52 gms • Base Size: L100 x W18 x H09 mm • 7.5\" Long Blocking Bars: Red (Locked OFF), Green (Locked ON) • Complete ACB Lockout Solution"
+  },
+  {
+    "n": "AK-VCB-38 Shut Down VCB Box",
+    "c": "lockout-tagout",
+    "i": "loto/loto-08.jpg",
+    "t": "Material: Mild Steel & Transparent Acrylic Sheet • Color: Industrial Grey • Weight: 340 gms • Dimensions: L160 x W100 x H32.5 mm • Enclosure box for complete shutdown of Vacuum Circuit Breakers"
+  },
+  {
+    "n": "AK-HPL-43 Electrical Handle Lockout",
+    "c": "lockout-tagout",
+    "i": "loto/loto-09.jpg",
+    "t": "Material: ABS + Steel Flexible Strip • Color: Red & Yellow • Weight: 40 gms • Base Dia: 66mm • Strip Width: 20mm • 10 Holes on Strip • Open Dia: 135mm • Closed Dia: 80mm • 3-Part Handle Lockout"
+  },
+  {
+    "n": "AK-MCCB-44 Large Circuit Breaker Lockout",
+    "c": "lockout-tagout",
+    "i": "loto/loto-10.jpg",
+    "t": "Material: Moulded ABS • Color: Red • Weight: 68 gms • Length: 70mm • Circle Dia: 60mm • Height in Open: 115mm • Height in Closed: 100mm • Moulded gripping teeth for heavy-duty MCCB toggles"
+  },
+  {
+    "n": "AK-MCCB-45 Large Circuit Breaker Lockout (Adjustable Screw)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-11.jpg",
+    "t": "Material: Moulded ABS + Steel Thumbscrew • Color: Red • Weight: 38 gms • Dimensions: L70 x W40 x H10 mm • Integrated adjustable thumb screw for quick, secure clamping on breaker levers"
+  },
+  {
+    "n": "AK-MCB-51 Miniature Circuit Breaker (MCB) Lockout",
+    "c": "lockout-tagout",
+    "i": "loto/loto-12.jpg",
+    "t": "Material: Sturdy Engineering Plastic • Color: Yellow • Weight: 7 gms • Dimensions: L10 x W25 x H45 mm • Tool-free pinless hook clamp mechanism • Single & Multi-Pole Breaker Isolation"
+  },
+  {
+    "n": "AK-MCB-51(F-S) Mini Circuit Breaker Lockout (Self-Adjustable Screw)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-13.jpg",
+    "t": "Material: Sturdy Plastic + Knurled Steel Screw • Color: Yellow • Weight: 16 gms • Dimensions: L15 x W25 x H55 mm • Self-adjustable thumbscrew locking mechanism • Fits all standard MCB toggles"
+  },
+  {
+    "n": "AK-UCBL-53 Universal Circuit Breaker Lockout",
+    "c": "lockout-tagout",
+    "i": "loto/loto-14.jpg",
+    "t": "Material: Sturdy Engineering Plastic • Color: Red • Weight: 12 gms • Dimensions: L20 x W25 x H55 mm • Tool-free push clamping mechanism • Suitable for single and multi-pole breakers"
+  },
+  {
+    "n": "AK-UCBL-53(F-S) Universal Circuit Breaker Lockout (Self-Adjustable Screw)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-15.jpg",
+    "t": "Material: Sturdy Plastic + Steel Screw • Color: Red • Weight: 19 gms • Dimensions: L20 x W25 x H55 mm • Screw Height: 23mm • Adjustable thumb screw for universal circuit breaker toggles"
+  },
+  {
+    "n": "AK-UCBL-54 Large Universal Circuit Breaker Lockout",
+    "c": "lockout-tagout",
+    "i": "loto/loto-16.jpg",
+    "t": "Material: Sturdy Engineering Plastic • Color: Blue • Weight: 12 gms • Dimensions: L23 x W25.5 x H47.5 mm • Extra-wide jaw for large toggles • High-visibility dielectric protection"
+  },
+  {
+    "n": "AK-UCBL-54(F-S) Large Universal Circuit Breaker Lockout (Self-Adjustable Screw)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-17.jpg",
+    "t": "Material: Sturdy Plastic + Steel Screw • Color: Blue • Weight: 19 gms • Dimensions: L19 x W26 x H61 mm • Self-adjustable knurled screw for heavy-duty large breaker toggles"
+  },
+  {
+    "n": "AK-CBL-55 Pin Out Circuit Breaker Lockout (Yellow)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-18.jpg",
+    "t": "Material: Sturdy Plastic & High-Tensile Metallic Pin & Spring • Color: Yellow Body with Warning Label • Weight: 7 gms • Dimensions: L23 x W25 x H40 mm • Outward-facing pins for standard MCB holes"
+  },
+  {
+    "n": "AK-CBL-56 Pin In Circuit Breaker Lockout (Green)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-19.jpg",
+    "t": "Material: Sturdy Plastic & High-Tensile Metallic Pin & Spring • Color: Green Body with Warning Label • Weight: 7 gms • Dimensions: L23 x W25 x H40 mm • Inward-facing pins for MCB toggle holes"
+  },
+  {
+    "n": "AK-CBL-57 Pin Out Circuit Breaker Lockout (Blue)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-20.jpg",
+    "t": "Material: Sturdy Plastic & High-Tensile Metallic Pin & Spring • Color: Blue Body with Warning Label • Weight: 7 gms • Dimensions: L24 x W25 x H42 mm • Wide outward-facing pins for oversized MCBs"
+  },
+  {
+    "n": "AK-CBL-59 Mini Circuit Breaker Lockout (Screw Type)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-21.jpg",
+    "t": "Material: Sturdy Engineering Plastic • Color: Green • Weight: 8 gms • Dimensions: L10 x W26 x H43 mm • Screw-clamp mechanism suitable for single pole breakers with small curvature knob"
+  },
+  {
+    "n": "AK-HS-67 Safety Lockout Hasp (Steel with Vinyl Coating)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-22.jpg",
+    "t": "Material: Mild Steel with Vinyl Moulded Grip Coating • Color: Red, Green, Blue, Yellow • Weight: 96 gms • Jaw Size: 38mm • Opening: 27mm • Total Height: 120mm • Shackle Height: 60mm • 6 Padlock Holes"
+  },
+  {
+    "n": "AK-HS-68 Safety Lockout Hasp (Extended Shackle)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-23.jpg",
+    "t": "Material: Mild Steel with Vinyl Moulded Grip Coating • Color: Red, Green, Blue, Yellow • Weight: 96 gms • Jaw Size: 38mm • Opening: 39mm • Total Height: 120mm • Shackle Height: 73mm • 6 Padlock Holes"
+  },
+  {
+    "n": "AK-HS-69 Safety Lockout Hasp (Mild Steel Silver)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-24.jpg",
+    "t": "Material: Electroplated Mild Steel • Color: Metallic Silver • Weight: 33 gms • Jaw Size: 25mm • Opening: 27mm • Total Height: 110mm • Shackle Height: 60mm • 6 Padlock Holes • Compact & Durable"
+  },
+  {
+    "n": "AK-HN-71 Multi Device Lockout Hasp (43mm Jaw)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-25.jpg",
+    "t": "Material: Sturdy Dielectric Plastic • Color: Red, Yellow • Weight: 19 gms • Jaw Size: 43mm • Opening: 42mm • Total Height: 130mm • Shackle Width: 37mm • Shackle Height: 62mm • 8 Padlock Holes"
+  },
+  {
+    "n": "AK-HN-72 Multi Device Lockout Hasp (38mm Jaw)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-26.jpg",
+    "t": "Material: Sturdy Dielectric Plastic • Color: Red, Yellow • Weight: 16 gms • Jaw Size: 38mm • Total Height: 155mm • Shackle Width: 31mm • Shackle Height: 60mm • 4 Padlock Holes • Angled Grip"
+  },
+  {
+    "n": "AK-HN-73 Multi Device Lockout Hasp (31mm Jaw)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-27.jpg",
+    "t": "Material: Sturdy Dielectric Plastic • Color: Red • Weight: 21 gms • Jaw Size: 31mm • Opening: 18mm • Total Height: 155mm • Shackle Width: 31mm • Shackle Height: 78mm • 4 Padlock Holes"
+  },
+  {
+    "n": "AK-SLDH-75 Steel Safety Lockout Hasp",
+    "c": "lockout-tagout",
+    "i": "loto/loto-28.jpg",
+    "t": "Material: Sturdy Plastic Body + Steel Shackle • Color: Red, Yellow • Weight: 32 gms • Jaw Size: 20mm • Total Height: 115mm • Shackle Width: 45mm • Shackle Height: 30mm • 4 Padlock Holes"
+  },
+  {
+    "n": "AK-SLDH-76 Dielectric Safety Lockout Hasp",
+    "c": "lockout-tagout",
+    "i": "loto/loto-29.jpg",
+    "t": "Material: 100% Non-Conductive Sturdy Plastic • Color: Red, Yellow • Weight: 35 gms • Jaw Size: 20mm • Total Height: 110mm • Shackle Width: 45mm • Shackle Height: 25mm • 4 Padlock Holes"
+  },
+  {
+    "n": "AK-UEL-91 Universal Multi Device Cylinder Lockout",
+    "c": "lockout-tagout",
+    "i": "loto/loto-30.jpg",
+    "t": "Material: Sturdy Plastic • Color: Red • Weight: 126 gms • Height: 165mm • Upper Dia: 85mm • Lower Dia: 90mm • Round cylinder isolation enclosure for electrical plugs and pneumatic fittings"
+  },
+  {
+    "n": "AK-LPG-92 Universal Multi Device Lockout Product (Cylinder Isolation)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-31.jpg",
+    "t": "Material: Sturdy Plastic • Color: Red • Weight: 356 gms • Dimensions: L110 x B150 x H250 mm • Upper Dia: 42mm • Hinged cylinder enclosure for gas cylinder valves and large industrial plugs"
+  },
+  {
+    "n": "AK-MP-95 Mini Plug Cord Lockout",
+    "c": "lockout-tagout",
+    "i": "loto/loto-32.jpg",
+    "t": "Material: Sturdy Plastic • Color: Red, Yellow • Weight: 80 gms • Dimensions: L90 x W55 x H55 mm • No. of Holes: 2 • Clamshell enclosure for power cords, small plugs & pneumatic couplings"
+  },
+  {
+    "n": "AK-MWD-26 Multipurpose Cable Lockout Device (HASP Type)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-33.jpg",
+    "t": "Material: Moulded ABS Body with 6 Padlock Holes • Color: Red, Yellow • Weight: 188 gms • Height: 150mm • Width: 60mm • Includes 2.5m Insulated Cable • Dual HASP & Cable Lockout Functionality"
+  },
+  {
+    "n": "AK-MSD-28 Multipurpose Cable Lockout Device",
+    "c": "lockout-tagout",
+    "i": "loto/loto-34.jpg",
+    "t": "Material: ABS Plastic in Two Parts • Color: Red • Weight: 100 gms • Height: 123mm • Width: 50mm • Opening Length: 227mm • 6 Lock Holes • Includes 2m PVC Insulated Steel Cable"
+  },
+  {
+    "n": "AK-MSD-29 Multipurpose Cable Lockout Device (Circular)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-35.jpg",
+    "t": "Material: ABS Plastic in Circular Shape • Color: Red • Weight: 107 gms • Height: 57mm • Width: 26mm • 6 Holes • Includes 2m Insulated Steel Cable • Compact circular cable lockout"
+  },
+  {
+    "n": "AK-ULD-21 Universal Valve Lockout Device",
+    "c": "lockout-tagout",
+    "i": "loto/loto-36.jpg",
+    "t": "Material: Sturdy Engineering Plastic (ABS) • Color: Red • Weight: 253 gms • Height: 170mm • Width: 80mm • Base clamp unit for locking all types of quarter-turn and multi-turn valves"
+  },
+  {
+    "n": "AK-ULD-22 Universal Valve Lockout (with Insulated Cable)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-37.jpg",
+    "t": "Material: ABS + Metal Parts + Spring + PU Cable • Color: Red • Weight: 330 gms • Height: 165mm • Width: 80mm • Includes 2.5m Insulated Cable • Lock wheel & gate valves or ball valves"
+  },
+  {
+    "n": "AK-ULD-23 Universal Valve Lockout (Single Long Arm)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-38.jpg",
+    "t": "Material: ABS + Metal Part + Spring + PU • Color: Red • Weight: 430 gms • Base Height: 165mm • Width: 50mm • Long Arm Height: 150mm • Total Height: 240mm/170mm • For Quarter-Turn Ball Valves"
+  },
+  {
+    "n": "AK-ULD-24 Universal Valve Lockout (Double Long Arm)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-39.jpg",
+    "t": "Material: ABS + Metal Part + Spring + PU • Color: Red • Weight: 665 gms • Base Height: 170mm • Width: 60mm • Long Arm Height: 200mm • Total Height: 300mm/390mm • For 3, 4 or 5-way Valves"
+  },
+  {
+    "n": "AK-GVL-02-W Gate Valve Lockout Device (1\" to 2.5\")",
+    "c": "lockout-tagout",
+    "i": "loto/loto-40.jpg",
+    "t": "Material: Sturdy Plastic • Color: Red • Weight: 54 gms • Valve Dia: 76mm • Hole Dia: 30mm • Valve Width: 35mm • Two-part rotatable cover to encapsulate handwheels from 25mm to 64mm"
+  },
+  {
+    "n": "AK-GVL-04-W Gate Valve Lockout Device (2.5\" to 5\")",
+    "c": "lockout-tagout",
+    "i": "loto/loto-41.jpg",
+    "t": "Material: Sturdy Plastic • Color: Red • Weight: 225 gms • Valve Dia: 160mm • Hole Dia: 50mm • Valve Width: 40mm • Two-part rotatable cover for handwheels from 64mm to 127mm"
+  },
+  {
+    "n": "AK-AGVL-06-W Adjustable Gate Valve Lockout Device",
+    "c": "lockout-tagout",
+    "i": "loto/loto-42.jpg",
+    "t": "Material: Sturdy Engineering Plastic • Color: Red, Yellow • Weight: 256 gms • Dimensions: L250 x W140 x H54 mm • 4 Locking Holes • Telescopic adjustable design for gate valves 75mm to 165mm"
+  },
+  {
+    "n": "AK-GVL-08-W Gate Valve Lockout Device (5\" to 7.5\")",
+    "c": "lockout-tagout",
+    "i": "loto/loto-43.jpg",
+    "t": "Material: Sturdy Plastic • Color: Red • Weight: 670 gms • Valve Dia: 275mm • Hole Dia: 100mm • Valve Width: 60mm • Heavy-duty cover for gate valve handwheels 127mm to 190mm"
+  },
+  {
+    "n": "AK-GVL-10-W Large Gate Valve Lockout Device (7.5\" to 10\")",
+    "c": "lockout-tagout",
+    "i": "loto/loto-44.jpg",
+    "t": "Material: Sturdy Plastic • Color: Red • Weight: 1200 gms • Valve Dia: 380mm • Hole Dia: 120mm • Valve Width: 60mm • Oversized cover for large industrial handwheels 190mm to 254mm"
+  },
+  {
+    "n": "AK-MUSHROOM Mushroom Valve Lockout Device",
+    "c": "lockout-tagout",
+    "i": "loto/loto-45.jpg",
+    "t": "Material: Sturdy Plastic • Color: White, Red • Weight: 54 gms • Valve Dia: 75mm • Hole Dia: 30mm • Valve Width: 35mm • Two-part clamshell design to encapsulate mushroom push buttons & valves"
+  },
+  {
+    "n": "AK-BVL-11 Ball Valve Lockout Device (Standard 6 Locks)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-46.jpg",
+    "t": "Material: Sturdy Plastic • Color: Red • Weight: 176 gms • Height: 90mm • Open Length: 240mm • Close Length: 150mm • 6 Padlock Holes • Double-leg clamp for standard quarter-turn pipes"
+  },
+  {
+    "n": "AK-BVL-12 Ball Valve Lockout Device (7 Locks)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-47.jpg",
+    "t": "Material: Sturdy Plastic • Color: Red • Weight: 230 gms • Height: 100mm • Open Length: 200mm • 7 Padlock Holes • Extended legs for group lockout without needing extra hasps"
+  },
+  {
+    "n": "AK-BVL-13 Ball Valve Lockout Device (Large 6 Locks)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-48.jpg",
+    "t": "Material: Sturdy Plastic • Color: Red • Weight: 230 gms • Height: 100mm • Open Length: 230mm • Close Length: 220mm • 6 Padlock Holes • Reinforced clamp for medium & large ball valves"
+  },
+  {
+    "n": "AK-BVL-14 Ball Valve Lockout Device (Large 7 Locks)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-49.jpg",
+    "t": "Material: Sturdy Plastic • Color: Red • Weight: 160 gms • Height: 90mm • Open Length: 250mm • Close Length: 165mm • 7 Padlock Holes • High-durability multi-person ball valve isolation"
+  },
+  {
+    "n": "AK-BFL-16 Butterfly Valve Lockout Device",
+    "c": "lockout-tagout",
+    "i": "loto/loto-50.jpg",
+    "t": "Material: Sturdy Plastic • Color: Red • Weight: 280 gms • Height: 70mm • Open Length: 300mm • Up to 12 Padlock Holes • Locks butterfly valve pull-handle levers securely in place"
+  },
+  {
+    "n": "AK-JPL-101 Safety Lockout Padlock (Long Shackle 63mm)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-51.jpg",
+    "t": "Material: Strong Steel Lock & Shackle with Dielectric ABS Cover • Color: Red, Blue, Yellow, Green • Weight: 150 gms • Height: 110mm • Width: 45mm • Shackle Height: 63mm • Shackle Width: 20mm • 3 Keys Included"
+  },
+  {
+    "n": "AK-JPL-102 Safety Lockout Padlock (Compact 20mm Shackle)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-52.jpg",
+    "t": "Material: Steel Shackle + Dielectric ABS Cover • Color: Red, Blue, Yellow, Green • Weight: 95 gms • Height: 61mm • Width: 43mm • Shackle Height: 20mm • Shackle Width: 20mm • 3 Keys Included"
+  },
+  {
+    "n": "AK-JPL-103 Safety Lockout Padlock (Mini 15mm Shackle)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-53.jpg",
+    "t": "Material: Steel Shackle + Dielectric ABS Cover • Color: Red, Blue, Yellow, Green • Weight: 76 gms • Height: 53mm • Width: 36mm • Shackle Height: 15mm • Shackle Width: 15mm • 3 Keys Included"
+  },
+  {
+    "n": "AK-JPL-104 Safety Lockout Padlock (Medium 45mm Shackle)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-54.jpg",
+    "t": "Material: Steel Shackle + Dielectric ABS Cover • Color: Red, Blue, Yellow, Green • Weight: 81 gms • Height: 83mm • Width: 36mm • Shackle Height: 45mm • Shackle Width: 16mm • 3 Keys Included"
+  },
+  {
+    "n": "AK-JPL-105 Safety Lockout Padlock (Heavy Duty 60mm Shackle)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-55.jpg",
+    "t": "Material: Steel Shackle + Dielectric ABS Cover • Color: Red, Blue, Yellow, Green • Weight: 154 gms • Height: 100mm • Width: 50mm • Shackle Height: 60mm • Shackle Width: 30mm • 3 Keys Included"
+  },
+  {
+    "n": "AK-JPL-107 Safety Lockout Padlock (Standard 40mm Shackle)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-56.jpg",
+    "t": "Material: Steel Shackle + Dielectric ABS Cover • Color: Red, Blue, Yellow, Green • Weight: 114 gms • Height: 90mm • Width: 43mm • Shackle Height: 40mm • Shackle Width: 20mm • 3 Keys Included"
+  },
+  {
+    "n": "AK-JPL-107(PS) Safety Lockout Padlock with Photo Labels (Plastic Shackle 40mm)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-57.jpg",
+    "t": "Material: 100% Non-Conductive Plastic Shackle + ABS Cover • Color: Red, Blue, Yellow, Green • Weight: 70 gms • Height: 90mm • Width: 42mm • Shackle Height: 40mm • Shackle Width: 20mm • Photo Labels & 3 Keys"
+  },
+  {
+    "n": "AK-JPL-109 Electric Panel Door Lock Eye (Set of 3)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-58.jpg",
+    "t": "Material: Mild Steel • Color: Red • Weight: 23g, 20g, 16g • Heights: 48mm, 38mm, 28mm • Set of 3 brackets: Long, Medium, Small • Converts standard electrical panel doors for padlock lockout"
+  },
+  {
+    "n": "AK-SCAF-01 Scaffolding Inspection Tag & Holder",
+    "c": "lockout-tagout",
+    "i": "loto/loto-59.jpg",
+    "t": "Material: Sturdy ABS Plastic Holder + Reusable PVC Inserts • Color: White Holder with Green/Yellow/Red Inserts • Holder: 300 x 100 mm • Cutout Dia: 63mm • Tag Insert: 200 x 90 mm • Clear Status Display"
+  },
+  {
+    "n": "AK-TAG-01 Safety Lockout Danger Tags",
+    "c": "lockout-tagout",
+    "i": "loto/loto-60.jpg",
+    "t": "Material: Self-Laminated Rewritable Polyester/Plastic (0.3mm-0.5mm) • Water & Oil Resistant • Brass Eyelet for Cable Ties & Padlocks • Bilingual DANGER / DO NOT OPERATE Warnings • Write-on Surface"
+  },
+  {
+    "n": "AK-KIT-202 LOTO Common Kit Plus",
+    "c": "lockout-tagout",
+    "i": "loto/loto-61.jpg",
+    "t": "Includes: Heavy-Duty Waist Pouch, Padlocks with Keys, Rewritable Danger Tags, Permanent Marker Pen, Safety Lockout Hasps, Miniature Circuit Breaker Lockouts • Portable Kit for Individual Maintenance Personnel"
+  },
+  {
+    "n": "AK-KIT-203 LOTO Safety Personal Kit",
+    "c": "lockout-tagout",
+    "i": "loto/loto-62.jpg",
+    "t": "Includes: Compact Shoulder Bag, Safety Padlocks, Vinyl-Coated Steel Hasps, Cable Lockout Device, Danger Tags, Marker Pen, MCB Lockouts • Comprehensive Personal Safety Kit for Field Engineers"
+  },
+  {
+    "n": "AK-KIT-204 LOTO Circuit Breaker Lockout Kit",
+    "c": "lockout-tagout",
+    "i": "loto/loto-63.jpg",
+    "t": "Includes: Heavy-Duty Shoulder Bag, Full Range of MCB & MCCB Lockouts (Pin-In, Pin-Out, Screw-Type, Universal), Padlocks, Multi-Device Hasps, Warning Tags • Dedicated Kit for Electrical Breaker Isolation"
+  },
+  {
+    "n": "AK-KIT-205 LOTO Electrical Lockout Kit",
+    "c": "lockout-tagout",
+    "i": "loto/loto-64.jpg",
+    "t": "Includes: Multi-Pocket Shoulder Bag, Electrical Panel Lockouts, Plug & Cord Lockouts, Hasps, Padlocks, Circuit Breaker Lockouts, Danger Tags • Full Electrical Substation & Switchgear Isolation Kit"
+  },
+  {
+    "n": "AK-KIT-206 LOTO Electrical Power & Panel Lockout Device Kit",
+    "c": "lockout-tagout",
+    "i": "loto/loto-65.jpg",
+    "t": "Includes: Wall-Mount Powder-Coated Steel Station Cabinet with Acrylic Door, Extensive Electrical Panel Lockouts, Push Button Lockouts, MCB Lockouts, Padlocks, Hasps, Tags • Centralized Panel Lockout Center"
+  },
+  {
+    "n": "AK-KIT-207 LOTO Plant & Machinery Lockout Kit",
+    "c": "lockout-tagout",
+    "i": "loto/loto-66.jpg",
+    "t": "Includes: Wall-Mount Steel Cabinet Station, Mechanical Valve Lockouts, Cable Lockouts, Hasps, Electrical Breaker Devices, Safety Padlocks, Danger Tags • Heavy Industrial Plant & Machinery Isolation Kit"
+  },
+  {
+    "n": "AK-KIT-208 LOTO Full Lockout Station Kit",
+    "c": "lockout-tagout",
+    "i": "loto/loto-67.jpg",
+    "t": "Includes: Large Wall-Mount Storage Cabinet with Shelves & Hangers, Comprehensive Mechanical Valve Lockouts, Gate & Ball Valve Covers, Cable Lockouts, Electrical Lockouts, Master Padlocks, Hasps, Tags"
+  },
+  {
+    "n": "AK-KIT-209 LOTO Electrical & Mechanical Lockout Kit",
+    "c": "lockout-tagout",
+    "i": "loto/loto-68.jpg",
+    "t": "Includes: Wall-Mount Steel Cabinet Station, Complete Combination of Electrical Breaker Lockouts, Valve Lockout Devices, Cable Lockouts, Safety Hasps, Padlocks, Warning Tags • Complete Dual-Energy Isolation"
+  },
+  {
+    "n": "AK-KIT-210 LOTO Lockout Station Kit (Duffel Bag)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-69.jpg",
+    "t": "Includes: Heavy-Duty Red Industrial Duffel Bag with Compartments, High-Capacity Assortment of Valve Lockouts, Circuit Breaker Lockouts, Cable Lockouts, Padlocks, Hasps, Tags • Mobile Heavy-Duty Emergency Response Kit"
+  },
+  {
+    "n": "AK-KIT-211 LOTO Lockout Station Kit (Comprehensive Bag)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-70.jpg",
+    "t": "Includes: Master Industrial Duffel Bag, Full Mechanical & Electrical Isolation System, Gate Valve Covers, Ball Valve Clamps, Cable Lockouts, Universal Breaker Devices, Master Padlocks, Hasps, Tags"
+  },
+  {
+    "n": "AK-LS-114 Lockout Station Cabinet (without devices)",
+    "c": "lockout-tagout",
+    "i": "loto/loto-71.jpg",
+    "t": "Material: Powder Coated MS Sheet with Transparent Acrylic Front Door • Color: Red, Yellow • Weight: 3890 gms • Dimensions: L380 x W80 x H430 mm • 3 Internal Storage Hangers • Provision for Padlock Door Locking"
+  },
+  {
+    "n": "AK-GLS-115 Heavy-Duty Group Lockout Box",
+    "c": "lockout-tagout",
+    "i": "loto/loto-72.jpg",
+    "t": "Material: Heavy-Duty Powder Coated MS Sheet • Color: Red, Yellow • Weight: 1545 gms • Dimensions: L260 x W100 x H150 mm • 12 Exterior Padlock Hangers • Slot on lid for key deposit • Tamper-resistant carry handle"
+  },
+  {
+    "n": "AK-GLS-116 Lock Out Station Padlock Holder",
+    "c": "lockout-tagout",
+    "i": "loto/loto-73.jpg",
+    "t": "Material: Powder Coated MS Sheet • Color: High-Visibility Yellow • Weight: 950 gms • Dimensions: L300 x W75 x H75 mm • Inner Storage: L30 x W75 x H70 mm • 6 Padlock Hangers with integrated storage tray"
   }
 ]

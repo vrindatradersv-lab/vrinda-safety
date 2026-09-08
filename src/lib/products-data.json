@@ -2,1021 +2,1267 @@
   {
     "n": "AK-TDR1033 FRP Telescopic Discharge Rod (11kV - 33kV)",
     "c": "frp-electrical-safety",
-    "i": "frp_telescopic_discharge_rod.png",
+    "i": "frp-electrical-safety/frp_telescopic_discharge_rod.png",
     "t": "Voltage: 11kV to 33kV • 3 Telescopic Sections • Bayonet Pin-Type Locking Mechanism • Crocodile Teeth Grounding Clamp • Flexible Copper Earth Cable • High-Dielectric Insulated Fiberglass • Ergonomic Non-Slip Grip • Lengths: 10ft to 21ft • Tested to IEC & ASTM Standards • Essential for Substations & Switchyards"
   },
   {
     "n": "AK-RH110 Insulated FRP Rescue Hook (110kV Dielectric)",
     "c": "frp-electrical-safety",
-    "i": "insulated_rescue_hook.png",
-    "t": "Dielectric Strength: 110kV • Application: 11kV to 132kV Systems • 18\" Dip-Insulated Coated Hook Opening • 6ft High-Dielectric FRP Pole • Non-Conductive Emergency Victim Extraction • Rubber Base Handle Grip • Weatherproof & Corrosion Resistant • Standards: IEC & ASTM • Mandatory for High-Voltage Switchgear"
+    "i": "frp-electrical-safety/insulated_rescue_hook.png",
+    "t": "Dielectric Rating: Up to 110 kV • 18-inch High-Strength Insulated Hook Opening • 1.25-inch Heavy-Duty Fiberglass Pole • Safety Flange Guard for Grip Boundary • High-Visibility Safety Yellow • Lightweight (~3.5 kg) • Instant Safe Removal of Shock Victims • Crucial for High-Voltage Switchgear & Power Plants"
   },
   {
     "n": "AK-SDR220 FRP Static Discharge Rod (220 kV/cm)",
     "c": "frp-electrical-safety",
-    "i": "frp_static_discharge_rod.png",
-    "t": "Dielectric Strength: 220 kV/cm • Capacity: 11kV to 132kV • Copper Alloy Discharge Head • Flexible Earthing Cable with Heavy-Duty Earth Clamp • Shock-Proof Insulated Handle • Complete Substation Residual Energy Discharge • UV & Corrosion Resistant • Tested to IEC & ASTM"
+    "i": "frp-electrical-safety/frp_static_discharge_rod.png",
+    "t": "Dielectric Strength: Up to 220 kV/cm • High-Purity Solid Core Epoxy Resin Fiberglass • Solid Brass Earth Point Discharge Head • 35 sq. mm Highly Flexible Transparent PVC Copper Earth Lead • Serrated Heavy-Duty Crocodile Earth Clamp • Operating Temp: -20°C to +80°C • Dissipates High Residual Static Charge"
   },
   {
     "n": "AK-TFL170 Telescopic FRP Safety Ladder (170 kV Dielectric)",
     "c": "frp-electrical-safety",
-    "i": "telescopic_frp_ladder.png",
-    "t": "Dielectric Strength: 170 kV • Extended Length: 10ft to 29ft (Closed Length: ~6ft) • 100% Non-Conductive FRP Side Rails • Anti-Slip Corrugated FRP Rungs • Load Capacity: 100kg to 150kg • Compact Collapsible Design for Easy Mobility • Fire-Retardant & Weather-Proof • Standards: IEC & ASTM"
+    "i": "frp-electrical-safety/telescopic_frp_ladder.png",
+    "t": "Dielectric Strength: 170 kV Tested (IEC 61478) • High-Grade Pultruded Fiberglass Rails • Heavy-Duty Serrated Anti-Slip Aluminium Rungs • Smooth Spring-Loaded Internal Locks • Non-Skid Swivel Rubber Feet • Lightweight, Compact Telescopic Storage • 100% Non-Conductive & Spark-Proof"
   },
   {
     "n": "AK-FEL360 FRP Extension Ladder with Aluminium Rungs",
     "c": "frp-electrical-safety",
-    "i": "frp_extension_ladder.png",
-    "t": "2-Section Smooth Extension Design (10ft to 36ft) • High-Dielectric FRP Insulated Side Rails • D-Shape High-Strength Anti-Slip Aluminium Rungs • Heavy-Duty Stabilizer Feet for Firm Grip • Load Capacity: 80kg to 150kg+ • Weather, UV & Fire Resistant • Utility, Substation & Telecom Certified • Standards: IEC & ASTM"
+    "i": "frp-electrical-safety/frp_extension_ladder.png",
+    "t": "Dielectric Safety: 100% Non-Conductive FRP Side Rails • Fluted Anti-Skid Aluminium Rungs with High-Strength Swaging • Polypropylene Heavy-Duty Rope & Pulley Mechanism • Auto-Engaging Gravity Locking Pawls • Swivel Anti-Slip Rubber & Spike Safety Shoes • Extended Heights: 16ft to 36ft • Ideal for Utility Lines & Electrical Infrastructure"
   },
   {
-    "n": "AK-H01 Industrial Safety Helmet (Nape Type)",
-    "c": "head-protection",
-    "i": "head-protection/head-protection-01.jpg",
-    "t": "ISI Marked (IS 2925:1984) • High-density polyethylene (HDPE) shell • Quadro corrugation for enhanced strength • Nape strap adjustment • Side slots for face & hearing accessories"
-  },
-  {
-    "n": "AK-H02 Industrial Safety Helmet (Ratchet Type)",
-    "c": "head-protection",
-    "i": "head-protection/head-protection-02.jpg",
-    "t": "ISI Marked (IS 2925:1984) • Premium HDPE shell • Extended ratchet adjustment mechanism • Extra impact protection to user's neck • Adjustable chin strap • Shock absorption certified"
-  },
-  {
-    "n": "AK-H03 Industrial Safety Helmet (Ratchet Type with Air Ventilators)",
+    "n": "AKH-03 Industrial Safety Helmet (Ratchet Type with Ventilators)",
     "c": "head-protection",
     "i": "head-protection/head-protection-03.jpg",
-    "t": "IS 2925:1984 & EN 397:2012 Certified • Durable High-Impact Shell with Protective Peak • Ventilators for Improved Airflow & All-Day Comfort • Adjustable Ratchet Head Harness (540mm-590mm) • Compatible with Ear Muffs & Face Shield • Multi-Color Options (White, Yellow, Green, Blue, Orange, Red, Grey)"
+    "t": "Durable High-Impact Polymer Shell • Adjustable Ratchet-Type Head Harness (540mm - 590mm) • Integrated Top Air Ventilators for Heat Dissipation • Forehead & Eye Shielding Peak • Certified to IS 2925:1984, EN 397:2012 & CM/L 8100102887 • Accessory Slots for Ear Muffs, Face Shield & Torch"
   },
   {
-    "n": "100% Cotton Workwear Coverall",
+    "n": "AKH-04 Industrial Safety Helmet (Nape Type)",
+    "c": "head-protection",
+    "i": "head-protection/head-protection-01.jpg",
+    "t": "Lightweight & Rigid High-Impact Polymer • Ergonomic Nape-Type Headband Adjustment (540mm - 590mm) • Zero Forehead Pressure Design for All-Day Wear • Certified to IS 2925:1984, EN 397:2012 & CM/L 8100102887 • Ideal for Construction, Manufacturing, Mining & Oil & Gas"
+  },
+  {
+    "n": "AKH-05 Industrial Safety Helmet (Ratchet Type)",
+    "c": "head-protection",
+    "i": "head-protection/head-protection-02.jpg",
+    "t": "Premium-Quality Industrial Safety Helmet • One-Hand Glove-Operable Ratchet Fitting System • Virgin UV-Stabilized Polymer • Size: 540mm - 590mm • Disperses Impact Forces Effectively • Certified to IS 2925:1984, EN 397:2012 & CM/L 8100102887"
+  },
+  {
+    "n": "AK-PW-101 Economy Workwear Coverall",
     "c": "workwear",
     "i": "workwear/workwear-01.jpg",
-    "t": "100% cotton fabric (custom GSM) • Maximum heat dissipation & comfort • 2 chest pockets with flaps, 2 side pockets • Heavy-duty front zipper • Bartacked stress points"
+    "t": "100% Durable Breathable Cotton Fabric • Cost-Effective Reliable Protection for Industrial & Workshop Environments • 2 Chest Pockets with Flaps, 2 Side Pockets • Heavy-Duty Front Zipper • Bartacked Stress Points • Wash & Colorfast Tested"
   },
   {
-    "n": "AK-601 High-Visibility Safety Jacket",
+    "n": "AK-PW-102 Economy Workwear Jacket & Trouser",
     "c": "workwear",
     "i": "workwear/workwear-02.jpg",
-    "t": "Poly tricot fluorescent fabric • 2-inch high-visibility reflective tape (IS 15809:2017) • Front zipper closure • Lightweight, breathable & washable"
+    "t": "Two-Piece Industrial Workwear Set • Durable Lightweight Cotton Fabric • Front Button/Zipper Jacket with Dual Flap Pockets • Trousers with Elasticated Waistband & Reinforced Knees • Conforms to IS 15809 Standards"
   },
   {
-    "n": "AK-602 High-Visibility Safety Jacket",
+    "n": "AK-PW-151 Premium Workwear Coverall",
     "c": "workwear",
     "i": "workwear/workwear-03.jpg",
-    "t": "Polyester Oxford fabric • 2-inch micro-prismatic reflective tape • High-visibility day & night warning • Durable black piping • Zipper closure"
+    "t": "Premium Range Coverall Crafted from High-Quality Fabric with Superior Stitching • Smart Utility Pockets, Tool Loops & Ergonomic Fit • Heavy-Duty 2-Way Brass Zipper with Storm Flap • All-Day Comfort & Professional Executive Look"
   },
   {
-    "n": "AK-605 Paramedic Safety Jacket",
+    "n": "AK-PW-152 Premium Workwear Jacket & Trouser",
     "c": "workwear",
     "i": "workwear/workwear-04.jpg",
-    "t": "Specialized paramedic/emergency responder jacket • Multi-pocket utility design • High-intensity reflective stripes • Tear-resistant fabric • ID card pocket"
+    "t": "Executive Two-Piece Premium Work Uniform • High-Grade Poly-Cotton / Cotton Twill • Reinforced Seams, Multiple Pockets & Pen Slots • Designed for Superior Durability in Manufacturing, Aviation & Engineering"
   },
   {
-    "n": "AK-606 Net-Type Safety Vest",
+    "n": "AK-PW-201 Flame Retardant Workwear Coverall",
     "c": "workwear",
     "i": "workwear/workwear-05.jpg",
-    "t": "Breathable mesh polyester net • Lightweight for hot climates • 2-inch reflective tape • Velcro front closure • Wash & colorfast tested"
+    "t": "100% Flame Retardant Cotton (FRC) Fabric • Protects Against Sparks, Spatter, Heat & Fire Hazards • Breathable & Durable for Demanding Shifts • Certified to EN ISO 11612 & IS 15809 • Ideal for Oil & Gas, Welding & Heavy Engineering"
   },
   {
-    "n": "AK-608 Premium Safety Jacket",
+    "n": "AK-PW-202 Flame Retardant Workwear Jacket & Trouser",
     "c": "workwear",
     "i": "workwear/workwear-06.jpg",
-    "t": "Heavy-duty fluorescent fabric • Premium reflective tape • Dual radio loops • Multi-function front pockets with zipper enclosure"
+    "t": "Two-Piece Flame Retardant Suit (FRC) • Treated Flame Resistant Fabric • Concealed Heat-Resistant Fasteners • Triple Stitched Inseam & Crotch • Conforms to Thermal & Electrical Arc Safety Norms"
   },
   {
-    "n": "AK-634 Standard Safety Vest",
+    "n": "AK-PW-301 Inherent FR Workwear Coverall (150 GSM)",
     "c": "workwear",
     "i": "workwear/workwear-07.jpg",
-    "t": "Fluorescent polyester fabric • 360-degree reflective visibility • IS 15809 certified • Front velcro fastener • Clean contrast edge binding"
+    "t": "100% Inherent Flame Retardant (IFR) Fabric (93% Meta-Aramid, 5% Para-Aramid, 2% Antistatic) 150 GSM ± 5% • Permanent Fire & Arc Flash Protection That Never Washes Out • Ultra-Lightweight & Breathable for Petrochemical & Power Sectors"
   },
   {
-    "n": "AK-636 Two-Tone Safety Jacket",
+    "n": "AK-PW-302 Inherent FR Workwear Jacket & Trouser (150 GSM)",
     "c": "workwear",
     "i": "workwear/workwear-08.jpg",
-    "t": "Dual-color fluorescent styling • Stain-resistant bottom panel • Double horizontal & vertical reflective bands • Heavy-duty front zipper"
+    "t": "Two-Piece Inherent FR Suit (150 GSM) • Meta-Aramid / Para-Aramid / Antistatic Blend • Unmatched Thermal Protection with Zero Melt or Drip • Ideal for Chemical Processing, Offshore Platforms & Gas Refineries"
   },
   {
-    "n": "AK-637 Economy Safety Vest",
+    "n": "AK-PW-303 Inherent FR Workwear Coverall (200 GSM)",
     "c": "workwear",
     "i": "workwear/workwear-09.jpg",
-    "t": "Lightweight fluorescent fabric • 2-inch retro-reflective tape • Easy velcro fastening • Ideal for construction, parking & road maintenance"
+    "t": "Heavy-Duty Inherent FR Fabric (93% Meta-Aramid, 5% Para-Aramid, 2% Antistatic) 200 GSM • Enhanced Abrasion Resistance & Arc Rating • Flame-Resistant Two-Way Brass Zipper • Certified to International Fire & Safety Norms"
   },
   {
-    "n": "AK-638 Surveyor Safety Jacket",
+    "n": "AK-PW-304 Inherent FR Workwear Jacket & Trouser (200 GSM)",
     "c": "workwear",
     "i": "workwear/workwear-10.jpg",
-    "t": "Executive surveyor style • Multiple utility pockets with flap • Clear plastic ID badge pocket • Heavy-duty zipper • Class 2 high visibility"
+    "t": "High-Protection 200 GSM Inherent FR Suit • Heavy-Duty Aramid Construction • Deep Cargo Pockets with FR Velcro Flaps • Maximum Durability Under Extreme Industrial Flash Fire Hazards"
   },
   {
-    "n": "AK-615 High-Visibility Hand Gloves",
+    "n": "SA-639 High-Visibility Reflective Safety Vest",
     "c": "workwear",
     "i": "workwear/workwear-11.jpg",
-    "t": "Fluorescent elasticated work gloves • Reflective piping on back of hand • Enhanced grip palm • Excellent hand visibility for traffic & rigging"
+    "t": "Fluorescent Day-Glow Fabric • 2-Inch High-Intensity Class 2 Micro-Prismatic Reflective Tape • Front Velcro Fastener • Clean Contrast Edge Binding • IS 15809:2017 & EN ISO 20471 Certified"
+  },
+  {
+    "n": "SA-640 High-Visibility Reflective Safety Vest",
+    "c": "workwear",
+    "i": "workwear/workwear-12.jpg",
+    "t": "Lightweight High-Visibility Safety Waistcoat • 360° Reflective Coverage Across Torso & Shoulders • Breathable Poly Tricot • Washable & Colorfast Tested"
+  },
+  {
+    "n": "SA-641 High-Visibility Reflective Safety Vest",
+    "c": "workwear",
+    "i": "workwear/workwear-13.jpg",
+    "t": "Heavy-Duty Fluorescent Vest with Dual Horizontal Reflective Stripes • Hook & Loop Front Closure • High Conspicuity for Airport Apron & Logistics Staff"
+  },
+  {
+    "n": "SA-642 High-Visibility Reflective Safety Vest",
+    "c": "workwear",
+    "i": "workwear/workwear-14.jpg",
+    "t": "Fluorescent Yellow/Green Safety Vest • Wide Silver Retro-Reflective Bands • Tear-Resistant Weave • Conforms to Road & Construction Safety Regulations"
+  },
+  {
+    "n": "SA-601 High-Visibility Safety Jacket",
+    "c": "workwear",
+    "i": "workwear/workwear-15.jpg",
+    "t": "Fluorescent Poly Tricot High-Visibility Fabric • 2-Inch Class 2 Micro-Prismatic Reflective Tape (IS 15809:2017) • Heavy-Duty Front Zipper Closure • Lightweight, Highly Breathable & Wash-Resistant"
+  },
+  {
+    "n": "SA-602 High-Visibility Safety Jacket",
+    "c": "workwear",
+    "i": "workwear/workwear-16.jpg",
+    "t": "Heavy-Duty Polyester Oxford Fluorescent Fabric • Dual Horizontal & Vertical High-Intensity Reflective Bands • Contrast Durable Black Piping • Clear Front ID Badge Pocket • Day & Night 360° Conspicuity"
+  },
+  {
+    "n": "SA-605 Paramedic Safety Jacket",
+    "c": "workwear",
+    "i": "workwear/workwear-17.jpg",
+    "t": "Specialized Emergency Responder & Paramedic Utility Vest • Multi-Pocket Architecture with Pen Slots & Radio Loops • Tear-Resistant Fluorescent Fabric • High-Intensity Glass Bead Reflective Bands"
+  },
+  {
+    "n": "SA-606 Net-Type Safety Vest",
+    "c": "workwear",
+    "i": "workwear/workwear-18.jpg",
+    "t": "Ultra-Breathable Open-Weave Polyester Mesh Net • Optimized for Hot & Humid Climates • 2-Inch High-Gloss Retro-Reflective Tape • Adjustable Front Velcro Closure • Wash & Colorfast Tested"
+  },
+  {
+    "n": "SA-634 Standard Safety Vest",
+    "c": "workwear",
+    "i": "workwear/workwear-19.jpg",
+    "t": "100% Fluorescent Polyester Fabric • 360-Degree Retro-Reflective Visibility • IS 15809 Certified • Quick-Release Front Velcro Fastener • Clean Contrast Edge Binding"
+  },
+  {
+    "n": "SA-614 Reflective Arm Bands",
+    "c": "workwear",
+    "i": "workwear/workwear-20.jpg",
+    "t": "Fluorescent Elasticated Reflective Arm Bands • Adjustable Velcro Fastening • High-Intensity Micro-Prismatic Band • Increases Arm Movement Signaling Visibility for Traffic Marshals"
+  },
+  {
+    "n": "SA-615 Reflective Hand Gloves",
+    "c": "workwear",
+    "i": "workwear/workwear-21.jpg",
+    "t": "Fluorescent Elasticated Work Gloves • High-Intensity Reflective Piping Across Knuckles • Textured Non-Slip Enhanced Grip Palm • Maximizes Hand Signaling Visibility for Rigging & Traffic Control"
+  },
+  {
+    "n": "SA-1901 Knitted Fabric Sporty Safety Shoe",
+    "c": "foot-protection",
+    "i": "foot-protection/foot-protection-01.jpg",
+    "t": "Black & Grey Breathable Knitted Fabric Sporty Upper • 3D Spacer Lining with Foam Padding for Enhanced Airflow • Anti-Fatigue Molded EVA Insock with Arch Support • Broad Steel Toe Cap (200J) • Double Density PU Cleated Outsole • Certified to ISI 15298:2024 (Part-2) & CE"
   },
   {
     "n": "SA-1802 Premium Leather Safety Shoe",
     "c": "foot-protection",
-    "i": "foot-protection/foot-protection-01.jpg",
-    "t": "Made from genuine breathable leather equipped with Red color 3D spacer lining with foam for better comfort • Moulded EVA Insock • Broad Steel Toe Cap • Double Density PU With Cleated Outsole • Slip, Oil & Acid Resistant • ISI 15298:2016 (Part-2) & CE"
+    "i": "foot-protection/foot-protection-02.jpg",
+    "t": "Genuine Breathable Leather Upper • Blue 3D Spacer Lining with Heavy Foam Padding • Molded EVA Ergonomic Insock • Broad Steel Toe Cap • Double Density PU With Cleated Outsole • Slip, Oil & Acid Resistant • Certified to ISI 15298:2024 (Part-2) & CE"
   },
   {
     "n": "SA-1801 Premium Safety Shoe",
     "c": "foot-protection",
-    "i": "foot-protection/foot-protection-02.jpg",
-    "t": "Made from genuine breathable leather equipped with black color liberty lining with foam having high abrasion resistance • Moulded EVA Insock • Broad Steel Toe Cap • Single Density PU With Cleated Outsole • Slip, Oil & Acid Resistant • ISI 15298:2016 (Part-2) & CE"
-  },
-  {
-    "n": "SA-1510 High-Ankle Safety Shoe",
-    "c": "foot-protection",
     "i": "foot-protection/foot-protection-03.jpg",
-    "t": "Premium Range Safety footwear specially designed for executive class • Genuine breathable leather equipped with black color liberty lining with foam • Moulded EVA Insock • Broad Steel Toe Cap • Single Density PU Outsole • ISI 15298:2016 (Part-2) & CE"
-  },
-  {
-    "n": "SA-1509 Premium Executive Safety Shoe",
-    "c": "foot-protection",
-    "i": "foot-protection/foot-protection-04.jpg",
-    "t": "Genuine breathable leather equipped with black color liberty lining with foam having high abrasion resistance in dry and wet conditions • Moulded EVA Insock • Broad Steel Toe Cap • Double Density PU Outsole • Optional Antistatic, Composite Toe, Steel Mid Plate"
-  },
-  {
-    "n": "SA-1508 Ultra-Light Sporty Safety Shoe",
-    "c": "foot-protection",
-    "i": "foot-protection/foot-protection-05.jpg",
-    "t": "Knitted fabric upper in Grey/Green Color equipped with breathable soft black polybride fabric lining with foam • Softy EVA orthopedic insole laminated with soft black speed mesh fabric • Broad Steel Toe Cap • Single Density PU Outsole • ISI 15298:2016 (Part-2) & CE"
-  },
-  {
-    "n": "SA-1507 Ultra-Light Sporty Safety Shoe",
-    "c": "foot-protection",
-    "i": "foot-protection/foot-protection-06.jpg",
-    "t": "Knitted fabric upper in army print equipped with breathable soft black polybride fabric lining with foam • Softy EVA orthopedic insole laminated with soft black speed mesh fabric • Broad Steel Toe Cap • Single Density PU Outsole • ISI 15298:2016 (Part-2) & CE"
-  },
-  {
-    "n": "SA-1506 Executive Safety Shoe",
-    "c": "foot-protection",
-    "i": "foot-protection/foot-protection-07.jpg",
-    "t": "Made from genuine breathable leather equipped with black color cambrelle lining with foam having high abrasion resistance • Moulded EVA Insock • Broad Steel Toe Cap • Double Density PU With Cleated Outsole • ISI 15298:2016 (Part-2) & CE"
-  },
-  {
-    "n": "SA-1505 Executive Safety Footwear (Slip-On)",
-    "c": "foot-protection",
-    "i": "foot-protection/foot-protection-08.jpg",
-    "t": "Made from breathable genuine leather having high sweat absorbing black cambrelle lining • Softy EVA orthopedic insole laminated with soft black speed mesh fabric • Broad Steel Toe Cap • Single Density PU Outsole • ISI 15298:2016 (Part-2) & CE"
-  },
-  {
-    "n": "SA-1503 Safety Shoe (Double Density)",
-    "c": "foot-protection",
-    "i": "foot-protection/foot-protection-09.jpg",
-    "t": "Made from genuine breathable leather with cordura fabric enhances breathability, makes shoe lighter in weight • Softy EVA orthopedic insole • Broad Steel Toe Cap • Single Density PU Cleated Outsole (Also Available In Double Density SA-1504)"
-  },
-  {
-    "n": "SA-1501 Executive Safety Footwear",
-    "c": "foot-protection",
-    "i": "foot-protection/foot-protection-10.jpg",
-    "t": "Made from genuine breathable leather equipped with yellow color Spacer lining with foam having high abrasion resistance • Moulded EVA Insock • Broad Steel Toe Cap • Single Density PU Outsole (Also Available in Double Density SA-1504)"
-  },
-  {
-    "n": "SA-1210 Elegant Safety Shoe",
-    "c": "foot-protection",
-    "i": "foot-protection/foot-protection-11.jpg",
-    "t": "Made from breathable genuine leather comes with black liberty lining with foam for enhance comfort and has smart grey stitching with bonded thread • 4mm EVA laminated Speed mesh fabric • Broad Steel Toe Cap • Double Density Outsole"
-  },
-  {
-    "n": "SA-201 Workman Safety Shoe",
-    "c": "foot-protection",
-    "i": "foot-protection/foot-protection-12.jpg",
-    "t": "Elegant workman's choice safety shoe providing safety with comfort • Genuine breathable leather with black liberty lining with foam and smart grey stitching • 4mm EVA laminated Speed mesh fabric • Broad Steel Toe Cap • Single Density Outsole"
+    "t": "Genuine Breathable Leather Upper • Orange Liberty Lining with High Abrasion Resistance • Molded EVA Insock • Broad Steel Toe Cap • Single Density PU Cleated Outsole • Slip, Oil & Acid Resistant • Certified to ISI 15298:2024 (Part-2) & CE"
   },
   {
     "n": "SA-1702 Smart Executive Safety Shoe",
     "c": "foot-protection",
+    "i": "foot-protection/foot-protection-04.jpg",
+    "t": "Complete Electrical Safety Executive Footwear • Genuine Breathable Leather Upper • Black Liberty Lining with Foam • 4mm EVA Insole • Broad Non-Metallic Composite Toe Cap • Double Density PU Outsole • Certified to ISI 15298:2024 (Part-2)"
+  },
+  {
+    "n": "SA-1520 Ultra Light Weight & Flexible Sporty Suede Safety Shoe",
+    "c": "foot-protection",
+    "i": "foot-protection/foot-protection-05.jpg",
+    "t": "Premium Suede Leather & Breathable Fabric Upper • Ultra-Lightweight Ergonomic Construction • Anti-Fatigue Cushion Insole • Broad Steel Toe Cap • Flexible Anti-Slip PU Outsole • Certified to ISI 15298:2024 (Part-2)"
+  },
+  {
+    "n": "SA-1510 High-Ankle Executive Safety Shoe",
+    "c": "foot-protection",
+    "i": "foot-protection/foot-protection-06.jpg",
+    "t": "High-Ankle Support Genuine Leather Upper • Black Liberty Lining with Foam Padding • Molded EVA Shock-Absorbing Insock • Broad Steel Toe Cap • Single Density PU Cleated Outsole • Certified to ISI 15298:2024 (Part-2)"
+  },
+  {
+    "n": "SA-1509 Premium Executive Safety Shoe",
+    "c": "foot-protection",
+    "i": "foot-protection/foot-protection-07.jpg",
+    "t": "Full-Grain Breathable Leather Upper • Black Liberty Lining with High Wet & Dry Abrasion Resistance • Molded EVA Insock • Broad Steel Toe Cap • Double Density PU Outsole • Certified to ISI 15298:2024 (Part-2)"
+  },
+  {
+    "n": "SA-1508B Ultra Light Weight Sporty Safety Shoe",
+    "c": "foot-protection",
+    "i": "foot-protection/foot-protection-08.jpg",
+    "t": "Grey/Green Knitted Upper • Breathable Soft Polybride Fabric Lining with Foam • Softy EVA Orthopedic Insole with Speedmesh • Broad Steel Toe Cap • Single Density PU Outsole • Certified to ISI 15298:2024 (Part-2)"
+  },
+  {
+    "n": "SA-1507 Ultra Light Weight Sporty Safety Shoe",
+    "c": "foot-protection",
+    "i": "foot-protection/foot-protection-09.jpg",
+    "t": "Army Camouflage Print Knitted Fabric Upper • Soft Polybride Foam Lining • Softy EVA Orthopedic Insole • Broad Steel Toe Cap • Single Density PU Outsole • Certified to ISI 15298:2024 (Part-2)"
+  },
+  {
+    "n": "SA-1506 Executive Safety Shoe",
+    "c": "foot-protection",
+    "i": "foot-protection/foot-protection-10.jpg",
+    "t": "Genuine Breathable Leather Upper • Black Cambrelle Lining with High Abrasion Resistance • Molded EVA Insock • Broad Steel Toe Cap • Double Density PU Cleated Outsole • Certified to ISI 15298:2024 (Part-2)"
+  },
+  {
+    "n": "SA-1505 Executive Safety Footwear (Slip-On)",
+    "c": "foot-protection",
+    "i": "foot-protection/foot-protection-11.jpg",
+    "t": "Convenient Slip-On Genuine Leather Upper • High Sweat-Absorbing Black Cambrelle Lining • Softy EVA Orthopedic Insole with Speedmesh • Broad Steel Toe Cap • Single Density PU Outsole • Certified to ISI 15298:2024 (Part-2)"
+  },
+  {
+    "n": "SA-1503 Safety Shoe (Double Density)",
+    "c": "foot-protection",
+    "i": "foot-protection/foot-protection-12.jpg",
+    "t": "Genuine Breathable Leather with Cordura Fabric Inserts • Lightweight & Maximum Breathability • Softy EVA Orthopedic Insole • Broad Steel Toe Cap • Double Density PU Cleated Outsole • Certified to ISI 15298:2024 (Part-2)"
+  },
+  {
+    "n": "SA-1501 Executive Safety Footwear",
+    "c": "foot-protection",
     "i": "foot-protection/foot-protection-13.jpg",
-    "t": "Smart Elegant executive shoe for complete foot safety • Genuine breathable leather equipped with black color Liberty lining with foam • 4mm EVA Insole • Broad Composite Toe Cap • Double Density PU Outsole (Also Available in Single Density SA-1701)"
+    "t": "Genuine Breathable Leather Upper • Yellow 3D Spacer Lining with High Abrasion Resistance • Molded EVA Insock • Broad Steel Toe Cap • Single Density PU Outsole • Certified to ISI 15298:2024 (Part-2)"
+  },
+  {
+    "n": "SA-1500 Elegant Workman's Choice Safety Shoe",
+    "c": "foot-protection",
+    "i": "foot-protection/foot-protection-14.jpg",
+    "t": "Elegant Workman's Choice Genuine Leather Upper • Black Cambrelle Lining with Heavy Foam Padding • Molded EVA Insock • Broad Steel Toe Cap • Single Density PU Outsole • Certified to ISI 15298:2024 (Part-2)"
+  },
+  {
+    "n": "SA-1210 Elegant Safety Shoe",
+    "c": "foot-protection",
+    "i": "foot-protection/foot-protection-15.jpg",
+    "t": "Breathable Genuine Leather Upper with Smart Grey Stitching • Black Liberty Lining with Foam • 4mm EVA Laminated Speedmesh Insole • Broad Steel Toe Cap • Double Density PU Outsole • Certified to ISI 15298:2024 (Part-2)"
+  },
+  {
+    "n": "SA-209 Worker's Safety Shoe",
+    "c": "foot-protection",
+    "i": "foot-protection/foot-protection-16.jpg",
+    "t": "Durable Industrial Safety Shoe • Breathable Upper with Fortis Lining • Anti-Fatigue 4mm EVA Insole • Steel Toe Cap • Direct Injection Moulded PVC Outsole • Oil & Acid Resistant • Certified to ISI 15298:2024 (Part-2)"
+  },
+  {
+    "n": "SA-205 Worker's Safety Shoe",
+    "c": "foot-protection",
+    "i": "foot-protection/foot-protection-17.jpg",
+    "t": "Brogue Executive Workman Upper in Premium CG Leather • Fortis Lining for Superior Moisture Control • Anti-Fatigue Molded EVA Insock • Steel Toe Cap • Single Density PU Cleated Outsole • Certified to ISI 15298:2024 (Part-2)"
+  },
+  {
+    "n": "SA-201 Elegant Workman's Choice Safety Shoe",
+    "c": "foot-protection",
+    "i": "foot-protection/foot-protection-18.jpg",
+    "t": "Breathable Genuine Leather Upper with Bonded Thread Grey Stitching • Black Liberty Lining with Foam • 4mm EVA Laminated Speedmesh • Steel Toe Cap • Single Density Cleated Outsole • Certified to ISI 15298:2024 (Part-2)"
+  },
+  {
+    "n": "SA-200 Worker's Safety Shoe",
+    "c": "foot-protection",
+    "i": "foot-protection/foot-protection-19.jpg",
+    "t": "Heavy-Duty Industrial Worker Shoe • Genuine Leather Upper • Soft Fortis Lining with Arch Support • Anti-Fatigue Insole • Steel Toe Cap • Cleated Outsole • Certified to ISI 15298:2024 (Part-2)"
   },
   {
     "n": "SA-605 Worker's Safety Shoe",
     "c": "foot-protection",
-    "i": "foot-protection/foot-protection-14.jpg",
-    "t": "Worker's Safety shoe providing safety with comfort • Made from 1.8mm thickness of Synthetic leather which comes with fortis fabric lining • 4mm EVA laminated Speed mesh fabric • Steel Toe Cap • Direct Injection Moulded PVC Sole • Oil and Acid Resistant"
+    "i": "foot-protection/foot-protection-20.jpg",
+    "t": "1.8mm High-Durability Synthetic Leather Upper • Fortis Fabric Lining for Enhanced Comfort • 4mm EVA Laminated Speedmesh • Steel Toe Cap • Direct Injection Moulded PVC Sole • Certified to ISI 15298:2024 (Part-2)"
   },
   {
     "n": "SA-604 Worker's Safety Shoe",
     "c": "foot-protection",
-    "i": "foot-protection/foot-protection-15.jpg",
-    "t": "Worker's Safety shoe providing safety with comfort • Made from breathable genuine leather which comes with fortis fabric lining • 4mm EVA laminated Speed mesh fabric • Steel Toe Cap • Direct Injection Moulded PVC Sole • Steel Mid Plate option"
+    "i": "foot-protection/foot-protection-21.jpg",
+    "t": "Breathable Genuine Leather Upper • Liberty Fabric Lining for All-Day Comfort • 4mm EVA Laminated Speedmesh • Steel Toe Cap • Direct Injection Moulded PVC Outsole • Certified to ISI 15298:2024 (Part-2)"
   },
   {
-    "n": "RA-704 High Ankle Safety Boot",
+    "n": "SA-704 High Ankle Safety Boot",
     "c": "foot-protection",
-    "i": "foot-protection/foot-protection-16.jpg",
-    "t": "High ankle shoe made synthetic leather upper having nawazo print and comes with high sweat absorbing orange color speed mesh lining with foam • 3mm EVA laminated Speedmesh fabric • Broad Steel Toe Cap • Direct Injection Moulded PVC Sole"
+    "i": "foot-protection/foot-protection-22.jpg",
+    "t": "High-Ankle Nawazo Print Synthetic Leather Upper • High Sweat-Absorbing Orange Speedmesh Lining with Foam • 3mm EVA Speedmesh Insole • Broad Steel Toe Cap • Direct Injection Moulded PVC Sole • Oil & Acid Resistant"
   },
   {
-    "n": "RA-703 Low Ankle Safety Shoe",
+    "n": "SA-703 Low Ankle Safety Shoe",
     "c": "foot-protection",
-    "i": "foot-protection/foot-protection-17.jpg",
-    "t": "Low ankle shoe made synthetic leather upper having nawazo print and comes with high sweat absorbing Black color Polybride lining with foam and White color stitching • 3mm EVA laminated Speed mesh fabric • Broad Steel Toe Cap • PVC Sole"
+    "i": "foot-protection/foot-protection-23.jpg",
+    "t": "Low-Ankle Nawazo Print Synthetic Leather Upper • Sapphire Moisture-Control Lining with Orange Stitching • 3mm EVA Speedmesh Insole • Broad Steel Toe Cap • Direct Injection Moulded PVC Sole"
   },
   {
-    "n": "RA-701 Heavy Duty Safety Boot",
+    "n": "SA-701 Low Ankle Safety Shoe",
     "c": "foot-protection",
-    "i": "foot-protection/foot-protection-18.jpg",
-    "t": "Worker's Safety shoe providing safety with comfort • Low ankle shoe made synthetic leather upper equipped with high sweat absorbing Black color Polybride lining with foam and White color stitching • Direct Injection Moulded PVC Sole"
+    "i": "foot-protection/foot-protection-24.jpg",
+    "t": "Low-Ankle Nawazo Print Synthetic Leather Upper • Black Polybride Lining with White Sporty Stitching • 3mm EVA Speedmesh Insole • Broad Steel Toe Cap • Direct Injection Moulded PVC Cleated Sole"
   },
   {
     "n": "Industrial Jungle Safety Boot",
     "c": "foot-protection",
-    "i": "foot-protection/foot-protection-19.jpg",
-    "t": "Jungle Boot Specially designed for Paramilitary Forces • Water Repellent polyester viscous fabric with genuine leather and hard toe comes with Black Cambrelle lining • Anti Fatigue Moulded EVA Insole • Hard Toe • Single Density PU Cleated Outsole"
+    "i": "foot-protection/foot-protection-25.jpg",
+    "t": "Specially Designed for Paramilitary & Security Forces • Water-Repellent Polyester Viscous Fabric with Genuine Leather • Hard Protective Toe • Anti-Fatigue Molded EVA Insock with Arch Support • Single Density PU Cleated Outsole"
   },
   {
     "n": "Tactical Paramilitary Safety Boot",
     "c": "foot-protection",
-    "i": "foot-protection/foot-protection-20.jpg",
-    "t": "Tactical Boot Specially designed for Paramilitary Forces • Made from Genuine leather equipped with cambrelle lining with Foam • Anti Fatigue Moulded EVA Insole • Hard Toe • Single Density PU With Cleated Outsole • Steel Mid Plate option"
+    "i": "foot-protection/foot-protection-26.jpg",
+    "t": "Tactical Combat & Security Boot • Genuine High-Grade Leather with Cambrelle Foam Lining • Anti-Fatigue Molded EVA Insole • Hard Protective Toe • Single Density PU Cleated Outsole • Slip, Oil & Acid Resistant"
   },
   {
     "n": "PVC Safety Gumboot",
     "c": "foot-protection",
-    "i": "foot-protection/foot-protection-21.jpg",
-    "t": "Gumboot is Specially designed to wear in wet and muddy conditions to keep the feet dry • Made from heavy duty PVC • High Sweat Absorbing Lining • Broad Steel Toe Cap • Double Color PVC Outsole • Slip, Oil & Acid Resistant • IS 15298:2016"
+    "i": "foot-protection/foot-protection-27.jpg",
+    "t": "Heavy-Duty Waterproof Virgin PVC Construction • High Sweat-Absorbing Fabric Lining • Broad Steel Toe Cap (200J) • Dual-Color PVC Cleated Outsole • 100% Water, Mud, Oil & Acid Proof • Certified to ISI 15298:2024"
   },
   {
-    "n": "AK-FP-56 Full Body Harness (Multi-Purpose Rescue)",
+    "n": "AK-FP-56 Multi-Purpose Rescue Harness",
     "c": "harnesses",
     "i": "harnesses/harnesses-01.jpg",
-    "t": "Class A, L, P, R • Dorsal, sternal & lateral D-rings with ventral attachment • Fully adjustable shoulder, chest & thigh straps • IS 3521:1999 & EN 361/358/813"
+    "t": "Multi-Purpose Fall Arrest & Rescue Harness • Dorsal & Sternal D-Rings • Work Positioning Belt with 2 Lateral D-Rings • Fully Adjustable Straps • Conforms to EN 361, EN 358 & IS 3521"
   },
   {
-    "n": "AK-FP-42 Full Body Harness with Work Positioning Belt",
+    "n": "AK-FP-57 Tower Climbing Safety Harness",
     "c": "harnesses",
     "i": "harnesses/harnesses-02.jpg",
-    "t": "Dorsal D-ring with integrated work positioning belt & dual lateral D-rings • Adjustable shoulder & thigh straps • Ideal for tower and pole work"
+    "t": "Durable & Lightweight Tower Harness for Vertical Climbing • Dorsal & Sternal Attachment Points • Ergonomic Back Pad & Extension Band Option (IND-FP-57 E) • Conforms to IS 3521"
   },
   {
-    "n": "AK-FP-43 Full Body Harness",
+    "n": "AK-FP-45 Robust Full-Body Safety Harness",
     "c": "harnesses",
     "i": "harnesses/harnesses-03.jpg",
-    "t": "Full body fall arrest harness with front sternal textile loops & rear dorsal D-ring • Contrast stitching • Certified to IS 3521:1999 & EN 361:2002"
+    "t": "Heavy-Duty Full Body Harness for Fall Arrest & Work Positioning • Broad Padded Thigh Straps • Quick Connect Buckles • Conforms to EN 361 & IS 3521"
   },
   {
-    "n": "AK-FP-19 Confined Space Full Body Harness",
+    "n": "AK-FP-44 Fall Arrest Safety Harness",
     "c": "harnesses",
     "i": "harnesses/harnesses-04.jpg",
-    "t": "Class E • Dorsal D-ring with shoulder attachment D-rings for vertical retrieval in confined spaces, manholes and tanks • Conforms to EN 361 & EN 1497"
+    "t": "Ergonomically Designed Fall Arrest Harness with Sternal Textile Loops • High-Tenacity Polyester 44mm Webbing • Reinforced Stitching • Conforms to IS 3521 & EN 361"
   },
   {
-    "n": "AK-FP-21 Full Body Safety Harness",
+    "n": "AK-FP-43 Full Body Harness with Chest Loops",
     "c": "harnesses",
     "i": "harnesses/harnesses-05.jpg",
-    "t": "Class A • High strength 44mm polyester webbing • Rear dorsal attachment D-ring • Adjustable chest & thigh straps • Certified to IS 3521:1999"
+    "t": "Durable Full Body Harness Equipped with Front Textile Loops for Climbing & Fall Arrest • Dual Color Scheme for Rapid Donning • Conforms to IS 3521"
   },
   {
-    "n": "AK-FP-24 Full Body Harness",
+    "n": "AK-FP-42 Tower Climbing Harness with Belt",
     "c": "harnesses",
     "i": "harnesses/harnesses-06.jpg",
-    "t": "Two attachment points (dorsal D-ring & sternal loops) • Dual color straps for easy orientation • Fully adjustable buckles • EN 361:2002 certified"
+    "t": "Ergonomic Tower Climbing Harness • Integrated Work Positioning Belt with 2 Side D-Rings • Tool Loops • Conforms to IS 3521:1999 & EN 361:2002"
   },
   {
-    "n": "AK-FP-23 Full Body Harness",
+    "n": "AK-FP-41 Lightweight Tower Climbing Harness",
     "c": "harnesses",
     "i": "harnesses/harnesses-07.jpg",
-    "t": "Class A fall arrest harness with dorsal D-ring, comfort leg pads, and quick-connect mating buckles • High tensile webbing > 23kN"
+    "t": "Lightweight & Durable Full-Body Harness for High Tower Climbing • Dorsal D-Ring with Extension Leash • Zinc-Plated Alloy Steel Buckles • Conforms to IS 3521"
   },
   {
-    "n": "AK-FP-18 Full Body Harness",
+    "n": "AK-FP-32 Fall Arrest Safety Harness",
     "c": "harnesses",
     "i": "harnesses/harnesses-08.jpg",
-    "t": "Standard full body fall arrest harness • Rear dorsal D-ring • Zinc-plated stamped steel hardware • Economical & durable protection"
+    "t": "Lightweight & Practical Fall Arrest Harness • Dorsal D-Ring • 2 Attachment & 4 Adjustment Points • Conforms to IS 3521 & EN 361"
   },
   {
-    "n": "AK-FP-51 Sit Harness (Rope Access)",
+    "n": "AK-FP-31 Entry-Level Fall Arrest Harness",
     "c": "harnesses",
     "i": "harnesses/harnesses-09.jpg",
-    "t": "Ergonomic sit harness with ventral D-ring for rope access and work positioning • Padded waist belt & leg loops • Conforms to EN 813:2008"
+    "t": "Basic Full-Body Safety Harness Designed for Scaffolding & Construction • 1 Rear Attachment Point • Tested to 23 kN Breaking Strength • Conforms to IS 3521"
   },
   {
-    "n": "AK-FP-16 Full Body Harness",
+    "n": "AK-FP-25 Purpose-Built Rescue Harness",
     "c": "harnesses",
     "i": "harnesses/harnesses-10.jpg",
-    "t": "Class A harness with dorsal D-ring and adjustable torso/leg straps • 44mm polyester webbing • ISI Marked (IS 3521:1999)"
+    "t": "Purpose-Built Rescue Harness for Safe & Efficient Evacuation from Confined Spaces • Overhead Shoulder Retrieval D-Rings • Conforms to EN 361 & EN 1497"
   },
   {
-    "n": "AK-FP-14 Confined Space Fall Arrest Harness",
+    "n": "AK-FP-24 Basic Fall Arrest Harness",
     "c": "harnesses",
     "i": "harnesses/harnesses-11.jpg",
-    "t": "44mm polyester webbing with min. breaking strength of 22kN • One Dorsal & Sternal D-ring for fall arrest • Fully Adjustable Chest and Thigh straps • Fall Arrest & Controlled Descent in Confined Space • IS 3521:2021 (Part 1)"
+    "t": "Durable & Easy-to-Use 2-Attachment Point Full-Body Harness • High-Abrasion Resistant Webbing • Conforms to IS 3521"
+  },
+  {
+    "n": "AK-FP-23 Full Body Safety Harness",
+    "c": "harnesses",
+    "i": "harnesses/harnesses-12.jpg",
+    "t": "Dorsal D-Ring with Permanent Extension Band • Rapid Buckle Clamping • Tested Breaking Strength: 23 kN • Conforms to IS 3521:1999"
+  },
+  {
+    "n": "AK-FP-22 Practical Full-Body Safety Harness",
+    "c": "harnesses",
+    "i": "harnesses/harnesses-13.jpg",
+    "t": "Dependable Fall Protection Harness with Front & Rear Anchor Points • Adjustable Chest & Leg Loops • Conforms to IS 3521 & EN 361"
+  },
+  {
+    "n": "AK-FP-21 Basic Fall Arrest Harness",
+    "c": "harnesses",
+    "i": "harnesses/harnesses-14.jpg",
+    "t": "1 Attachment Point & 3 Adjustment Points • Lightweight High-Tenacity Polyester Webbing • Conforms to IS 3521 & EN 361"
+  },
+  {
+    "n": "AK-FP-19 Confined Space Retrieval Harness",
+    "c": "harnesses",
+    "i": "harnesses/harnesses-15.jpg",
+    "t": "Specialized Confined Space Entry & Retrieval Harness • 3 Points of Attachment with Shoulder Hoisting Straps • Compatible with Tripod Winch Systems • Conforms to EN 1497"
+  },
+  {
+    "n": "AK-FP-18 Tower Climbing Harness",
+    "c": "harnesses",
+    "i": "harnesses/harnesses-16.jpg",
+    "t": "Reliable & Ergonomic Harness Designed Specifically for Tower Climbing & Vertical Work • Dorsal D-Ring & Sternal Attachment • Conforms to IS 3521"
+  },
+  {
+    "n": "AK-FP-18H Tower Climbing Harness (Straight Thigh)",
+    "c": "harnesses",
+    "i": "harnesses/harnesses-17.jpg",
+    "t": "Tower Climbing Harness with Straight Horizontal Thigh Straps for Unrestricted Leg Mobility • Conforms to IS 3521"
+  },
+  {
+    "n": "AK-FP-17 Work Positioning Harness",
+    "c": "harnesses",
+    "i": "harnesses/harnesses-18.jpg",
+    "t": "Ergonomic Harness for Work Positioning Tasks Where Fall Risk is Present • Integrated Lateral D-Rings • Conforms to EN 358 & IS 3521"
+  },
+  {
+    "n": "AK-FP-16 Entry-Level Fall Arrest Harness",
+    "c": "harnesses",
+    "i": "harnesses/harnesses-19.jpg",
+    "t": "Reliable 1-Point Attachment Harness for General Construction & Scaffolding Work • High-Tenacity Virgin Webbing • Conforms to IS 3521"
+  },
+  {
+    "n": "AK-FP-14 Controlled Descent Safety Harness",
+    "c": "harnesses",
+    "i": "harnesses/harnesses-20.jpg",
+    "t": "Compact & Lightweight Harness for Controlled Descent & Rescue Applications • Front Low-Point Attachment • Conforms to EN 361"
+  },
+  {
+    "n": "AK-FP-12 Lightweight 2-Point Safety Harness",
+    "c": "harnesses",
+    "i": "harnesses/harnesses-21.jpg",
+    "t": "2-Point Fall Arrest Harness (Dorsal D-Ring + Sternal Loops) • Adjustable Chest & Leg Straps • Conforms to IS 3521 & EN 361"
+  },
+  {
+    "n": "AK-FP-11 Confined Space Harness",
+    "c": "harnesses",
+    "i": "harnesses/harnesses-22.jpg",
+    "t": "Confined Space & Tank Entry Full-Body Harness • Dual Shoulder Retrieval Loops • Conforms to EN 361 & EN 1497"
+  },
+  {
+    "n": "AK-FP-06 Cost-Effective Fall Protection Harness",
+    "c": "harnesses",
+    "i": "harnesses/harnesses-23.jpg",
+    "t": "2-Point Basic Fall Protection Harness with Zinc-Coated Stamped Steel Buckles • Conforms to IS 3521:1999"
+  },
+  {
+    "n": "AK-FP-05 Single D-Ring Fall Arrest Harness",
+    "c": "harnesses",
+    "i": "harnesses/harnesses-24.jpg",
+    "t": "Single Dorsal D-Ring Industrial Safety Harness • Dual Color Webbing for Easy Orienting • Conforms to IS 3521"
+  },
+  {
+    "n": "AK-FP-03 Work Positioning Belt",
+    "c": "harnesses",
+    "i": "harnesses/harnesses-25.jpg",
+    "t": "Attachment Points: 2 Lateral D-rings for work positioning • Waist Belt: 44mm high-strength polyester webbing • Ergonomic Back Pad: Comfort foam lumbar support • Buckles: Alloy steel pass-through adjustment buckles • Compatibility: Suitable for work restraint and work positioning • Standards: IS 3521(Part 1):2021 & EN 358:2018"
   },
   {
     "n": "AK-FP-02 Work Positioning Belt",
     "c": "harnesses",
-    "i": "harnesses/harnesses-12.jpg",
-    "t": "44mm wide polyester webbing belt with comfort lumbar pad and forged alloy side D-rings • Easy tongue buckle adjustment • Conforms to EN 358"
+    "i": "harnesses/harnesses-26.jpg",
+    "t": "Work Positioning Belt with Padded Lumbar Support • 2 Lateral Bent D-Rings for Hands-Free Pole & Tower Work • Conforms to EN 358"
   },
   {
-    "n": "AK-HC-112 Screw-Lock Carabiner",
+    "n": "AK-FP-01 Extra-Wide 21cm Padded Work Positioning Belt",
     "c": "harnesses",
-    "i": "harnesses/harnesses-13.jpg",
-    "t": "Forged alloy steel oval carabiner with screw locking gate • 25kN breaking strength • 18mm gate opening • Conforms to EN 362:2004"
+    "i": "harnesses/harnesses-27.jpg",
+    "t": "Superior Back Support Work Positioning Belt with 21cm Extra-Wide Ergonomic Padded Cushion • Tool Loops & Metal Rings • Conforms to EN 358 & IS 3521"
   },
   {
-    "n": "AK-HC-113 Twist-Lock Carabiner",
+    "n": "AK-STS-01 Suspension Trauma Relief Strap",
     "c": "harnesses",
-    "i": "harnesses/harnesses-14.jpg",
-    "t": "Automatic quarter-turn twist lock steel carabiner • 25kN minimum breaking load • Keylock nose to prevent snagging • Conforms to EN 362:2004"
+    "i": "harnesses/harnesses-28.jpg",
+    "t": "Lifesaving Suspension Trauma Safety Strap • Deploys Rapidly Post-Fall to Allow Suspended Worker to Stand & Relieve Femoral Artery Pressure • Fits Any Harness"
   },
   {
-    "n": "AK-HC-131 Scaffold Hook",
+    "n": "AK-HC-111 Screw-Lock Steel Carabiner",
     "c": "harnesses",
-    "i": "harnesses/harnesses-15.jpg",
-    "t": "Forged steel snap hook with 55mm gate opening • Double action self-locking mechanism • 23kN breaking strength • Conforms to EN 362:2004"
+    "i": "harnesses/harnesses-29.jpg",
+    "t": "Standard Oval Screw-Locking Alloy Steel Carabiner • 17mm Gate Opening • Minimum Breaking Strength: 25 kN • Conforms to EN 362:2004 Class B"
   },
   {
-    "n": "Restraint Lanyard - Twisted Rope",
+    "n": "AK-HC-112 Screw-Lock Forged Carabiner",
     "c": "harnesses",
-    "i": "harnesses/harnesses-16.jpg",
-    "t": "12mm 3-strand polyamide twisted rope lanyard with spliced loops and steel connectors • Length: 1.5m / 2.0m • Conforms to EN 354:2010"
+    "i": "harnesses/harnesses-30.jpg",
+    "t": "Forged Alloy Steel Screw-Locking Carabiner • 18mm Gate Opening • Breaking Strength: 25 kN • Golden Yellow Zinc Plating • Conforms to EN 362 & IS 3521"
   },
   {
-    "n": "Restraint Lanyard - Kernmantle Rope",
+    "n": "AK-HC-113 Auto Twist-Lock Carabiner",
     "c": "harnesses",
-    "i": "harnesses/harnesses-17.jpg",
-    "t": "11mm polyamide kernmantle rope work restraint lanyard with stitched eyes and transparent protective sleeve • Conforms to EN 354"
+    "i": "harnesses/harnesses-31.jpg",
+    "t": "Auto-Locking Quarter-Turn Twist-Lock Carabiner • Keylock Anti-Snag Nose • 20mm Gate Opening • Breaking Strength: 25 kN • Conforms to EN 362:2004 Class B"
   },
   {
-    "n": "AK-EA-300 Energy Absorber Lanyard",
+    "n": "AK-HC-121 Snap Hook with Double Action Lock",
     "c": "harnesses",
-    "i": "harnesses/harnesses-18.jpg",
-    "t": "Tear-webbing energy absorber with single rope lanyard and steel scaffold hook • Max impact force < 6kN • Conforms to EN 355:2002"
+    "i": "harnesses/harnesses-32.jpg",
+    "t": "Double Action Self-Locking Alloy Steel Snap Hook • 20mm Gate Opening • Minimum Breaking Strength: 25 kN • Conforms to EN 362:2004 Class T"
   },
   {
-    "n": "AK-EA-400 Energy Absorber (Adjustable)",
+    "n": "AK-HC-131 Steel Scaffold Hook (55mm Opening)",
     "c": "harnesses",
-    "i": "harnesses/harnesses-19.jpg",
-    "t": "Shock absorbing lanyard with adjustable webbing length (up to 2.0m) and forged carabiner & scaffold hook • Conforms to EN 355:2002"
+    "i": "harnesses/harnesses-33.jpg",
+    "t": "Heavy-Duty Double Action Self-Locking Steel Scaffold Hook • 55mm Large Jaw Opening • Breaking Strength: 25 kN • Conforms to EN 362:2004 Class A/T"
+  },
+  {
+    "n": "AK-EA-300 Tear-Webbing Energy Absorber Lanyard",
+    "c": "harnesses",
+    "i": "harnesses/harnesses-34.jpg",
+    "t": "Tear-Webbing Energy Absorber Pack • Limits Fall Arrest Impact Force to Below 6 kN • 44mm Webbing with Clear Shrink Sleeve • Conforms to EN 355:2002 & IS 3521"
+  },
+  {
+    "n": "AK-EA-400 Adjustable Energy Absorber Lanyard",
+    "c": "harnesses",
+    "i": "harnesses/harnesses-35.jpg",
+    "t": "Adjustable Length Energy Absorber Lanyard • Steel Ring Buckle Adjuster • Tear-Webbing Shock Pack (Force < 6 kN) • Length: 1.5m to 2.0m • Conforms to EN 355"
   },
   {
     "n": "AK-WPL-241 Work Positioning Lanyard",
     "c": "harnesses",
-    "i": "harnesses/harnesses-20.jpg",
-    "t": "14mm twisted rope with alloy steel ring adjuster, protective wear sleeve and karabiners • Length: 2.0m • Conforms to EN 358:2018"
+    "i": "harnesses/harnesses-36.jpg",
+    "t": "14mm Polyamide Twisted Rope Lanyard • Ergonomic Steel Rope Grab Adjuster • Protective Wear Sleeve • Equipped with Screw-Lock Carabiner (IND-HC-112) • Conforms to EN 358"
   },
   {
-    "n": "AK-FL-341 Forked Lanyard",
+    "n": "AK-FL-341 Forked Webbing Energy Absorbing Lanyard",
     "c": "harnesses",
-    "i": "harnesses/harnesses-21.jpg",
-    "t": "Twin-leg webbing lanyard with integrated shock absorber and two 55mm scaffold hooks for 100% tie-off • Conforms to EN 355:2002"
+    "i": "harnesses/harnesses-37.jpg",
+    "t": "Twin-Leg / Forked 44mm Polyester Webbing Lanyard • Integrated Energy Absorber (Force < 6 kN) • 1 Carabiner at Harness End & 2 Large Scaffold Hooks (55mm Gate) • Conforms to EN 355"
+  },
+  {
+    "n": "AK-FL-351 Forked Rope Energy Absorbing Lanyard",
+    "c": "harnesses",
+    "i": "harnesses/harnesses-38.jpg",
+    "t": "Dual-Leg 12mm Polyamide Twisted Rope Lanyard • Integrated Energy Absorber • 1 Snap Hook + 2 Scaffold Hooks • 100% Tie-Off Protection • Conforms to EN 355"
   },
   {
     "n": "AK-FL-361 Forked Kernmantle Lanyard",
     "c": "harnesses",
-    "i": "harnesses/harnesses-22.jpg",
-    "t": "Twin-leg 11mm kernmantle rope energy absorber lanyard with steel scaffold hooks • Conforms to EN 355:2002 & EN 354"
+    "i": "harnesses/harnesses-39.jpg",
+    "t": "Dual-Leg 12mm Braided Kernmantle Rope Lanyard • Integrated Tear-Tape Energy Absorber • 1 Screw-Lock Carabiner & 2 Scaffold Hooks • Conforms to EN 355"
   },
   {
-    "n": "AK-2000 Rope Grab Fall Arrestor",
+    "n": "SA-2000 Guided Rope Grab Fall Arrester",
     "c": "harnesses",
-    "i": "harnesses/harnesses-23.jpg",
-    "t": "Guided type fall arrester on flexible anchorage line • Openable cam mechanism, alloy steel • Fits 14mm-16mm rope • Conforms to EN 353-2"
+    "i": "harnesses/harnesses-40.jpg",
+    "t": "Guided-Type Fall Arrester for 14mm - 16mm Polyamide Anchorage Lines • High-Grade Stainless Steel Body • Gravity Anti-Panic Safety Cam • Conforms to EN 353-2 & IS 3521"
   },
   {
-    "n": "AK-2003 Removable Rope Grab Arrester",
+    "n": "SA-2003 Removable Rope Grab Fall Arrester",
     "c": "harnesses",
-    "i": "harnesses/harnesses-24.jpg",
-    "t": "Stainless steel automatic rope grab for 14mm-16mm vertical lifelines • Gravity lock safety feature • Conforms to EN 353-2:2002"
+    "i": "harnesses/harnesses-41.jpg",
+    "t": "Detachable Rope Grab Arrester • Openable Hinge Mechanism Allows Mid-Line Installation • Integrated Safety Locking Pin • For 14mm Twisted Rope • Conforms to EN 353-2"
   },
   {
-    "n": "AK-AWS-803 Twisted Rope Anchorage Line (14mm)",
+    "n": "AK-AWS-803 Twisted Rope Vertical Anchorage Line",
     "c": "harnesses",
-    "i": "harnesses/harnesses-25.jpg",
-    "t": "14mm 3-strand polyamide vertical lifeline with stop knot, thimble eye and steel carabiner • Available in 10m to 50m • EN 353-2"
+    "i": "harnesses/harnesses-42.jpg",
+    "t": "14mm Diameter Polyamide 3-Strand Twisted Rope Anchorage Line • Stitched Eye with Thimble & Stop Knot • Available in Lengths: 10m, 20m, 30m, 50m, 100m • Conforms to EN 353-2"
   },
   {
-    "n": "AK-AWS-804 Kernmantle Anchorage Line (12mm)",
+    "n": "AK-AWS-804 Kernmantle Vertical Anchorage Line",
     "c": "harnesses",
-    "i": "harnesses/harnesses-26.jpg",
-    "t": "High tenacity 12mm kernmantle vertical lifeline with spliced loop, thimble eye and karabiner • Available in 10m to 50m • EN 353-2"
+    "i": "harnesses/harnesses-43.jpg",
+    "t": "12mm High-Tenacity Braided Kernmantle Rope Anchorage Line • Excellent Resistance to Chemical Degradation & Sharp Edges • Available in 10m to 100m Lengths • Conforms to EN 353-2"
   },
   {
-    "n": "AK-910K Webbing Anchor Sling",
+    "n": "AK-3000 Temporary Horizontal Lifeline System",
     "c": "harnesses",
-    "i": "harnesses/harnesses-27.jpg",
-    "t": "44mm high strength polyester webbing anchor sling with reinforced loops • 22kN tensile strength • Conforms to EN 795 Class B"
+    "i": "harnesses/harnesses-44.jpg",
+    "t": "Temporary Horizontal Lifeline Made of 30mm Polyester Webbing • Integrated Heavy-Duty Ratchet Tensioner • Adjustable Span: Up to 20m • Suitable for 2 Users Simultaneously • Conforms to EN 795 Class B"
   },
   {
-    "n": "Horizontal Lifeline System",
+    "n": "AK-RB-10 Retractable Fall Arrester Block (10m)",
     "c": "harnesses",
-    "i": "harnesses/harnesses-28.jpg",
-    "t": "Temporary horizontal lifeline with tensioner, 20m/30m webbing line, cross-arm straps and carrying bag • Conforms to EN 795:2012"
+    "i": "harnesses/harnesses-45.jpg",
+    "t": "Self-Retracting Lifeline (SRL) with High-Impact Polymer Casing • 4.5mm Galvanized Steel Wire Rope (10m) • Internal Inertia Braking Mechanism with Shock Absorber • Swivel Snap Hook with Fall Indicator • Conforms to EN 360:2002"
   },
   {
-    "n": "AK-RB Retractable Fall Arrester Block",
-    "c": "harnesses",
-    "i": "harnesses/harnesses-29.jpg",
-    "t": "Galvanized wire rope retractable block with high impact polymer casing, swivel snap hook and load indicator • Conforms to EN 360:2002"
-  },
-  {
-    "n": "Maintenance & Window Cleaning Safety Kit",
+    "n": "AK-KIT-651 Maintenance & Window Cleaning Safety Kit",
     "c": "kits",
     "i": "kits/kits-01.jpg",
-    "t": "Complete height access kit • AK-FP-56 Full Body Harness • 14mm Kernmantle Rope (20m/50m) • AK-2000A Rope Grab Arrester • Grip Descender • Deluxe Tool & Kit Bag"
+    "t": "Complete High-Altitude Maintenance Kit • Includes: IND-FP-56 Full Body Harness, IND-2000A Rope Grab, 50m Anchorage Rope (IND-950), 2x Anchorage Slings (IND-AWS-803), 2x Carabiners (IND-HC-112), High-Grip Gloves (IND-HP-04) & Heavy-Duty Kit Bag"
   },
   {
-    "n": "Basic Rescue Kit",
+    "n": "AK-KIT-652 Basic Rescue Safety Kit",
     "c": "kits",
     "i": "kits/kits-02.jpg",
-    "t": "Emergency rescue kit for fall victims • AK-FP-56 Rescue Harness • Grip Descender • 50m Kernmantle Rope • AK-2000A Fall Arrester • AK-HC-112 Karabiners • Heavy Duty Deluxe Bag"
+    "t": "Immediate Post-Fall Rescue Solution • Includes: IND-FP-56 Rescue Harness, IND-2000A Guided Arrester, 50m Polyamide Lifeline (IND-950), Forked Energy Absorbing Lanyard (IND-FL-351), Work Positioning Lanyard (IND-WPL-242), 2x Anchorage Slings, 2x Carabiners & Portable Duffel Bag"
   },
   {
-    "n": "Telecom Tower Climbing Kit",
+    "n": "AK-KIT-653 Telecom Tower Climbing Safety Kit",
     "c": "kits",
     "i": "kits/kits-03.jpg",
-    "t": "Specialized kit for high-rise tower technicians • AK-FP-56 Ergonomic Harness • AK-FL-361 Forked Lanyard with Scaffold Hooks • AK-WPL-242 Positioning Lanyard • Rope Grab • Tool & Carrying Bag"
+    "t": "Engineered for High-Rise Telecom Towers & Transmission Pylons • Includes: IND-FP-56 Tower Harness, Forked Lanyard with 55mm Scaffold Hooks (IND-FL-351), Work Positioning Lanyard (IND-WPL-242), Rope Grab (IND-2000A), 50m Vertical Lifeline, Carabiners, High-Grip Gloves & Rugged Backpack"
   },
   {
     "n": "AK-TPOD-01 Confined Space Fall Protection Tripod (7ft / 10ft)",
     "c": "kits",
     "i": "kits/kits-04.jpg",
-    "t": "EN 795:2012 Type-B Certified • High-Strength Telescopic Aluminum Alloy Legs • 7ft to 10ft Adjustable Height • 500 kg Safe Working Load • Integrated Anchorage Eye Bolts & Steel Safety Chain • Ideal for Manholes, Tanks & Silos"
+    "t": "Aluminum Alloy Telescopic Confined Space Tripod • Working Height: 7ft (Extends to 10ft) • Safe Working Load: 500 kg • Integrated Stainless Steel Head Pulleys & Secondary Anchor Eye • Auto-Locking Safety Leg Pins & Safety Chain • Conforms to EN 795 Class B"
   },
   {
     "n": "AK-WIN-01 Heavy-Duty Man-Riding & Material Retrieval Winch",
     "c": "kits",
     "i": "kits/kits-05.jpg",
-    "t": "EN 1496:2017 Class-A Certified • 20m / 25m Galvanized Steel Wire Rope (6.3mm) • 135 kg Man-Riding Capacity / 250 kg Material Load • Dual Action Automatic Brake Mechanism • Universal Tripod Mounting Bracket Included"
+    "t": "Dual-Function Man-Riding & Material Retrieval Winch • 20m Galvanized Steel Cable (6.3mm) • Automatic Mechanical Brake with Secondary Inertia Stop • Gear Ratio: 5:1 for Effortless Winding • Working Load: 140 kg (Personnel), 300 kg (Material) • Mounts Directly to Tripod Leg • Conforms to EN 1496"
   },
   {
-    "n": "Safety Net - 2mm Double Cord",
+    "n": "AK-KIT-654 Confined Space Entry Kit",
+    "c": "kits",
+    "i": "kits/kits-06.jpg",
+    "t": "Complete Confined Space Manhole & Silo Access Kit • Includes: IND-TPOD-01 Tripod (7ft), IND-WIN-01 Retrieval Winch (10m), IND-FP-19 Confined Space Retrieval Harness, Retractable Block (IND-RB-10) & Steel Carabiners"
+  },
+  {
+    "n": "AK-KIT-667 Painter Safety Kit",
+    "c": "kits",
+    "i": "kits/kits-07.jpg",
+    "t": "Exterior Facade & Painting Fall Arrest Kit • Includes: IND-FP-56 Harness, Rope Grab Arrester (IND-2000A), 50m Polyamide Lifeline (IND-950), Anchorage Slings, Carabiners & Heavy-Duty Carry Bag"
+  },
+  {
+    "n": "AK-NET-001 PPMF Knotless Safety Net for Human Fall Arrest",
     "c": "safety-nets",
     "i": "safety-nets/safety-nets-01.jpg",
-    "t": "2mm high-tenacity PP double cord construction • 100mm mesh size • 12mm border tie rope • Certified to IS 5175:2014"
+    "t": "Polypropylene Multifilament (PPMF) Knotless Safety Net • 100mm Square Mesh with Exceptional Energy Absorption • Smooth Surface Reduces Friction Abrasion on Falling Workers • Conforms to EN 1263-1 System S & IS 5175"
   },
   {
-    "n": "Safety Net - Double Layer 4mm + 120 GSM Monofilament",
+    "n": "AK-NET-002 PPMF Knotless Safety Net with Monofilament Net (120 GSM)",
     "c": "safety-nets",
     "i": "safety-nets/safety-nets-02.jpg",
-    "t": "4mm braided PP safety net layered with 120 GSM monofilament debris containment mesh for personnel and tool catch • IS 5175 certified"
+    "t": "PPMF Knotless High-Performance Fall Arrest Net Laminated with 120 GSM Monofilament Overlay • Superior Debris Retention Combined with 2.3 kJ/m² Impact Shock Dissipation • Ideal for Commercial Multi-Storey Projects"
   },
   {
-    "n": "Safety Net - Double Layer 5mm Braided + Containment Net",
+    "n": "AK-NET-003 PPMF Knotless Safety Net with Monofilament Overlay",
     "c": "safety-nets",
     "i": "safety-nets/safety-nets-03.jpg",
-    "t": "5mm heavy-duty braided primary net with secondary fine mesh containment layer • UV stabilized polypropylene • High impact fall protection"
+    "t": "Dual-Function Knotless Man & Debris Fall Net • 100mm PPMF Main Mesh with Bound Monofilament Filter Layer • Heat-Set Stabilized Border Rope (12mm) • Conforms to IS 5175 & EN 1263-1"
   },
   {
-    "n": "Safety Net - 2.5mm Braided Net",
+    "n": "AK-NET-004 Fall Protection Safety Net (2mm Double Cord Net)",
     "c": "safety-nets",
     "i": "safety-nets/safety-nets-04.jpg",
-    "t": "2.5mm knotted/knotless braided polypropylene safety net with 12mm reinforced border rope • Ideal for construction scaffolding"
+    "t": "2mm Double Cord Polypropylene Braided Net • 100mm x 100mm Diamond / Square Mesh • 12mm High-Tenacity Polypropylene Border Rope • Conforms to IS 5175 & EN 1263-1 • Protects Personnel & Fall Clearance at High Construction Sites"
   },
   {
-    "n": "Safety Net - Double Layer 2.5mm + Monofilament Net",
+    "n": "AK-NET-005 Double Layer 4mm Braided Net with Containment Net",
     "c": "safety-nets",
     "i": "safety-nets/safety-nets-05.jpg",
-    "t": "2.5mm braided net combined with fine monofilament fabric for anti-debris catch on multi-story building construction"
+    "t": "4mm Braided PP Fall Arrest Net Coupled with Fine Mesh Containment Net • High Resistance to Impact Penetration • UV Stabilized for Prolonged Outdoor Construction Use"
   },
   {
-    "n": "Safety Net - Triple Layer 4mm + 2.5mm + Containment Net",
+    "n": "AK-NET-006 Double Layer Safety Net (4mm Braided + 120 GSM Monofilament)",
     "c": "safety-nets",
     "i": "safety-nets/safety-nets-06.jpg",
-    "t": "High performance 3-layer construction (4mm structural net + 2.5mm inner net + containment cloth) for ultimate site safety"
+    "t": "Double Layer Construction Safety Net • Primary 4mm Braided PP Fall Arrest Net (100mm Mesh) • Secondary 120 GSM High-Density Polyethylene Monofilament Debris Net • Traps Both Heavy Equipment & Falling Workers • Conforms to IS 5175"
   },
   {
-    "n": "Safety Net - Triple Layer 5mm + 2.5mm Heavy Duty Net",
+    "n": "AK-NET-007 Heavy-Duty Fall Protection Net (2.5mm Braided Net)",
     "c": "safety-nets",
     "i": "safety-nets/safety-nets-07.jpg",
-    "t": "Maximum strength 3-layer safety net engineered for high-rise construction, industrial plants and bridge work • IS 5175 compliant"
+    "t": "2.5mm Braided PP Safety Net • 100mm Mesh Opening • High-Strength Heat-Set Knots • UV Stabilized for Prolonged Outdoor Sun Exposure • Conforms to IS 5175:2014"
   },
   {
-    "n": "AK-NET-010 Double Layer Fall Protection Safety Net (Braided 5mm + Containment Net)",
+    "n": "AK-NET-008 Double Layer Debris Safety Net (2.5mm Braided + Monofilament Net)",
     "c": "safety-nets",
     "i": "safety-nets/safety-nets-08.jpg",
-    "t": "Dual-layer fall arrest & debris protection • Primary 5mm braided PP net (100mm mesh) with overlaid fine containment mesh • High UV resistance • High-rise building construction & scaffolding safety"
+    "t": "Dual-Layer Building Protection Net • 2.5mm Braided Fall Protection Mesh Lined with 100 GSM Green Monofilament Fine Mesh • Prevents Falling Screws, Tools & Rubble from Endangering Ground Crews • Conforms to IS 5175"
   },
   {
-    "n": "AK-NET-011 Double Layer Fall Protection Safety Net (Braided 5mm + Braided 2.5mm Net)",
+    "n": "AK-NET-009 Triple Layer Construction Safety Net (4mm + 2.5mm + Containment Net)",
     "c": "safety-nets",
     "i": "safety-nets/safety-nets-09.jpg",
-    "t": "Heavy dual braided structure • 5mm high-tenacity braided PP main fall net combined with 2.5mm braided debris net • 12mm reinforced border rope • Ideal for bridge construction & structural steel work"
+    "t": "Triple-Layer Engineered Safety Net System • 4mm Braided Heavy Impact Net + 2.5mm Intermediate Buffer Net + Fine Containment Debris Net • Maximum Energy Dispersion for High-Rise Facades • Conforms to IS 5175 & EN 1263-1"
   },
   {
-    "n": "AK-NET-012 Triple Layer Heavy Construction Safety Net (Braided 5mm + 2.5mm + 120 GSM Fabric)",
+    "n": "AK-NET-010 Double Layer Fall Protection Safety Net (5mm Braided + Containment Net)",
     "c": "safety-nets",
     "i": "safety-nets/safety-nets-10.jpg",
-    "t": "Ultimate 3-layer protection system • 5mm load-bearing braided fall arrest net + 2.5mm secondary net + 120 GSM monofilament dust/debris containment sheet • Maximum perimeter & pedestrian catchment safety"
+    "t": "Double Layer Fall Protection & Containment Net • Heavy-Duty 5mm Braided Polypropylene Net (100mm Mesh) with Fine High-Strength Containment Net Overlay • 14mm Reinforced Border Rope with Tie Cords • Essential for Skyscraper & Bridge Construction"
+  },
+  {
+    "n": "AK-NET-011 Double Layer Heavy Duty Safety Net (5mm + 2.5mm Braided Net)",
+    "c": "safety-nets",
+    "i": "safety-nets/safety-nets-11.jpg",
+    "t": "Industrial Ultra Heavy-Duty Dual Braided Net • 5mm Braided Core Mesh + 2.5mm Secondary Mesh • Extreme Shock Absorption for Heavy Industrial Maintenance & Overhead Protection"
+  },
+  {
+    "n": "AK-NET-012 Triple Layer Heavy Construction Safety Net (5mm + 2.5mm + 120 GSM Fabric)",
+    "c": "safety-nets",
+    "i": "safety-nets/safety-nets-12.jpg",
+    "t": "Maximum Protection Triple-Layer Safety Barrier • 5mm Braided Base Mesh + 2.5mm Secondary Interlocking Mesh + 120 GSM High-Density Woven Fabric • Designed for Metro Rail Viaducts, Bridge Construction & Deep Shafts"
   },
   {
     "n": "AK-801 Road Safety Cone (750mm)",
     "c": "road-safety",
     "i": "road-safety/road-safety-01.jpg",
-    "t": "High-quality flexible PVC cone • UV stabilized non-fading fluorescent red/orange • 4-inch high-intensity reflective sleeve • Height: 750mm"
+    "t": "750mm Height Heavy-Duty Traffic Cone • UV Stabilized High-Impact PVC/LDPE • Fluorescent Day-Glow Orange with High-Intensity Reflective Sleeve • Wind-Resistant Heavy Base • Conforms to IRC Standards"
   },
   {
     "n": "AK-802 Road Safety Cone (1000mm)",
     "c": "road-safety",
     "i": "road-safety/road-safety-02.jpg",
-    "t": "1000mm heavy duty PVC traffic cone with weighted rubber base • High retro-reflective collar • Superior stability in heavy winds"
+    "t": "1000mm (1 Meter) Highway Traffic Cone • Heavy Recycled Rubber Base for Extreme Wind Resistance • Dual Reflective Bands (Class 2 Retro-Reflective) • Molded Top Handle for Quick Deployment • Highway & Airport Grade"
   },
   {
     "n": "AK-804 Road Safety Cone (Rubber Base)",
     "c": "road-safety",
     "i": "road-safety/road-safety-03.jpg",
-    "t": "750mm cone with heavy interlocking recycled rubber base • Low center of gravity • High durability for highway traffic control"
+    "t": "750mm Flexible Traffic Cone with Heavy Recycled Black Rubber Base • Resilient PVC Body Rebounds After Vehicle Impact • 360° Reflective Sheeting for Night-Time Conspicuity"
   },
   {
     "n": "AK-978 Road Stud (Plastic Two-Way)",
     "c": "road-safety",
     "i": "road-safety/road-safety-04.jpg",
-    "t": "100x88x18.5mm • High-impact ABS plastic body • Two-way PMMA prismatic reflectors (Amber/Red) • 15-ton load capacity"
+    "t": "Two-Way Reflective ABS Road Stud (Cat Eye) • High-Purity PMMA Prismatic Reflectors with Ultrasonic Welded Base • Load Capacity: > 20 Tons • High Visibility in Rain & Fog • Conforms to ASTM D4280 & IRC"
   },
   {
-    "n": "AK-979D Road Stud (Double Sided)",
+    "n": "AK-979D Road Stud (Double Sided Reflective)",
     "c": "road-safety",
     "i": "road-safety/road-safety-05.jpg",
-    "t": "100x110x20mm • High impact body • Dual sided reflective lenses • Suited for highway lane dividing and extreme weather"
+    "t": "Aluminium Alloy Heavy-Duty Double-Sided Road Stud • Load Bearing: > 30 Tons • Resists Snow Plow & Heavy Truck Impact • Dual Directional PMMA Lens Reflectors for Dual-Carriageway Lane Demarcation"
   },
   {
-    "n": "AK B-2 Road Barrier (Interlocking)",
+    "n": "AK-B-2 Interlocking Road Barrier",
     "c": "road-safety",
     "i": "road-safety/road-safety-06.jpg",
-    "t": "1000(L) x 500(W) x 800(H) mm • 25-litre water ballast capacity • High-impact UV stabilized polymer • Red & White interlocking sections"
+    "t": "Interlocking Water/Sand Filled Road Barrier • 1000mm (L) x 800mm (H) • Virgin UV-Stabilized Polyethylene • Male-Female Interlocking Pin Mechanism • Alternating Red & White High-Visibility Contrast"
   },
   {
-    "n": "AK B-3 Road Barrier",
+    "n": "AK-B-3 Modular Road Barrier",
     "c": "road-safety",
     "i": "road-safety/road-safety-07.jpg",
-    "t": "1025(L) x 150(W) x 500(H) mm • 15-litre water capacity • Interlocking design • Non-fading polymer barricade for urban roads"
+    "t": "Heavy-Duty Modular Road Barrier • High-Impact Polyethylene Construction • Integrated Top Warning Light / Flag Mounting Sockets • Ballast Fillable Up to 80 kg for High-Wind Stability"
   },
   {
-    "n": "AK B-20 Road Barrier (Heavy Duty)",
+    "n": "AK-B-20 Heavy-Duty Water-Filled Road Barrier",
     "c": "road-safety",
     "i": "road-safety/road-safety-08.jpg",
-    "t": "2000(L) x 600(W) x 900(H) mm • 50-litre water/sand ballast capacity • Large interlocking traffic separator • Absorbs vehicle impact"
+    "t": "2000mm (2 Meter) Highway Water-Filled Crash Barrier • Engineered Impact Energy Absorption • Non-Fading UV Stabilized Polymer • Large Top Fill Cap & Drainage Plug • Approved for Highway Diversions"
   },
   {
-    "n": "AK-970 Solar Road Stud",
+    "n": "AK-970 Solar Aluminium Road Stud",
     "c": "road-safety",
     "i": "road-safety/road-safety-09.jpg",
-    "t": "Aluminium alloy body (125x125x20mm) • 3 ultra-bright LEDs on each side • Solar powered with internal battery • 20-ton compressive strength"
+    "t": "Solar Powered LED Road Stud • Cast Aluminium Alloy Housing (Load: > 25 Tons) • Monocrystalline Solar Panel with High-Capacity Ni-MH Battery • 6 Ultra-Bright LEDs Visible Up to 1000m • Automatic Dusk-to-Dawn Operation"
   },
   {
-    "n": "AK-103 Solar Warning Blinker",
+    "n": "SA-103 Solar Warning Blinker Light",
     "c": "road-safety",
     "i": "road-safety/road-safety-10.jpg",
-    "t": "High-intensity solar powered flashing warning light • Polycarbonate body (Dia 75mm x H 80mm) • Red & Amber LEDs • Automatic dusk-to-dawn"
+    "t": "300mm Solar Warning Flasher (Blinker) • High-Intensity Amber LEDs with 50-60 Flashes per Minute • 10W Monocrystalline Solar Panel with 12V Battery Backup (Autonomy 5 Days) • Conforms to IRC:SP:110"
   },
   {
-    "n": "AK-1006 Modular Rubber Speed Bump",
+    "n": "SA-1006 Modular Rubber Speed Bump",
     "c": "road-safety",
     "i": "road-safety/road-safety-11.jpg",
-    "t": "500(L) x 350(W) x 50(H) mm • Premium vulcanized rubber • Yellow & black contrast sections • Heavy vehicle load bearing"
+    "t": "Modular Heavy-Duty Vulcanized Rubber Speed Bump • 50mm Height for Traffic Calming Up to 15 km/h • Dovetail Interlocking Modules with Yellow & Black Contrast Panels • Molded Cat-Eye Bead Reflectors"
   },
   {
-    "n": "AK-1007 Rubber Speed Bump with Cat Eyes",
+    "n": "SA-1007 Rubber Speed Bump with Cat Eyes",
     "c": "road-safety",
     "i": "road-safety/road-safety-12.jpg",
-    "t": "500(L) x 300(W) x 50(H) mm • Molded rubber with integrated reflective cat-eyes for night visibility • Textured anti-skid pattern"
+    "t": "Premium Rubber Speed Bump with 6 Embedded Glass Bead Cat Eyes per Section • Non-Skid Diamond Tread Surface • Extreme Impact & Weather Resistance • Pre-Drilled Counter-Sunk Mounting Holes"
   },
   {
-    "n": "AK-1008 Heavy Duty Rubber Speed Bump",
+    "n": "SA-1008 Heavy Duty Rubber Speed Bump",
     "c": "road-safety",
     "i": "road-safety/road-safety-13.jpg",
-    "t": "500(L) x 400(W) x 50(H) mm • Engineered for heavy commercial vehicle traffic, industrial estates and highway toll gates"
+    "t": "75mm Heavy-Duty Rubber Speed Breaker for Industrial Parks & Logistics Hubs • Heavy Axle Load Capacity: > 40 Tons • Channel Underside for Cable & Water Hose Pass-Through"
   },
   {
-    "n": "AK-1009/1010 Speed Bump End Cap",
+    "n": "SA-1009/1010 Speed Bump End Cap",
     "c": "road-safety",
     "i": "road-safety/road-safety-14.jpg",
-    "t": "250(L) x 350(W) x 50(H) mm • Rounded rubber end cap to complete speed bump installations cleanly and protect edges"
+    "t": "Semi-Circular Rounded Rubber Speed Bump End Caps (Male/Female Pair) • Eliminates Tripping Hazards & Protects Tire Sidewalls • Molded from Virgin Rubber with High-Tear Strength"
   },
   {
-    "n": "AK-1011 Modular Speed Breaker",
+    "n": "SA-1011 Modular Heavy-Duty Speed Breaker",
     "c": "road-safety",
     "i": "road-safety/road-safety-15.jpg",
-    "t": "500(L) x 350(W) x 40(H) mm • High-impact composite polymer/rubber • Embedded glass bead reflectors for high night reflectivity"
+    "t": "High-Impact Engineering Plastic / Rubber Speed Breaker • Dovetail Interlocking Segments • Bright UV-Stabilized Pigment That Never Fades or Peels • Ideal for Malls, Hospitals & Residential Gates"
   },
   {
-    "n": "AK-1012 Long Span Rubber Speed Bump",
+    "n": "SA-1012 Long Span Rubber Speed Bump",
     "c": "road-safety",
     "i": "road-safety/road-safety-16.jpg",
-    "t": "1000(L) x 350(W) x 50(H) mm • 1-meter wide section with textured anti-skid surface • Quick bolt-down mounting"
+    "t": "Long-Span Smooth Transition Rubber Speed Table • Engineered for Controlled Speed Reduction Without Vehicle Underside Scraping • High-Visibility Reflective Chevron Inserts"
   },
   {
-    "n": "AK-1005 Premium Speed Breaker",
+    "n": "SA-1005 Premium Speed Breaker",
     "c": "road-safety",
     "i": "road-safety/road-safety-17.jpg",
-    "t": "500(L) x 380(W) x 50(H) mm • Dual pre-colored sections • Extreme weathering and UV resistance • Built-in cable channel"
+    "t": "Heavy-Duty Reinforced Plastic & Rubber Speed Bump • Concrete Infill Ready for Permanent Heavy-Vehicle Deployment • High Skid Resistance Even in Monsoon Conditions"
   },
   {
     "n": "AK-RC-01 Rebar Safety Cap",
     "c": "road-safety",
     "i": "road-safety/road-safety-18.jpg",
-    "t": "High-visibility orange polypropylene cap for exposed construction rebar • Fits 8mm to 25mm steel bars • Prevents puncture injuries"
+    "t": "High-Visibility Safety Orange Rebar Protection Cap • Fits Rebar Diameters: 8mm to 32mm • High-Impact Polypropylene • Prevents Cuts & Scratches from Protruding Construction Reinforcement Bars"
   },
   {
-    "n": "AK-RC-02/03 Mushroom Rebar Impalement Cap",
+    "n": "AK-RC-02/03 Mushroom Rebar Impalement Protection Cap",
     "c": "road-safety",
     "i": "road-safety/road-safety-19.jpg",
-    "t": "Large mushroom-head protective rebar cap with internal steel plate • Certified construction site impalement protection"
+    "t": "Mushroom-Style Internal Steel Plate Reinforced Rebar Cap • Certified OSHA / International Impalement Protection (Withstands 250 lb Drop from 10ft) • Fits Rebar Sizes: 12mm - 36mm"
   },
   {
     "n": "AK-961/962 Reflective Median Marker",
     "c": "road-safety",
     "i": "road-safety/road-safety-20.jpg",
-    "t": "Trapezoidal highway median marker with high-intensity microprismatic reflective sheeting • Robust ABS body • All-weather visibility"
+    "t": "Prismatic Reflective Median Marker for Highway Dividers • Tough Polycarbonate / ABS Body with PMMA Micro-Prismatic Reflective Sheeting • Resists Flying Debris & Vehicle Brushes • Conforms to IRC"
   },
   {
     "n": "AK-955/959 Guard Rail Delineator Reflectors",
     "c": "road-safety",
     "i": "road-safety/road-safety-21.jpg",
-    "t": "Reflectors for Guard Rails show the coarse of a carriageway at night • High quality metal Rail profiles • Glass reflectors retain excellent reflective properties • Ambient operating range -40°C to +80°C"
+    "t": "Trapezoidal & Circular Crash Barrier Delineators • Mounts Securely on W-Beam Highway Guard Rails • High-Intensity Diamond Grade Retro-Reflective Surface • Conforms to IRC:79 Standards"
   },
   {
-    "n": "Rubber Wheel Stopper (500mm)",
+    "n": "AK-SL-01 Rubber Wheel Stopper (500mm)",
     "c": "parking",
     "i": "parking/parking-01.jpg",
-    "t": "500(L) x 150(W) x 150(H) mm • Heavy-duty molded rubber vehicle stop with anchor holes for parking bays and garages"
+    "t": "500mm Heavy-Duty Molded Rubber Wheel Stopper • High-Intensity Yellow Reflective Tape • Protects Vehicles & Parking Bay Walls from Over-Parking • Resistant to Oil, Acid & Extreme Temperature"
   },
   {
-    "n": "Rubber Corner Guard (L-Shape)",
+    "n": "AK-CG-01 Rubber Corner Guard (L-Shape)",
     "c": "parking",
     "i": "parking/parking-02.jpg",
-    "t": "550/900(L) x 100(B) x 8(H) mm • High-impact rubber corner protector with yellow chevron reflective tape for pillars and walls"
+    "t": "800mm L-Shaped Rubber Pillar Corner Guard • 10mm Thickness High-Impact Solid Rubber • Reflective Yellow Stripes for Underground Basement Parking Columns • Conforms to Building Safety Norms"
   },
   {
-    "n": "Wheel Chock (ABS Plastic)",
+    "n": "AK-WC-01 Wheel Chock (ABS Plastic)",
     "c": "parking",
     "i": "parking/parking-03.jpg",
-    "t": "470(L) x 200(W) x 245(H) mm • High-strength yellow molded ABS plastic with carry handle and ribbed tire grip"
+    "t": "Heavy-Duty ABS Plastic Wheel Chock • Non-Slip Serrated Surface with Deep Ground Grippers • High Load Rating for Light Trucks, Vans & Cars • Built-In Carrying Handle & Rope Attachment Point"
   },
   {
-    "n": "Rubber Wall Protector (1000mm)",
+    "n": "AK-WP-01 Rubber Wall Protector (1000mm)",
     "c": "parking",
     "i": "parking/parking-04.jpg",
-    "t": "1000(L) x 200(B) x 30(H) mm • Shock-absorbing rubber wall guard with bright reflective chevrons for commercial parking"
+    "t": "1000mm High-Impact Rubber Wall Guard • Protects Walls & Loading Docks from Scuffs & Impact • Built-In Yellow Chevron Reflectors • Dampens Kinetic Shock Effectively"
   },
   {
-    "n": "Electronic Safety Light Bar (Baton)",
+    "n": "AK-SL-02 Electronic Safety Light Bar (Baton)",
     "c": "parking",
     "i": "parking/parking-05.jpg",
-    "t": "540mm long handheld LED traffic control baton • Strobe & steady modes • Polycarbonate body • Rechargeable or battery operated"
+    "t": "Ultra-Bright LED Traffic Control Baton (54cm) • Red / Green Dual Flashing Modes with Steady Torch Light Function • Magnetic Base & Wrist Strap • Essential for Parking Marshals & Highway Traffic Direction"
   },
   {
-    "n": "High-Power Rechargeable Search Light",
+    "n": "AK-SL-03 High-Power Rechargeable Search Light",
     "c": "parking",
     "i": "parking/parking-06.jpg",
-    "t": "10W-15W ultra-bright LED searchlight • 500m-1000m beam range • Multiple light modes • Durable body with shoulder strap"
+    "t": "Heavy-Duty 50W LED Long-Range Search Light • Up to 1000m Beam Distance • High-Capacity Li-Ion Rechargeable Battery (Up to 12 Hours Runtime) • Waterproof & Impact-Resistant ABS Body • Shoulder Strap Included"
   },
   {
-    "n": "Rubber Wheel Chock (Heavy Duty)",
+    "n": "AK-WC-02 Rubber Wheel Chock (Heavy Duty)",
     "c": "parking",
     "i": "parking/parking-07.jpg",
-    "t": "280-340(L) x 120-200(W) x 170-230(H) mm • Solid vulcanized rubber chock for trucks, trailers and industrial vehicles"
+    "t": "Industrial Solid Rubber Wheel Chock for Heavy Commercial Trucks & Trailers • Deep Ribbed Traction Surface • Weight: ~5 kg • Resists Slipping on Wet Concrete or Gradients • Steel Eyebolt Handle"
   },
   {
-    "n": "Rubber Dock Protector (Bumper)",
+    "n": "AK-DP-01 Rubber Loading Dock Protector (Bumper)",
     "c": "parking",
     "i": "parking/parking-08.jpg",
-    "t": "450(L) x 240(W) x 100(H) mm • Heavy compression-molded dock bumper to protect loading bays from reverse vehicle impacts"
+    "t": "Heavy-Duty Extruded Rubber Loading Dock Bumper • Absorbs High-Energy Impact from Reversing Container Trucks • Pre-Drilled Countersunk Anchor Holes for Easy Concrete Installation"
   },
   {
-    "n": "Standard Rubber Wheel Stopper with Reflectors",
+    "n": "AK-WS-02 Standard Rubber Wheel Stopper with Reflectors",
     "c": "parking",
     "i": "parking/parking-09.jpg",
-    "t": "500(L) x 100(W) x 160(H) mm • Molded rubber with integrated high-visibility yellow reflective stripe for car parks"
+    "t": "900mm Standard Rubber Car Parking Stop • Molded High-Visibility Yellow Reflective Chevrons • Complete with 2 Heavy-Duty Anchor Bolts • Ensures Precision Parking in Garages"
   },
   {
-    "n": "Rounded Rubber Corner Guard (12mm)",
+    "n": "AK-CG-02 Rounded Rubber Corner Guard (12mm)",
     "c": "parking",
     "i": "parking/parking-10.jpg",
-    "t": "550/900(L) x 100(B) x 12(H) mm • Thick curved rubber column protector with reflective tape for underground parking"
+    "t": "800mm Rounded Corner Guard with 12mm Cushioning Rubber • Rounded Nose Design Deflects Glancing Blows Seamlessly • Alternating Yellow/Black Reflective Safety Bands"
   },
   {
-    "n": "Fire Bucket with Stand",
+    "n": "AK-BT-01 High-Visibility Caution & Barricading Tape",
     "c": "misc-safety",
     "i": "misc-safety/misc-safety-01.jpg",
-    "t": "9-litre round-bottom galvanized M.S. fire bucket painted fire red with 2-tier/4-tier steel mounting stand"
+    "t": "High-Visibility Danger / Caution Warning Barrier Tape in Tube Form • Bold Contrasting Yellow & Black / Red & White Warning Stripes • High Tensile Weatherproof LDPE Film • Restricts Access to Construction & Hazard Zones"
   },
   {
-    "n": "PVC Barricading Safety Net",
+    "n": "AK-FB-01 Fire Bucket with Heavy-Duty Stand",
     "c": "misc-safety",
     "i": "misc-safety/misc-safety-02.jpg",
-    "t": "High-density orange polyethylene barricade mesh (65mm x 35mm mesh size, 1m x 50m roll) for construction & hazard zones"
+    "t": "Round-Bottom Mild Steel Fire Bucket (9 Litre Capacity) • Galvanized Heavy Duty M.S. Sheet with High-Gloss Red Powder Coat • Stenciled 'FIRE' Header • Available with 2-Bucket / 4-Bucket Canopy Stand • IS 2546 Marked"
   },
   {
-    "n": "Industrial First Aid Kit",
+    "n": "AK-BN-01 PVC Barricading Warning Safety Net",
     "c": "misc-safety",
     "i": "misc-safety/misc-safety-03.jpg",
-    "t": "Comprehensive workplace first aid medical box (CE 0123 approved) equipped for 15 to 75 personnel"
+    "t": "Extruded High-Density Polypropylene Warning Mesh Net • Fluorescent Orange Color with UV Inhibitors • Roll Size: 1m x 50m • Ideal for Open Utility Trenches, Roadworks, Demolition & Construction Boundaries"
   },
   {
-    "n": "SOLAS Approved Life Buoy Ring",
+    "n": "AK-FAK-01 Industrial Workplace First Aid Kit",
     "c": "misc-safety",
     "i": "misc-safety/misc-safety-04.jpg",
-    "t": "Marine life buoy with grab lines • High-density polyethylene shell with polyurethane foam fill and SOLAS reflective tape"
+    "t": "Comprehensive Industrial First Aid Kit for 15 / 25 / 50 Persons • High-Impact Wall-Mountable ABS Cabinet • Contains Sterile Gauze Dressings, Bandages, Burn Dressings, Antiseptic Lotion, CPR Mask & Shears • CE 0123 Norms"
   },
   {
-    "n": "High-Intensity Retro-Reflective Tape",
+    "n": "AK-CM-01 Polycarbonate Convex Traffic Safety Mirror",
     "c": "misc-safety",
     "i": "misc-safety/misc-safety-05.jpg",
-    "t": "Commercial and vehicle grade adhesive reflective tape rolls (1\", 2\", 3\" widths) for cones, vehicles and safety barricades"
+    "t": "Unbreakable High-Clarity Polycarbonate Convex Mirror • High-Visibility Orange ABS Frame with Integrated Sun Visor • 130° Wide-Angle Blind Spot Coverage for Factory Corners & Basements • Adjustable Pole Clamp Included"
+  },
+  {
+    "n": "AK-LBR-01 SOLAS Approved Marine Life Buoy Ring",
+    "c": "misc-safety",
+    "i": "misc-safety/misc-safety-06.jpg",
+    "t": "SOLAS & IRS Approved 2.5 kg / 4.3 kg High-Density Polyethylene Lifebuoy • Filled with Closed-Cell Polyurethane Foam • Fitted with 4 Marine Grade Retro-Reflective Bands & All-Around Grab Line"
+  },
+  {
+    "n": "AK-LJ-01 Personal Flotation Device / Marine Life Jacket",
+    "c": "misc-safety",
+    "i": "misc-safety/misc-safety-07.jpg",
+    "t": "SOLAS Approved High-Buoyancy Personal Flotation Device (PFD) • Fluorescent Orange Fabric with Retro-Reflective Tapes • Heavy-Duty Adjustable Webbing Belts with Quick-Release Buckles • Includes Marine Safety Whistle"
+  },
+  {
+    "n": "AK-RRT-01 High-Intensity Micro-Prismatic Retro-Reflective Tape",
+    "c": "misc-safety",
+    "i": "misc-safety/misc-safety-08.jpg",
+    "t": "High-Intensity Prismatic (HIP) Class C Conspicuity Tape • Micro-Prismatic Technology for Extreme Night Conspicuity • High Strength Pressure-Sensitive Adhesive • ASTM D4956 Type IV & AIS 090 Compliant"
+  },
+  {
+    "n": "AK-RS-WARN IRC:67:2010 Warning & Cautionary Road Signages",
+    "c": "misc-safety",
+    "i": "misc-safety/misc-safety-09.jpg",
+    "t": "Standardized Triangular Cautionary Highway Signs • High-Intensity Prismatic Sheeting on Heavy Gauge Aluminium Composite Material (ACM) • Right/Left Curve, Steep Gradient, Pedestrian Crossing, School Ahead • IRC:67:2010"
+  },
+  {
+    "n": "AK-RS-INFO Overhead & Informatory Road Signages",
+    "c": "misc-safety",
+    "i": "misc-safety/misc-safety-10.jpg",
+    "t": "Overhead Cantilever & Gantry Road Sign Boards • Micro-Prismatic Retro-Reflective Surface on Weatherproof Aluminium Substrate • High Contrast Legibility for Highway Speeds & Night Driving • Meets MoRTH Guidelines"
   },
   {
     "n": "AK-ACB-37 Electrical Panel Lockout Device",
     "c": "loto",
     "i": "loto/loto-01.jpg",
-    "t": "Multipurpose two-part lockout device for electrical panel buttons and rotary switches (40x40mm) • Sturdy plastic"
+    "t": "Specialized Air Circuit Breaker (ACB) Lockout Device • Adjustable Grip Clamp for Large Industrial Switchgear • Accommodates Up to 4 Safety Padlocks • High-Dielectric Non-Conductive Polymer"
   },
   {
     "n": "AK-EH-41/42 Electrical Panel Lockout (Base Type)",
     "c": "loto",
     "i": "loto/loto-02.jpg",
-    "t": "Clear polycarbonate enclosure with circular base (Dia 90mm/120mm) and padlock hole for push button switches"
+    "t": "Base Type Electrical Handle / Switch Lockout • Securely Mounts to Panel Surface Using Industrial 3M VHB Adhesive or Screws • Prevents Accidental Activation of Heavy Isolators"
   },
   {
     "n": "AK-PL-45/46 Push Button & Rotary Switch Lockout",
     "c": "loto",
     "i": "loto/loto-03.jpg",
-    "t": "Oversized electrical switch lockout with clear cover to prevent unauthorized equipment startup"
+    "t": "Transparent Hinged Cover for 22.5mm - 30.5mm Push Buttons & Emergency Stop Switches • Clear Cover Allows Inspection of Switch Status • Accommodates 1 Safety Padlock (Shackle Up to 7mm)"
   },
   {
     "n": "AK-VCB-38/39 Mini Electrical Panel Lockout",
     "c": "loto",
     "i": "loto/loto-04.jpg",
-    "t": "Compact electrical lockout device (L52 x W52 x H40mm) made of durable non-conductive plastic"
+    "t": "Miniature Circuit & Panel Lockout Device • Engineered for Compact Control Panels & VCB Switches • High-Impact Polycarbonate Construction with Brass Thread Inserts"
   },
   {
     "n": "AK-MCB-51 Miniature Circuit Breaker (MCB) Lockout",
     "c": "loto",
     "i": "loto/loto-05.jpg",
-    "t": "Pin-out / pin-in standard MCB lockout for single and multi-pole breakers • Tool-free installation"
+    "t": "Pin-In / Pin-Out Standard MCB Lockout Device • Easy Push-Button Installation (No Tools Required) • Fits Single, Double & Multi-Pole Breakers • Accepts Padlocks with Shackle Diameter Up to 6mm"
   },
   {
     "n": "AK-UCBL-53/54 Universal Circuit Breaker Lockout",
     "c": "loto",
     "i": "loto/loto-06.jpg",
-    "t": "Universal clamp-on circuit breaker lockout with thumbscrew tightening mechanism for molded case breakers"
+    "t": "Universal Moulded Case Circuit Breaker (MCCB) Lockout • Thumb-Screw Clamping Mechanism with Fold-Down Handle • Secure Grip on Wide or High-Toggle Switches • Conforms to OSHA Standards"
   },
   {
     "n": "AK-CBL-56 Multi-Function Cable Lockout",
     "c": "loto",
     "i": "loto/loto-07.jpg",
-    "t": "Ergonomic cable lockout device with vinyl-coated galvanized steel cable (2m) for multi-point valve and switch isolation"
+    "t": "Ergonomic Pistol-Grip Multi-Purpose Cable Lockout • 2-Meter Galvanized Vinyl-Coated Steel Cable (3.2mm) • Accommodates Up to 6 Safety Padlocks for Group Lockout Isolation"
   },
   {
     "n": "AK-HN-72 Snap-On Circuit Breaker Lockout",
     "c": "loto",
     "i": "loto/loto-08.jpg",
-    "t": "Tool-free snap-on breaker lockout designed for fast and secure electrical isolation on 120V/240V breakers"
+    "t": "Snap-On Quick-Action Miniature Circuit Breaker Lockout • Designed for Narrow 120/277V Breaker Toggles • Single-Handed Tool-Free Installation"
   },
   {
     "n": "AK-HN-73 Large Circuit Breaker Lockout",
     "c": "loto",
     "i": "loto/loto-09.jpg",
-    "t": "Heavy duty clamp lockout for 480V/600V molded case circuit breakers (MCCB) with slide bar clamp"
+    "t": "Heavy-Duty Clamp-On Breaker Lockout for 480V / 600V MCCBs • Extra-Wide Toggle Grip with Threaded Metal Screw Mechanism • Impact-Resistant Xenoy Polymer Construction"
   },
   {
     "n": "AK-SLDH-75 Steel Safety Lockout Hasp",
     "c": "loto",
     "i": "loto/loto-10.jpg",
-    "t": "1-inch / 1.5-inch jaw diameter vinyl coated steel hasp accommodating up to 6 padlocks for group lockout"
+    "t": "1-Inch (25mm) / 1.5-Inch (38mm) Jaw Steel Lockout Hasp • Vinyl-Coated Spark-Proof Red Handle • Accommodates Up to 6 Safety Padlocks for Multi-Worker Group Safety"
   },
   {
     "n": "AK-SLDH-76 Dielectric Safety Lockout Hasp",
     "c": "loto",
     "i": "loto/loto-11.jpg",
-    "t": "Non-conductive nylon spark-resistant lockout hasp with 6 padlock holes for electrical maintenance"
+    "t": "100% Non-Conductive Nylon Dielectric Lockout Hasp • Ideal for High-Voltage Electrical Panels & Substations • Flexible High-Strength Nylon Shackle Accepts Up to 6 Padlocks"
   },
   {
     "n": "AK-MSD-28 Multipurpose Cable Lockout Device",
     "c": "loto",
     "i": "loto/loto-12.jpg",
-    "t": "Compact wheel-type cable lockout accommodating multiple padlocks for complex valve and switchboard arrays"
+    "t": "Squeeze-Grip High-Capacity Cable Lockout • 2.5m Stainless Steel Vinyl-Coated Cable • Locks Out Multiple Valves, Disconnect Switches & Breakers with One Central Unit"
   },
   {
     "n": "AK-ULD-22/23/24 Universal Lockout Device",
     "c": "loto",
     "i": "loto/loto-13.jpg",
-    "t": "Multi-application electrical switch and breaker lockout with universal fitting arms and secure clamping"
+    "t": "Modular Universal Lockout System with Removable Cable & Rod Attachments • Locks Out Large Levers, T-Handles & Unusual Electrical Switches"
   },
   {
-    "n": "Adjustable Steel Cable Lockout Device",
+    "n": "AK-CBL-57 Adjustable Steel Cable Lockout Device",
     "c": "loto",
     "i": "loto/loto-14.jpg",
-    "t": "Heavy duty industrial cable lockout with flexible 3.2mm steel cable for multi-valve handles and switchboards"
+    "t": "Adjustable Multi-Lock Cable Unit • Integrated Pull-Tight Mechanism Locks Cable Taut • 2m Coated Steel Wire Rope • Accepts 4 Padlocks"
   },
   {
     "n": "AK-PG-92 Electrical Plug & Pneumatic Lockout",
     "c": "loto",
     "i": "loto/loto-15.jpg",
-    "t": "Enclosed cylindrical lockout for industrial 110V-415V electrical plugs and pneumatic male fittings"
+    "t": "Enclosed Cylinder Electrical Plug & Air Hose Lockout • Fits 110V to 600V Heavy Industrial Power Plugs & Male Pneumatic Fittings • Protects Against Unauthorized Re-Connection"
   },
   {
     "n": "AK-AGVL-06-W Adjustable Gate Valve Lockout",
     "c": "loto",
     "i": "loto/loto-16.jpg",
-    "t": "Fits valve handles from 25mm to 165mm • Durable polypropylene body resistant to chemicals and extreme temperatures"
+    "t": "Telescopic Sliding Gate Valve Lockout • Adjusts from 1 Inch to 6.5 Inches (25mm to 165mm) • Replaces Multiple Fixed-Size Lockout Clamshells • UV & Chemical Resistant Thermoplastic"
   },
   {
     "n": "AK-BVL-11 Standard Ball Valve Lockout",
     "c": "loto",
     "i": "loto/loto-17.jpg",
-    "t": "Locks quarter-turn ball valves in open or closed position for pipes up to 2.5 inches (63mm) • Heavy duty steel"
+    "t": "Single-Piece Polyurethane Ball Valve Lockout • Locks Out Pipes from 0.5\" to 2\" Diameter in Both Open & Closed Positions • Heat & Chemical Resistant"
   },
   {
     "n": "AK-BVL-13 Large Ball Valve Lockout",
     "c": "loto",
     "i": "loto/loto-18.jpg",
-    "t": "Heavy gauge steel/polypropylene lockout for 2-inch to 8-inch industrial ball valves on process pipelines"
+    "t": "Heavy-Duty Powder-Coated Steel Ball Valve Lockout • For Large Diameter Pipes (2\" to 8\") • Locks Handles Firmly to Prevent Accidental Valve Turning"
   },
   {
     "n": "AK-BFL-16 Butterfly Valve Lockout",
     "c": "loto",
     "i": "loto/loto-19.jpg",
-    "t": "Specialized clamp lockout for butterfly valve pull levers with multi-hole padlock positioning"
+    "t": "Universal Butterfly Valve Lockout Device • Clamps Rigidly over the Squeeze Handle Trigger Mechanism • Accommodates 4 Padlocks • Conforms to OSHA 1910.147"
   },
   {
     "n": "AK-GVL-08 Gate Valve Lockout (2.5\" to 5\")",
     "c": "loto",
     "i": "loto/loto-20.jpg",
-    "t": "Rotating hinged polypropylene gate valve lockout shell for 63mm to 127mm valve handwheels"
+    "t": "Hinged Clamshell Enclosure for 2.5\" to 5\" (64mm to 127mm) Valve Handwheels • Knockout Center Accommodates Rising Stem Valves • Extreme Impact-Resistant ABS"
   },
   {
     "n": "AK-GVL-10 Large Gate Valve Lockout (5\" to 10\")",
     "c": "loto",
     "i": "loto/loto-21.jpg",
-    "t": "Heavy-duty clamshell lockout for large industrial water, gas and steam gate valves (127mm to 254mm)"
+    "t": "Large Clamshell Gate Valve Lockout for 5\" to 10\" (127mm to 254mm) Handles • Completely Encloses Valve Wheel to Prevent Tampering • Temperature Range: -20°C to +90°C"
   },
   {
     "n": "AK-JPL-109 Scaffolding Inspection Tag & Holder",
     "c": "loto",
     "i": "loto/loto-22.jpg",
-    "t": "High-visibility scaffolding status holder with interchangeable Green/Yellow/Red inspection inserts"
+    "t": "Durable Scaffolding Status Tagging System • High-Impact Polypropylene Claw Holder with Multi-Language Insert Cards (DO NOT USE / SCAFFOLD INSPECTED) • UV & Weather Resistant"
   },
   {
     "n": "AK-JPL-102/103 Heavy Duty Lockout / Danger Tags",
     "c": "loto",
     "i": "loto/loto-23.jpg",
-    "t": "Reusable write-on PVC lockout tags (Do Not Operate) with brass eyelets and zip ties"
+    "t": "Pack of 25 Reusable Heavy-Duty PVC Danger Tags • Write-On Surface for Worker Name, Date & Lockout Reason • Reinforced Brass Grommet (50 lb Pull Strength) • Compliant with OSHA Regulations"
   },
   {
-    "n": "Safety Lockout Padlocks (Keyed Different)",
+    "n": "AK-PL-01 Safety Lockout Padlocks (Keyed Different)",
     "c": "loto",
     "i": "loto/loto-24.jpg",
-    "t": "Non-conductive ABS body safety padlocks with hardened steel / brass shackles and key retaining cylinders"
+    "t": "Dielectric Nylon Safety Lockout Padlock • 38mm Hardened Steel / Nylon Shackle • 6-Pin Cylinder Key Retaining Feature (Key Cannot Be Removed While Open) • Red/Yellow/Blue Color Coded"
   },
   {
     "n": "AK-KIT-203 Common Maintenance LOTO Kit",
     "c": "loto",
     "i": "loto/loto-25.jpg",
-    "t": "Comprehensive starter lockout kit in a rugged carry pouch including MCB lockouts, hasps and padlocks"
+    "t": "Compact General Maintenance Lockout Pouch Kit • Contains: 2x Padlocks, 2x Steel Hasps, 4x MCB Lockouts, 1x Cable Lockout, 10x Danger Tags & Heavy-Duty Oxford Waist Pouch"
   },
   {
     "n": "AK-KIT-204 Electrical Technician LOTO Kit",
     "c": "loto",
     "i": "loto/loto-26.jpg",
-    "t": "Specialized electrical safety kit with circuit breaker lockouts, plug lockouts, hasps, tags and padlocks"
+    "t": "Dedicated Electrical Safety LOTO Pouch Kit • Comprehensive MCB, MCCB, Universal Breaker Lockouts, Push Button Covers, Hasps, Padlocks & Rewritable Tags"
   },
   {
     "n": "AK-KIT-205 Power Panel LOTO Kit",
     "c": "loto",
     "i": "loto/loto-27.jpg",
-    "t": "Designed for high voltage distribution panels, MCC switchboards and electrical substation rooms"
+    "t": "High-Voltage Distribution Panel Lockout Kit • Includes Large Circuit Breaker Lockouts, Switch Handles, Cable Lockout, Insulated Hasps & Heavy-Duty Carry Box"
   },
   {
     "n": "AK-KIT-206 Mechanical Valve LOTO Kit",
     "c": "loto",
     "i": "loto/loto-28.jpg",
-    "t": "Complete valve isolation kit containing ball valve, gate valve, cable lockouts, chains and tags in tool box"
+    "t": "Industrial Mechanical Pipe & Valve Lockout Kit • Includes Gate Valve Clamshells (Multiple Sizes), Ball Valve Lockouts, Butterfly Valve Lockouts, Cable Device & Tags"
   },
   {
     "n": "AK-KIT-207 Plant & Machinery LOTO Kit",
     "c": "loto",
     "i": "loto/loto-29.jpg",
-    "t": "Master industrial lockout kit for whole plant shutdown, heavy machines and multidisciplinary crews"
+    "t": "Heavy Plant & Equipment Lockout Tool Box Kit • Dual Electrical & Mechanical Isolation Devices • Rugged Lockable Tool Box with Tray"
   },
   {
     "n": "AK-KIT-208 Deluxe Universal LOTO Kit",
     "c": "loto",
     "i": "loto/loto-30.jpg",
-    "t": "Large lockable nylon duffle bag with complete assortment of electrical and mechanical lockout hardware"
+    "t": "Master Universal Lockout Tagout Kit in High-Impact Wheeled Hard Case • Complete Range of Over 45 Specialized Lockout Devices for Factory-Wide OSHA Compliance"
   },
   {
     "n": "AK-KIT-209 Field Operations LOTO Pouch Kit",
     "c": "loto",
     "i": "loto/loto-31.jpg",
-    "t": "Compact belt-mounted lockout kit for individual technicians working on mobile maintenance sites"
+    "t": "Compact Belt-Mounted LOTO Pouch Kit for Field Technicians & Service Engineers • Essential Padlocks, Hasps, Miniature Breaker Locks & Tag Markers"
   },
   {
     "n": "AK-KIT-210 Compact Electrical LOTO Kit",
     "c": "loto",
     "i": "loto/loto-32.jpg",
-    "t": "Hard-case portable lockout box with MCB locks, lockout hasps, padlocks and write-on danger tags"
+    "t": "Streamlined Electrical Lockout Kit • Optimized for Quick Maintenance in Substations & Control Rooms • Lightweight Shock-Proof Soft Case"
   },
   {
     "n": "AK-KIT-211 Valve & Electrical Combination Kit",
     "c": "loto",
     "i": "loto/loto-33.jpg",
-    "t": "Dual-purpose kit for both piping systems and electrical motor control centers"
+    "t": "All-in-One Mechanical & Electrical Isolation Kit • Combines Gate & Ball Valve Lockouts with Breaker Lockouts, Hasps, Padlocks & Wall Station Board"
   },
   {
     "n": "AK-KIT-202 Master Safety Lockout Station Kit",
     "c": "loto",
     "i": "loto/loto-34.jpg",
-    "t": "High-capacity kit with lockouts, hasps, multiple keyed padlocks and identification tags"
+    "t": "Wall-Mounted Lockable Transparent Acrylic Safety Lockout Station • Stores 10-20 Padlocks, Hasps, Breaker Devices & Tags Organically in Clear View"
   },
   {
     "n": "AK-GLS-115/116 Wall-Mount Lockout Station",
     "c": "loto",
     "i": "loto/loto-35.jpg",
-    "t": "Heavy-duty acrylic yellow lockout board with transparent cover for centralized lockout device storage"
+    "t": "Heavy-Duty Wall-Mountable Powder-Coated Metal Lockout Station Board • Centralizes LOTO Equipment on the Shop Floor for Immediate Safety Access"
   },
   {
-    "n": "ABC Dry Powder Portable Fire Extinguisher",
+    "n": "AK-FE-ABC ABC Dry Powder Portable Fire Extinguisher",
     "c": "fire-safety",
     "i": "fire-safety/fire-safety-01.jpg",
-    "t": "IS:15683 certified stored pressure fire extinguisher (1kg to 9kg) with MAP powder for Class A, B, C and electrical fires"
+    "t": "ISI Marked (IS 15683:2018) Multi-Purpose Dry Chemical Powder Fire Extinguisher • Effective Against Class A (Solid), Class B (Liquid Flammables), Class C (Gases) & Electrical Fires • Stored Pressure Type with Pressure Gauge • Capacities: 1kg, 2kg, 4kg, 6kg, 9kg"
   },
   {
-    "n": "Water & Mechanical Foam Fire Extinguisher",
+    "n": "AK-FE-WFM Water & Mechanical Foam Fire Extinguisher",
     "c": "fire-safety",
     "i": "fire-safety/fire-safety-02.jpg",
-    "t": "IS:15683 certified AFFF foam & water stored pressure fire extinguisher (6L / 9L) for Class A solid and Class B liquid fires"
+    "t": "AFFF Mechanical Foam & Water Fire Extinguisher (IS 15683) • Forms a Vapor-Sealing Aqueous Foam Blanket on Flammable Liquids (Paints, Solvents, Diesel) • Stored Pressure with EPDM Hose & Fog Nozzle • Capacities: 6 Litres & 9 Litres"
   },
   {
-    "n": "Carbon Dioxide (CO2) Portable & Trolley Fire Extinguisher",
+    "n": "AK-FE-CO2 Carbon Dioxide (CO2) Portable & Trolley Fire Extinguisher",
     "c": "fire-safety",
     "i": "fire-safety/fire-safety-03.jpg",
-    "t": "IS:15683 & IS:2878 certified CO2 fire extinguisher (2kg-4.5kg portable, 6.5kg-22.5kg trolley) for live electrical and server room hazards without residue"
+    "t": "Carbon Dioxide (CO2) High-Pressure Clean Agent Fire Extinguisher • Ideal for Server Rooms, High-Voltage Panels & Sensitive Electronics (Zero Residue) • Manganese Steel Seamless Cylinder (IS 2878) • Capacities: 2kg, 3kg, 4.5kg Portable & 6.5kg, 9kg, 22.5kg Trolley Mounted"
   },
   {
-    "n": "Electrical Safety Rubber Hand Gloves",
+    "n": "AK-ESG-01 Electrical Safety Rubber Hand Gloves (Class 0 to 4)",
     "c": "ppe-misc",
     "i": "ppe-misc/ppe-misc-01.jpg",
-    "t": "Seamless high-voltage insulating latex rubber gloves (Class 0 to Class 4) tested up to 33,000V (IS 4770 / EN 60903)"
+    "t": "Seamless Natural Latex Electrical Insulating Gloves • Working Voltages from 1.1 kV (Class 0) Up to 33 kV (Class 4) • Conforms to IS 4770 & IEC 60903 • Tested for Dielectric Proof Voltage & Ozone Resistance"
   },
   {
-    "n": "Heavy Duty Rubber Chemical Gloves",
+    "n": "AK-RCG-01 Heavy Duty Rubber Chemical Resistant Gloves",
     "c": "ppe-misc",
     "i": "ppe-misc/ppe-misc-02.jpg",
-    "t": "Acid and alkali resistant long-cuff orange industrial rubber gloves with textured non-slip palm grip"
+    "t": "Heavy-Duty 14\" / 16\" Natural Rubber Gauntlet Gloves • Exceptional Resistance to Acids, Alkalis, Caustic Solvents & Cleaning Chemicals • Textured Diamond Grip Palm"
   },
   {
-    "n": "N95 Protective Foldable Nose Mask",
+    "n": "AK-NM-95 N95 Protective Foldable Nose Mask",
     "c": "ppe-misc",
     "i": "ppe-misc/ppe-misc-03.jpg",
-    "t": "Multi-layer particulate filtering respirator mask with electrostatically charged meltblown filter, adjustable nose clip and head loop"
+    "t": "5-Layer Electrostatic Meltblown Filtering Respirator • > 95% Filtration Efficiency Against Particulates, Dust, Smoke & Pathogens • Adjustable Aluminum Nose Clip with Soft Cushion • Conforms to IS 9473 & NIOSH N95"
   },
   {
-    "n": "Safety Spectacles (Wraparound Anti-Scratch)",
+    "n": "AK-SS-01 Safety Spectacles (Wraparound Anti-Scratch)",
     "c": "ppe-misc",
     "i": "ppe-misc/ppe-misc-04.jpg",
-    "t": "Impact-resistant polycarbonate protective eyewear with 99.9% UV protection and side shield coverage (EN 166)"
+    "t": "Optical Class 1 Polycarbonate Wraparound Safety Glasses • Hard-Coated Anti-Scratch & Anti-UV 400 Lens • Impact Resistant to High-Speed Flying Particles • Conforms to EN 166 & IS 5983"
   },
   {
-    "n": "Industrial Flip-Front Welding Shield",
+    "n": "AK-WS-01 Industrial Flip-Front Welding Shield",
     "c": "ppe-misc",
     "i": "ppe-misc/ppe-misc-05.jpg",
-    "t": "High-impact polypropylene welding helmet with flip-up filter lens holder and adjustable ratchet headgear"
+    "t": "High-Impact Polypropylene Head-Mounted Welding Helmet • Dual Lens System: Clear Chipping Lens + Din 11 Dark Welding Shade • Adjustable Ratchet Headgear with Sweatband • Conforms to IS 1179 & EN 175"
   },
   {
-    "n": "Padded Hearing Protection Ear Muffs",
+    "n": "AK-EM-01 Padded Hearing Protection Ear Muffs",
     "c": "ppe-misc",
     "i": "ppe-misc/ppe-misc-06.jpg",
-    "t": "Lightweight adjustable overhead earmuffs with soft foam-filled cushions for industrial noise reduction (EN 352-1)"
+    "t": "High-Performance Noise Reduction Ear Muffs • Noise Reduction Rating (NRR): 27 dB / SNR 31 dB • Soft Foam-Filled Ear Cushions & Telescopic Padded Headband • Conforms to EN 352-1 & IS 9167"
   },
   {
     "n": "AK-HP-01 Poly-Cotton PVC Dotted Safety Hand Gloves",
     "c": "ppe-misc",
     "i": "ppe-misc/ppe-misc-07.jpg",
-    "t": "Seamless poly-cotton knitted liner with heavy-duty PVC grip dots • High-friction anti-slip palm • Breathable, flexible and washable • Ideal for warehousing, packaging, material handling & general assembly"
+    "t": "Seamless 10-Gauge Poly-Cotton Knitted Liner with Heavy PVC Dotting on Palm & Fingers • Enhanced Grip on Slippery & Oily Components • High Breathability & Abrasion Resistance • Conforms to EN 388 (2141)"
   },
   {
     "n": "AK-HP-02 Crinkled Latex Coated Knitted Work Gloves (Orange / Grey)",
     "c": "ppe-misc",
     "i": "ppe-misc/ppe-misc-08.jpg",
-    "t": "EN 388 Certified • High-grade crinkle textured latex palm coating on 10-gauge poly-cotton shell • Superior grip in wet & dry conditions • Puncture & abrasion resistant for construction and masonry work"
+    "t": "10-Gauge Grey Polyester/Cotton Shell with Thick Orange Crinkled Natural Latex Palm Coating • Outstanding Puncture, Tear & Cut Resistance • Superior Wet & Dry Grip • Conforms to EN 388 (2131)"
   },
   {
     "n": "AK-HP-03 Heavy Latex Coated Low-Lint Work Gloves (Red / Grey)",
     "c": "ppe-misc",
     "i": "ppe-misc/ppe-misc-09.jpg",
-    "t": "EN 388 Certified • 10-gauge low-lint grey knitted yarn with thick textured red latex dip • High tear and abrasion resistance • Ergonomic curved fingers for heavy fabrication, mining & steel handling"
+    "t": "Low-Lint Seamless Knitted Grey Liner with Heavy Red Textured Natural Rubber Latex Palm Coating • Ergonomic Hand Mold for Minimal Hand Fatigue • Ideal for Construction, Stone Handling & Glass Glazing"
   },
   {
     "n": "AK-HP-04 Nitrile Palm-Coated Precision Handling Gloves (Black / Orange)",
     "c": "ppe-misc",
     "i": "ppe-misc/ppe-misc-10.jpg",
-    "t": "EN 388 Certified • 13-gauge seamless nylon/polyester liner with micro-foam nitrile palm coat • Superior tactile sensitivity & oil grip • Excellent breathability for automotive, precision machining & logistics"
+    "t": "13-Gauge High-Dexterity Seamless Polyester/Spandex Liner with Micro-Foam Nitrile Palm Coating • High Tactile Sensitivity for Precision Mechanical Assembly • Resists Oils, Greases & Hydrocarbons • Conforms to EN 388 (4121)"
   },
   {
     "n": "AK-HP-05 75% Back-Dip Nitrile Coated Heavy Industrial Gloves (Blue / Yellow)",
     "c": "ppe-misc",
     "i": "ppe-misc/ppe-misc-11.jpg",
-    "t": "EN 388 Certified • Heavy 3/4 dip liquid-proof blue nitrile coating on durable cotton jersey liner • Enhanced knuckle protection • Resistant to oils, greases, solvents & abrasives in harsh plant environments"
+    "t": "75% Three-Quarter Back-Dip Heavy Blue Nitrile Coating on Heavy Jersey Cotton Liner with Safety Cuff • Complete Barrier Against Heavy Oils, Grease, Metal Filings & Abrasives • Conforms to EN 388 (4221)"
   },
   {
     "n": "AK-HP-06 Extended 7\" Long Cuff Heavy Nitrile Chemical Gloves (Blue)",
     "c": "ppe-misc",
     "i": "ppe-misc/ppe-misc-12.jpg",
-    "t": "EN 388 & EN 374 Certified • 100% industrial nitrile compound with 7-inch extended safety cuff • Protects wrists and forearms against chemical splashes, oils, greases & solvents • Heavy-duty dip with safety gauntlet"
+    "t": "Full Heavy-Duty Blue Nitrile Dip with Extended 7-Inch Canvas Safety Gauntlet Cuff • Total Wrist & Lower Forearm Protection in Heavy Foundry, Chemical Dipping, Machining & Metal Fabrication • Conforms to EN 388 (4232)"
   }
 ]

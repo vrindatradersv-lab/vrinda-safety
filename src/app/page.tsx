@@ -25,19 +25,16 @@ export default function Home() {
             <div className="text-center lg:text-left">
               <span className="inline-flex items-center gap-2 rounded-full border border-brand-200 bg-brand-50 px-3.5 py-1 text-[11px] font-bold uppercase tracking-widest text-brand-600 sm:text-xs">
                 <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-brand-500" />
-                Safety Today, Secure Tomorrow
+                VRINDA SAFETY SOLUTIONS • DELHI NCR
               </span>
-              <h1 className="mt-3.5 font-display text-[32px] font-extrabold leading-[1.1] tracking-tight text-navy-900 sm:mt-4 sm:text-5xl lg:text-6xl">
-                Industrial Safety,
-                <span className="block bg-gradient-to-r from-brand-400 via-brand-500 to-brand-600 bg-clip-text text-transparent">
-                  Handled End-to-End.
+              <h1 className="mt-3.5 font-display text-[30px] font-extrabold leading-[1.15] tracking-tight text-navy-900 sm:mt-4 sm:text-5xl lg:text-[56px]">
+                VRINDA SAFETY SOLUTIONS
+                <span className="block bg-gradient-to-r from-brand-400 via-brand-500 to-brand-600 bg-clip-text text-transparent text-2xl sm:text-3xl lg:text-4xl font-bold mt-2 sm:mt-3">
+                  Industrial PPE &amp; Safety Equipment Manufacturer
                 </span>
               </h1>
               <p className="mx-auto mt-3.5 max-w-xl text-[14px] leading-relaxed text-navy-500 sm:mt-4 sm:text-base lg:mx-0 lg:text-lg">
-                {site.name} manufactures &amp; supplies certified PPE, safety
-                footwear, road safety systems and lockout-tagout — trusted by
-                factories, construction sites and infrastructure teams across
-                Delhi NCR.
+                <strong>VRINDA SAFETY SOLUTIONS</strong> is Delhi NCR&apos;s premier manufacturer, wholesaler &amp; bulk supplier of certified Personal Protective Equipment (PPE), ISI safety helmets, steel toe safety shoes, reflective jackets, full body fall protection harnesses, road safety &amp; LOTO products based in Bawana Industrial Area, New Delhi.
               </p>
               <div className="mt-5 flex flex-col gap-2.5 sm:mt-6 sm:flex-row sm:flex-wrap sm:items-center sm:gap-3.5">
                 <a
@@ -230,6 +227,81 @@ export default function Home() {
                   Official GST invoicing, sample approvals, and custom branding for corporate procurement, EPC contractors, and government tenders.
                 </p>
               </div>
+            </div>
+          </div>
+        </section>
+
+        {/* ─── FAQ SECTION (AEO & GEO BOOST) ────────────────────── */}
+        <section id="faq" className="border-t border-navy-100 bg-navy-50/40 px-4 py-16 sm:px-6 sm:py-20 lg:px-8">
+          <div className="mx-auto max-w-4xl">
+            <div className="text-center">
+              <span className="inline-flex items-center gap-2 rounded-full border border-brand-200 bg-brand-50 px-3.5 py-1 text-[11px] font-bold uppercase tracking-widest text-brand-600 sm:text-xs">
+                Frequently Asked Questions
+              </span>
+              <h2 className="mt-3 font-display text-2xl font-extrabold text-navy-900 sm:text-3xl lg:text-4xl">
+                Everything You Need to Know About VRINDA SAFETY SOLUTIONS
+              </h2>
+              <p className="mx-auto mt-2.5 max-w-2xl text-xs text-navy-500 sm:text-sm">
+                Industrial safety equipment manufacturing, certifications, bulk pricing, and dispatch across Delhi NCR.
+              </p>
+            </div>
+
+            <div className="mt-8 space-y-3.5 sm:mt-10 sm:space-y-4">
+              <details className="group rounded-2xl border border-navy-100 bg-white p-5 shadow-sm transition hover:border-brand-300 [&_summary::-webkit-details-marker]:hidden">
+                <summary className="flex cursor-pointer items-center justify-between font-display text-sm font-bold text-navy-900 sm:text-base">
+                  <span>Who is VRINDA SAFETY SOLUTIONS?</span>
+                  <span className="ml-4 flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-brand-50 text-brand-600 transition group-open:rotate-180">
+                    <svg className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" />
+                    </svg>
+                  </span>
+                </summary>
+                <p className="mt-3 text-xs leading-relaxed text-navy-500 sm:text-sm">
+                  VRINDA SAFETY SOLUTIONS is a premier manufacturer and wholesale bulk supplier of certified Personal Protective Equipment (PPE), industrial safety shoes, ISI-certified safety helmets, reflective jackets, fall protection harnesses, road safety solutions, and LOTO products based in D-303, Bawana Industrial Area Sector-5, New Delhi 110039, serving Delhi NCR and all of India.
+                </p>
+              </details>
+
+              <details className="group rounded-2xl border border-navy-100 bg-white p-5 shadow-sm transition hover:border-brand-300 [&_summary::-webkit-details-marker]:hidden">
+                <summary className="flex cursor-pointer items-center justify-between font-display text-sm font-bold text-navy-900 sm:text-base">
+                  <span>What safety products does Vrinda Safety Solutions manufacture?</span>
+                  <span className="ml-4 flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-brand-50 text-brand-600 transition group-open:rotate-180">
+                    <svg className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" />
+                    </svg>
+                  </span>
+                </summary>
+                <p className="mt-3 text-xs leading-relaxed text-navy-500 sm:text-sm">
+                  We manufacture over 211 certified safety products across 12 specialized categories: Head Protection (ISI Helmets), Foot Protection (Steel-Toe Safety Shoes &amp; PVC Gum Boots), Fall Protection (Full Body Harnesses &amp; Lanyards), Body Protection (High-Vis Vests &amp; Boiler Suits), Hand Protection (Safety Gloves), Eye &amp; Ear Protection, Respiratory Protection, Road Safety, Parking Solutions, Emergency Kits, Lockout Tagout (LOTO), and FRP Electrical Safety Ladders.
+                </p>
+              </details>
+
+              <details className="group rounded-2xl border border-navy-100 bg-white p-5 shadow-sm transition hover:border-brand-300 [&_summary::-webkit-details-marker]:hidden">
+                <summary className="flex cursor-pointer items-center justify-between font-display text-sm font-bold text-navy-900 sm:text-base">
+                  <span>Where is your factory and warehouse located in Delhi NCR?</span>
+                  <span className="ml-4 flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-brand-50 text-brand-600 transition group-open:rotate-180">
+                    <svg className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" />
+                    </svg>
+                  </span>
+                </summary>
+                <p className="mt-3 text-xs leading-relaxed text-navy-500 sm:text-sm">
+                  Our manufacturing unit and central distribution hub is located at D-303, Bawana Industrial Area Sector-5, New Delhi - 110039. We provide same-day or next-day bulk dispatch across Bawana, Narela, Kundli, Rai, Okhla, Mayapuri, Mangolpuri, Gurugram, Manesar, Noida, Greater Noida, and Faridabad.
+                </p>
+              </details>
+
+              <details className="group rounded-2xl border border-navy-100 bg-white p-5 shadow-sm transition hover:border-brand-300 [&_summary::-webkit-details-marker]:hidden">
+                <summary className="flex cursor-pointer items-center justify-between font-display text-sm font-bold text-navy-900 sm:text-base">
+                  <span>How can I place bulk wholesale orders or request samples?</span>
+                  <span className="ml-4 flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-brand-50 text-brand-600 transition group-open:rotate-180">
+                    <svg className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" />
+                    </svg>
+                  </span>
+                </summary>
+                <p className="mt-3 text-xs leading-relaxed text-navy-500 sm:text-sm">
+                  You can call or WhatsApp our sales desk directly at <a href="tel:+919999202008" className="font-bold text-brand-600 hover:underline">+91-9999202008</a>, or email <a href="mailto:Vrindatraderssv@gmail.com" className="font-bold text-brand-600 hover:underline">Vrindatraderssv@gmail.com</a>. We provide formal GST quotations, sample approvals for factory inspections, and custom corporate logo branding on helmets and jackets.
+                </p>
+              </details>
             </div>
           </div>
         </section>

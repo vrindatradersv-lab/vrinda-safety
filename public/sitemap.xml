@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://vrindasafetysolutions.com/</loc>
-    <lastmod>2026-09-06</lastmod>
+    <lastmod>2026-09-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://vrindasafetysolutions.com/#categories</loc>
-    <lastmod>2026-09-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://vrindasafetysolutions.com/#products</loc>
-    <lastmod>2026-09-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://vrindasafetysolutions.com/#contact</loc>
-    <lastmod>2026-09-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://vrindasafetysolutions.com/hero/hero-head.jpg</image:loc>
+      <image:title>VRINDA SAFETY SOLUTIONS - Industrial PPE and Safety Equipment Manufacturer Delhi NCR</image:title>
+      <image:caption>Complete Industrial PPE, Safety Shoes, Helmets, Harnesses, and Safety Equipment</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://vrindasafetysolutions.com/products/head-protection/head-protection-03.jpg</image:loc>
+      <image:title>VRINDA AKH-03 Industrial Safety Helmet Ratchet Type with Ventilators</image:title>
+      <image:caption>ISI Certified Industrial Safety Helmet by Vrinda Safety Solutions</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://vrindasafetysolutions.com/products/foot-protection/foot-protection-01.jpg</image:loc>
+      <image:title>VRINDA Sporty Safety Shoes IS 15298 Certified</image:title>
+      <image:caption>High Durability Steel Toe Industrial Safety Footwear</image:caption>
+    </image:image>
   </url>
 </urlset>

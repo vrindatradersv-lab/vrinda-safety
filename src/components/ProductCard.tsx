@@ -13,7 +13,7 @@ export function ProductCard({ product }: { product: Product }) {
           : 'border-navy-200/70'
       } bg-white shadow-[0_1px_2px_rgba(15,23,42,0.05)] transition-all duration-300 hover:-translate-y-1 hover:border-brand-300 hover:shadow-[0_16px_36px_-16px_rgba(234,88,12,0.28)] active:scale-[0.99]`}
     >
-      <div className="relative flex h-40 items-center justify-center overflow-hidden bg-white p-3 sm:h-44 sm:p-4">
+      <div className="relative flex h-44 sm:h-52 items-center justify-center overflow-hidden bg-white">
         {isNewlyLaunched && (
           <div className="absolute top-2.5 right-2.5 z-10 flex items-center gap-1.5 rounded-full bg-gradient-to-r from-amber-500 via-amber-600 to-brand-600 px-2.5 py-1 text-[9.5px] font-black uppercase tracking-wider text-white shadow-lg shadow-amber-500/40 border border-white/40">
             <span className="relative flex h-2 w-2">
@@ -23,13 +23,15 @@ export function ProductCard({ product }: { product: Product }) {
             <span>⚡ Newly Launched</span>
           </div>
         )}
-        <Image
-          src={product.img}
-          alt={product.name}
-          fill
-          sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw"
-          className="object-contain transition-transform duration-500 group-hover:scale-105"
-        />
+        <div className="relative h-full w-full p-2.5 sm:p-3">
+          <Image
+            src={product.img}
+            alt={product.name}
+            fill
+            sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw"
+            className="object-contain p-2 transition-transform duration-500 group-hover:scale-105"
+          />
+        </div>
       </div>
       <div className="flex flex-1 flex-col gap-1.5 p-3.5 sm:p-4">
         {isNewlyLaunched && (

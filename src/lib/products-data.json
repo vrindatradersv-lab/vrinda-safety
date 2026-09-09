@@ -135,7 +135,7 @@
     "n": "SA-601 High-Visibility Safety Jacket",
     "c": "workwear",
     "i": "workwear/workwear-15.jpg",
-    "t": "Fluorescent Poly Tricot High-Visibility Fabric • 2-Inch Class 2 Micro-Prismatic Reflective Tape (IS 15809:2017) • Heavy-Duty Front Zipper Closure • Lightweight, Highly Breathable & Wash-Resistant"
+    "t": "Fluorescent Poly Tricot High-Visibility Fabric • 2-Inch Class 2 Micro-Prismatic Reflective Tape • Heavy-Duty Front Zipper Closure • Lightweight, Highly Breathable & Wash-Resistant"
   },
   {
     "n": "SA-602 High-Visibility Safety Jacket",
@@ -585,13 +585,13 @@
     "n": "AK-AWS-803 Twisted Rope Vertical Anchorage Line",
     "c": "harnesses",
     "i": "harnesses/harnesses-42.jpg",
-    "t": "14mm Diameter Polyamide 3-Strand Twisted Rope Anchorage Line • Stitched Eye with Thimble & Stop Knot • Available in Lengths: 10m, 20m, 30m, 50m, 100m • Conforms to EN 353-2"
+    "t": "14mm Diameter Polyamide 3-Strand Twisted Rope Anchorage Line • Stitched Eye with Thimble & Stop Knot • Available in Lengths: 10m, 20m, 30m, 50m, 100m"
   },
   {
     "n": "AK-AWS-804 Kernmantle Vertical Anchorage Line",
     "c": "harnesses",
     "i": "harnesses/harnesses-43.jpg",
-    "t": "12mm High-Tenacity Braided Kernmantle Rope Anchorage Line • Excellent Resistance to Chemical Degradation & Sharp Edges • Available in 10m to 100m Lengths • Conforms to EN 353-2"
+    "t": "12mm High-Tenacity Braided Kernmantle Rope Anchorage Line • Excellent Resistance to Chemical Degradation & Sharp Edges • Available in 10m to 100m Lengths"
   },
   {
     "n": "AK-3000 Temporary Horizontal Lifeline System",
@@ -663,7 +663,7 @@
     "n": "AK-NET-001 PPMF Knotless Safety Net for Human Fall Arrest",
     "c": "safety-nets",
     "i": "safety-nets/safety-nets-01.jpg",
-    "t": "Polypropylene Multifilament (PPMF) Knotless Safety Net • 100mm Square Mesh with Exceptional Energy Absorption • Smooth Surface Reduces Friction Abrasion on Falling Workers • Conforms to EN 1263-1 System S & IS 5175"
+    "t": "Polypropylene Multifilament (PPMF) Knotless Safety Net • 100mm Square Mesh with Exceptional Energy Absorption • Smooth Surface Reduces Friction Abrasion on Falling Workers • as per IS 5175"
   },
   {
     "n": "AK-NET-002 PPMF Knotless Safety Net with Monofilament Net (120 GSM)",
@@ -675,13 +675,13 @@
     "n": "AK-NET-003 PPMF Knotless Safety Net with Monofilament Overlay",
     "c": "safety-nets",
     "i": "safety-nets/safety-nets-03.jpg",
-    "t": "Dual-Function Knotless Man & Debris Fall Net • 100mm PPMF Main Mesh with Bound Monofilament Filter Layer • Heat-Set Stabilized Border Rope (12mm) • Conforms to IS 5175 & EN 1263-1"
+    "t": "Dual-Function Knotless Man & Debris Fall Net • 100mm PPMF Main Mesh with Bound Monofilament Filter Layer • Heat-Set Stabilized Border Rope (12mm) • as per IS 5175"
   },
   {
     "n": "AK-NET-004 Fall Protection Safety Net (2mm Double Cord Net)",
     "c": "safety-nets",
     "i": "safety-nets/safety-nets-04.jpg",
-    "t": "2mm Double Cord Polypropylene Braided Net • 100mm x 100mm Diamond / Square Mesh • 12mm High-Tenacity Polypropylene Border Rope • Conforms to IS 5175 & EN 1263-1 • Protects Personnel & Fall Clearance at High Construction Sites"
+    "t": "2mm Double Cord Polypropylene Braided Net • 100mm x 100mm Diamond / Square Mesh • 12mm High-Tenacity Polypropylene Border Rope • as per IS 5175 • Protects Personnel & Fall Clearance at High Construction Sites"
   },
   {
     "n": "AK-NET-005 Double Layer 4mm Braided Net with Containment Net",
@@ -693,25 +693,25 @@
     "n": "AK-NET-006 Double Layer Safety Net (4mm Braided + 120 GSM Monofilament)",
     "c": "safety-nets",
     "i": "safety-nets/safety-nets-06.jpg",
-    "t": "Double Layer Construction Safety Net • Primary 4mm Braided PP Fall Arrest Net (100mm Mesh) • Secondary 120 GSM High-Density Polyethylene Monofilament Debris Net • Traps Both Heavy Equipment & Falling Workers • Conforms to IS 5175"
+    "t": "Double Layer Construction Safety Net • Primary 4mm Braided PP Fall Arrest Net (100mm Mesh) • Secondary 120 GSM High-Density Polyethylene Monofilament Debris Net • Traps Both Heavy Equipment & Falling Workers • as per IS 5175"
   },
   {
     "n": "AK-NET-007 Heavy-Duty Fall Protection Net (2.5mm Braided Net)",
     "c": "safety-nets",
     "i": "safety-nets/safety-nets-07.jpg",
-    "t": "2.5mm Braided PP Safety Net • 100mm Mesh Opening • High-Strength Heat-Set Knots • UV Stabilized for Prolonged Outdoor Sun Exposure • Conforms to IS 5175:2014"
+    "t": "2.5mm Braided PP Safety Net • 100mm Mesh Opening • High-Strength Heat-Set Knots • UV Stabilized for Prolonged Outdoor Sun Exposure • as per IS 5175:2014"
   },
   {
     "n": "AK-NET-008 Double Layer Debris Safety Net (2.5mm Braided + Monofilament Net)",
     "c": "safety-nets",
     "i": "safety-nets/safety-nets-08.jpg",
-    "t": "Dual-Layer Building Protection Net • 2.5mm Braided Fall Protection Mesh Lined with 100 GSM Green Monofilament Fine Mesh • Prevents Falling Screws, Tools & Rubble from Endangering Ground Crews • Conforms to IS 5175"
+    "t": "Dual-Layer Building Protection Net • 2.5mm Braided Fall Protection Mesh Lined with 100 GSM Green Monofilament Fine Mesh • Prevents Falling Screws, Tools & Rubble from Endangering Ground Crews • as per IS 5175"
   },
   {
     "n": "AK-NET-009 Triple Layer Construction Safety Net (4mm + 2.5mm + Containment Net)",
     "c": "safety-nets",
     "i": "safety-nets/safety-nets-09.jpg",
-    "t": "Triple-Layer Engineered Safety Net System • 4mm Braided Heavy Impact Net + 2.5mm Intermediate Buffer Net + Fine Containment Debris Net • Maximum Energy Dispersion for High-Rise Facades • Conforms to IS 5175 & EN 1263-1"
+    "t": "Triple-Layer Engineered Safety Net System • 4mm Braided Heavy Impact Net + 2.5mm Intermediate Buffer Net + Fine Containment Debris Net • Maximum Energy Dispersion for High-Rise Facades • as per IS 5175"
   },
   {
     "n": "AK-NET-010 Double Layer Fall Protection Safety Net (5mm Braided + Containment Net)",

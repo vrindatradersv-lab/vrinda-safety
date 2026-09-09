@@ -135,7 +135,7 @@
     "n": "SA-601 High-Visibility Safety Jacket",
     "c": "workwear",
     "i": "workwear/workwear-15.jpg",
-    "t": "Fluorescent Poly Tricot High-Visibility Fabric • 2-Inch Class 2 Micro-Prismatic Reflective Tape • Heavy-Duty Front Zipper Closure • Lightweight, Highly Breathable & Wash-Resistant"
+    "t": "Fluorescent Poly Tricot High-Visibility Fabric • 2-Inch Class 2 Micro-Prismatic Reflective Tape • Lightweight, Highly Breathable & Wash-Resistant"
   },
   {
     "n": "SA-602 High-Visibility Safety Jacket",
@@ -852,16 +852,34 @@
     "t": "Prismatic Reflective Median Marker for Highway Dividers • Tough Polycarbonate / ABS Body with PMMA Micro-Prismatic Reflective Sheeting • Resists Flying Debris & Vehicle Brushes • Conforms to IRC"
   },
   {
-    "n": "AK-955/959 Guard Rail Delineator Reflectors",
+    "n": "AK-941 Flexible Spring Post Delineator",
     "c": "road-safety",
     "i": "road-safety/road-safety-21.jpg",
-    "t": "Trapezoidal & Circular Crash Barrier Delineators • Mounts Securely on W-Beam Highway Guard Rails • High-Intensity Diamond Grade Retro-Reflective Surface • Conforms to IRC:79 Standards"
+    "t": "Height: 750mm • Pole Dia: 80mm • Base Dia: 200mm • High-Elasticity Polyurethane • 3 High-Intensity Reflective Sleeves (75mm) • Fast Rebound Restoration • Color: Red, Orange"
   },
   {
     "n": "AK-PC-01 Plastic Barrier Chains",
     "c": "road-safety",
     "i": "road-safety/road-safety-22.jpg",
     "t": "Safety Plastic Barrier Chains for Traffic Demarcation • Anchor Type: Thickness 6mm, Length 71mm • S-Type: Thickness 8mm, Length 48mm • Applications: Center Lane Dividing, Diversion of the Roads, Parking Zones, Man at Works Zones, No Entry Zones, Temporary Barricading at Hotels, Hospitals, Railway Stations, Airports, Pumps, Bus Terminals"
+  },
+  {
+    "n": "AK-955 Road Reflector (80mm)",
+    "c": "road-safety",
+    "i": "road-safety/road-safety-23.jpg",
+    "t": "High-Reflection Round Retro-Reflector • Diameter: 80mm • Hermetically Sealed Base Plate Resists Dust & Water • High Visibility in Dark & Fog Conditions • Color: Amber, Red"
+  },
+  {
+    "n": "AK-956 Road Reflector with Rim (145mm)",
+    "c": "road-safety",
+    "i": "road-safety/road-safety-24.jpg",
+    "t": "High-Reflection Round Retro-Reflector with Protective Rim • Diameter: 145mm • Sealed Base Plate with Mounting Holes • Heavy-Duty Highway & Vehicle Delineation • Color: Amber, Red"
+  },
+  {
+    "n": "AK-959 Triangular Road Reflector (150mm)",
+    "c": "road-safety",
+    "i": "road-safety/road-safety-25.jpg",
+    "t": "High-Intensity Triangular Retro-Reflector • Dimensions: 150 x 150 x 150 mm • Pre-Drilled Screw Mounting Holes • Long-Distance Nighttime Carriageway Visibility • Color: Amber, Red"
   },
   {
     "n": "AK-SL-01 Rubber Wheel Stopper (500mm)",
